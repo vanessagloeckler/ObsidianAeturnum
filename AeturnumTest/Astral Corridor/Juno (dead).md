@@ -1,1 +1,0 @@
-The Navigator from the Prologue session that was supposed to find us. Belonged to the [[Navigators Guild]].

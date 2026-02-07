@@ -1,2 +1,0 @@
-Telepath that was stationed in the Lamprow Communications tower. Was healed from the bloodkin curse with a greater restoration potion and then contacted the 9  to learn about the lance. 
-Died in the tower while attempting to escape from bloodkin, having her throat ripped out.

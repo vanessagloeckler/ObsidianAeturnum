@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AeturnumTest2/AeturnumTest/New Entry.md",
+                "file": "Vaults/AeturnumTest/New Entry.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AeturnumTest2/AeturnumTest/New Entry.md",
+                "file": "Vaults/AeturnumTest/New Entry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AeturnumTest2/AeturnumTest/New Entry.md",
+                "file": "Vaults/AeturnumTest/New Entry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AeturnumTest2/AeturnumTest/New Entry.md",
+                "file": "Vaults/AeturnumTest/New Entry.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -194,40 +194,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a51acfe6ade944e2",
+  "active": "0c01d4d7a5f1b8e3",
   "lastOpenFiles": [
-    "AeturnumTest2/AeturnumTest/New Entry.md",
-    "AeturnumTest2/README.md",
-    "AeturnumTest2/AeturnumTest/The outlands/Wilfry.md",
-    "AeturnumTest2/AeturnumTest/The outlands/The Watering Hole.md",
-    "AeturnumTest2/AeturnumTest/The outlands/Shrine to the Blood God.md",
-    "AeturnumTest2/AeturnumTest/The outlands/Outlands.md",
-    "AeturnumTest2/AeturnumTest/The outlands/Joan.md",
-    "AeturnumTest2/AeturnumTest/The outlands/Hemlock Coast.md",
-    "AeturnumTest2/AeturnumTest/The outlands/Hemlock (Location).md",
-    "AeturnumTest2/AeturnumTest/The outlands/Chaharakail.md",
-    "AeturnumTest2/AeturnumTest/The outlands/Bryn.md",
-    "AeturnumTest2/AeturnumTest/The outlands/Alvorn.md",
-    "AeturnumTest2/AeturnumTest/The outlands",
-    "AeturnumTest2/AeturnumTest/Quest/Quest.md",
-    "AeturnumTest2/AeturnumTest/Quest/Lumian Knights.md",
-    "AeturnumTest2/AeturnumTest/Quest/Lucricious (noble).md",
-    "AeturnumTest2/AeturnumTest/Quest/Hemwick Ladies.md",
-    "AeturnumTest2/AeturnumTest/Quest/Crystaline Matrix.md",
-    "AeturnumTest2/AeturnumTest/Quest/Burnt Lyra.md",
-    "AeturnumTest2/AeturnumTest/Quest/Argent Dawn (ship).md",
-    "AeturnumTest2/AeturnumTest/Quest/AM771 03.md",
-    "AeturnumTest2/AeturnumTest/Quest/Acassius.md",
-    "AeturnumTest2/AeturnumTest/Quest",
-    "AeturnumTest2/AeturnumTest/Guilds/The contract.md",
-    "AeturnumTest2/AeturnumTest/Guilds/The Nine.md",
-    "AeturnumTest2/AeturnumTest/Guilds/The Attendant.md",
-    "AeturnumTest2/AeturnumTest/Guilds/Sovereign (Currency).md",
-    "AeturnumTest2/AeturnumTest/Guilds/First Huntress Kora.md",
-    "AeturnumTest2/AeturnumTest/Guilds",
-    "AeturnumTest2/AeturnumTest/Bloodtide",
-    "AeturnumTest2/AeturnumTest/Astral Corridor",
-    "AeturnumTest2/AeturnumTest",
-    "AeturnumTest2"
+    "Vaults/AeturnumTest/New Entry.md",
+    "Vaults/README.md",
+    "Vaults/AeturnumTest/The outlands/Wilfry.md",
+    "Vaults/AeturnumTest/The outlands/The Watering Hole.md",
+    "Vaults/AeturnumTest/The outlands/Shrine to the Blood God.md",
+    "Vaults/AeturnumTest/The outlands/Outlands.md",
+    "Vaults/AeturnumTest/The outlands/Joan.md",
+    "Vaults/AeturnumTest/The outlands/Hemlock Coast.md",
+    "Vaults/AeturnumTest/The outlands/Hemlock (Location).md",
+    "Vaults/AeturnumTest/The outlands/Chaharakail.md",
+    "Vaults/AeturnumTest/The outlands/Bryn.md",
+    "Vaults/AeturnumTest/The outlands/Alvorn.md",
+    "Vaults/AeturnumTest/The outlands",
+    "Vaults/AeturnumTest/Quest/Quest.md",
+    "Vaults/AeturnumTest/Quest/Lumian Knights.md",
+    "Vaults/AeturnumTest/Quest/Lucricious (noble).md",
+    "Vaults/AeturnumTest/Quest/Hemwick Ladies.md",
+    "Vaults/AeturnumTest/Quest/Crystaline Matrix.md",
+    "Vaults/AeturnumTest/Quest/Burnt Lyra.md",
+    "Vaults/AeturnumTest/Quest/Argent Dawn (ship).md",
+    "Vaults/AeturnumTest/Quest/AM771 03.md",
+    "Vaults/AeturnumTest/Quest/Acassius.md",
+    "Vaults/AeturnumTest/Quest",
+    "Vaults/AeturnumTest/Guilds/The contract.md",
+    "Vaults/AeturnumTest/Guilds/The Nine.md",
+    "Vaults/AeturnumTest/Guilds/The Attendant.md",
+    "Vaults/AeturnumTest/Guilds/Sovereign (Currency).md",
+    "Vaults/AeturnumTest/Guilds/First Huntress Kora.md",
+    "Vaults/AeturnumTest/Guilds",
+    "Vaults/AeturnumTest/Bloodtide",
+    "Vaults/AeturnumTest/Astral Corridor",
+    "Vaults/AeturnumTest",
+    "Vaults"
   ]
 }

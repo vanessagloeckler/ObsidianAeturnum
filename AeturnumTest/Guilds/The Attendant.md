@@ -1,1 +1,0 @@
-The person that is supposed to look after the lighthouse near [[Aldwich Academy]]

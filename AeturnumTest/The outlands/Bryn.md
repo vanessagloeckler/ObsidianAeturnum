@@ -1,1 +1,0 @@
-Seargant at the entry to [[Hemlock (Location)]]

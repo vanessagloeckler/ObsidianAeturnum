@@ -1,1 +1,0 @@
-Appeared near [[Hemlock]] dedicated to [[Outer God of Blood]]. We were told it would peacefully dissapear again should we not "pick at the scab". Looking like a Cairn.

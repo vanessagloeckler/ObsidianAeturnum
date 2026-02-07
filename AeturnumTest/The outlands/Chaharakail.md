@@ -1,1 +1,0 @@
-Stonesclupting minotaur, connected with the earth trying to free things from stone. Wears a Marble Diadem, Turns people into stone when looking at them.

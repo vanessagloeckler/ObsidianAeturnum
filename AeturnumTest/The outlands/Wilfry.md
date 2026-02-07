@@ -1,1 +1,0 @@
-[[Outlands]] guide in [[Hemlock (Location)]]. Colelague of [[Alvorn]] and [[Joan]]. One of the guides that found the [[Shrine to the Blood God]]

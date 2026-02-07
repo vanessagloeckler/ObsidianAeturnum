@@ -1,1 +1,0 @@
-Used in a lighthouse near [[Aldwitch Academy]].

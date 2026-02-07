@@ -1,1 +1,0 @@
-Librarian that is said to be the heart of the [[Occultist Guild]]
