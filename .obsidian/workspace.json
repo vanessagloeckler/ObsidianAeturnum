@@ -11,10 +11,14 @@
             "id": "a51acfe6ade944e2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AeturnumTest2/AeturnumTest/New Entry.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "New Entry"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AeturnumTest2/AeturnumTest/New Entry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for New Entry"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AeturnumTest2/AeturnumTest/New Entry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from New Entry"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "AeturnumTest2/AeturnumTest/New Entry.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of New Entry"
             }
           },
           {
@@ -187,6 +194,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c01d4d7a5f1b8e3",
-  "lastOpenFiles": []
+  "active": "a51acfe6ade944e2",
+  "lastOpenFiles": [
+    "AeturnumTest2/AeturnumTest/New Entry.md",
+    "AeturnumTest2/README.md",
+    "AeturnumTest2/AeturnumTest/The outlands/Wilfry.md",
+    "AeturnumTest2/AeturnumTest/The outlands/The Watering Hole.md",
+    "AeturnumTest2/AeturnumTest/The outlands/Shrine to the Blood God.md",
+    "AeturnumTest2/AeturnumTest/The outlands/Outlands.md",
+    "AeturnumTest2/AeturnumTest/The outlands/Joan.md",
+    "AeturnumTest2/AeturnumTest/The outlands/Hemlock Coast.md",
+    "AeturnumTest2/AeturnumTest/The outlands/Hemlock (Location).md",
+    "AeturnumTest2/AeturnumTest/The outlands/Chaharakail.md",
+    "AeturnumTest2/AeturnumTest/The outlands/Bryn.md",
+    "AeturnumTest2/AeturnumTest/The outlands/Alvorn.md",
+    "AeturnumTest2/AeturnumTest/The outlands",
+    "AeturnumTest2/AeturnumTest/Quest/Quest.md",
+    "AeturnumTest2/AeturnumTest/Quest/Lumian Knights.md",
+    "AeturnumTest2/AeturnumTest/Quest/Lucricious (noble).md",
+    "AeturnumTest2/AeturnumTest/Quest/Hemwick Ladies.md",
+    "AeturnumTest2/AeturnumTest/Quest/Crystaline Matrix.md",
+    "AeturnumTest2/AeturnumTest/Quest/Burnt Lyra.md",
+    "AeturnumTest2/AeturnumTest/Quest/Argent Dawn (ship).md",
+    "AeturnumTest2/AeturnumTest/Quest/AM771 03.md",
+    "AeturnumTest2/AeturnumTest/Quest/Acassius.md",
+    "AeturnumTest2/AeturnumTest/Quest",
+    "AeturnumTest2/AeturnumTest/Guilds/The contract.md",
+    "AeturnumTest2/AeturnumTest/Guilds/The Nine.md",
+    "AeturnumTest2/AeturnumTest/Guilds/The Attendant.md",
+    "AeturnumTest2/AeturnumTest/Guilds/Sovereign (Currency).md",
+    "AeturnumTest2/AeturnumTest/Guilds/First Huntress Kora.md",
+    "AeturnumTest2/AeturnumTest/Guilds",
+    "AeturnumTest2/AeturnumTest/Bloodtide",
+    "AeturnumTest2/AeturnumTest/Astral Corridor",
+    "AeturnumTest2/AeturnumTest",
+    "AeturnumTest2"
+  ]
 }
