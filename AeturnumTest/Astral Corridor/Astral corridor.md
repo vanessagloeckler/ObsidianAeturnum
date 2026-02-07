@@ -1,0 +1,8 @@
+[[Black Monolith]]
+[[Eventide (sword)]]
+[[Harmonic Stabilizer]]
+[[Juno (dead)]]
+[[Navigators Guild]]
+[[Paladin Ulfrie]]
+[[Paladin Mirana Santa Clarita]]
+[[The Witness]]

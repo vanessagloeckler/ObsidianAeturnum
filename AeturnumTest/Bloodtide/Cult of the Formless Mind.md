@@ -1,0 +1,1 @@
+Connected to the [[Shrine to the Blood God]]

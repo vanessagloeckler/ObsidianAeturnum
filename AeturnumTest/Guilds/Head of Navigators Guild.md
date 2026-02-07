@@ -1,0 +1,1 @@
+Belongs to the [[Navigators Guild]] that we signed [[The contract]] with to reimburse the [[Sovereign (Currency)]] costs of reinstatement after we died in the[[Astral corridor]]

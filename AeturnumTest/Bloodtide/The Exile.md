@@ -1,0 +1,1 @@
+Apostate mage that made a pact with the [[Outer God of Blood]] to get powers. Tries to create an Army of [[Bloodkin]].
