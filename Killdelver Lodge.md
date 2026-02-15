@@ -1,0 +1,3 @@
+- North of [[Lamprow]]
+- Used to defens [[Lamprow]]from horde of [[Bloodkin]]
+- Owners [[Bragi Killdelver]] and [[Storn Killdelver]] (dead now)

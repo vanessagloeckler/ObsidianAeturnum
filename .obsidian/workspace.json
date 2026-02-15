@@ -198,7 +198,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Borok.md",
+                "file": "Vaults/AeturnumTest/Bloodtide/Borok.md",
                 "mode": "source",
                 "source": false
               },
@@ -212,7 +212,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Black Tower.md",
+                "file": "Vaults/AeturnumTest/Bloodtide/Black Tower.md",
                 "mode": "source",
                 "source": false
               },
@@ -240,16 +240,590 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Black Church.md",
+                "file": "Vaults/AeturnumTest/Bloodtide/Black Church.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Black Church"
             }
+          },
+          {
+            "id": "0de8a5c301d72be1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Cassandra (Justicar Leader).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cassandra (Justicar Leader)"
+            }
+          },
+          {
+            "id": "2cc71ae7c59853d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Cursed iron.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cursed iron"
+            }
+          },
+          {
+            "id": "400a3c5f50391041",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Circle of the Firmament.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Circle of the Firmament"
+            }
+          },
+          {
+            "id": "40723efbac95bb74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Elias Jassin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Elias Jassin"
+            }
+          },
+          {
+            "id": "b7e4b54c27026ead",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/The Collapse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Collapse"
+            }
+          },
+          {
+            "id": "cf35c3620e475edd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Cecil Ashcroft.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cecil Ashcroft"
+            }
+          },
+          {
+            "id": "7516c49cabc8b4c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Crystaline Matrix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Crystaline Matrix"
+            }
+          },
+          {
+            "id": "b59d5fe808af19f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Archdragon Medea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Archdragon Medea"
+            }
+          },
+          {
+            "id": "b677dc77d990984a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Century Nine Lander.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Century Nine Lander"
+            }
+          },
+          {
+            "id": "253f1d585e72bb9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Great Chasm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Great Chasm"
+            }
+          },
+          {
+            "id": "855ae1b117cc2233",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Coroner Sibuse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Coroner Sibuse"
+            }
+          },
+          {
+            "id": "22d8559b826b56a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Theft of the godflesh.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Theft of the godflesh"
+            }
+          },
+          {
+            "id": "2f690cd4d1aa5e37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/(Project) Ember.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(Project) Ember"
+            }
+          },
+          {
+            "id": "0ad2102ab63e2602",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Acolyte.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Acolyte"
+            }
+          },
+          {
+            "id": "4914b3564935ed9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Eyeblights.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eyeblights"
+            }
+          },
+          {
+            "id": "2757c80545f0b0a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Elias Jassin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Elias Jassin"
+            }
+          },
+          {
+            "id": "c0cde87ee58ca6af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Enclave.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Enclave"
+            }
+          },
+          {
+            "id": "e2c79635ee844e99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Keepers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Keepers"
+            }
+          },
+          {
+            "id": "4b6ea5fcb4bf5fa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/First Spear Leiran.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "First Spear Leiran"
+            }
+          },
+          {
+            "id": "a9f41eb52d424ce4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Fox Masked people.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fox Masked people"
+            }
+          },
+          {
+            "id": "55c2039a8a1be379",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Framed Photo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Framed Photo"
+            }
+          },
+          {
+            "id": "384fcd5d8bcf0617",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Guilds/First Huntress Cara.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "First Huntress Cara"
+            }
+          },
+          {
+            "id": "838104d4b502265c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Green Stuff.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Green Stuff"
+            }
+          },
+          {
+            "id": "c67dea9f318fc113",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Godflesh.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Godflesh"
+            }
+          },
+          {
+            "id": "876fa86d1924bc1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/The Gothic Cathedral.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Gothic Cathedral"
+            }
+          },
+          {
+            "id": "f46cb8382894c88a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Miria (Godvessel).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Miria (Godvessel)"
+            }
+          },
+          {
+            "id": "e11afa774c386533",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Godvessel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Godvessel"
+            }
+          },
+          {
+            "id": "a08e207efd170e8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/High Exalt Lathriel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "High Exalt Lathriel"
+            }
+          },
+          {
+            "id": "ef30c430684d23af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/The outlands/Hemlock (Location).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hemlock (Location)"
+            }
+          },
+          {
+            "id": "e44d849bf874672e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Hermeia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hermeia"
+            }
+          },
+          {
+            "id": "902a17fc764328b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/The Gothic Cathedral.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Gothic Cathedral"
+            }
+          },
+          {
+            "id": "cd1803b7de4a8318",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Imara sea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Imara sea"
+            }
+          },
+          {
+            "id": "3b99de7f9079fd0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Professor Iksander.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Professor Iksander"
+            }
+          },
+          {
+            "id": "a6d6f1047ad5e053",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Institute for Paracausal Research.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Institute for Paracausal Research"
+            }
+          },
+          {
+            "id": "5c36c13488c510af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Juliana Thorton (mayor).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Juliana Thorton (mayor)"
+            }
+          },
+          {
+            "id": "e03884defef2aa0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/The outlands/Joanna.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Joanna"
+            }
+          },
+          {
+            "id": "91b7364bd36ba7a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Big Jac.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Big Jac"
+            }
+          },
+          {
+            "id": "eb107b7742370a9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Keepers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Keepers"
+            }
+          },
+          {
+            "id": "a2d111db5069c881",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kastia Tal'Shen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kastia Tal'Shen"
+            }
+          },
+          {
+            "id": "561c44e5d01e0a07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kastia Tal'Shen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kastia Tal'Shen"
+            }
+          },
+          {
+            "id": "79cdc7546b578445",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lycithia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lycithia"
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 57
       }
     ],
     "direction": "vertical"
@@ -281,7 +855,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "black church",
+                "query": "kasti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -422,34 +996,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84526ac04edb369f",
+  "active": "79cdc7546b578445",
   "lastOpenFiles": [
-    "Vaults/AeturnumTest/The outlands/Bryn.md",
-    "Black Church.md",
-    "The Boundary.md",
-    "Black Tower.md",
-    "Borok.md",
-    "Vaults/AeturnumTest/Bloodtide/Blood Mage.md",
-    "Vaults/AeturnumTest/Bloodtide/Ageron.md",
-    "Vaults/AeturnumTest/Bloodtide/Blake (Geneticist).md",
-    "Vaults/AeturnumTest/Bloodtide/Bloodkin.md",
-    "Vaults/AeturnumTest/Bloodtide/Antimatter Lance.md",
-    "Vaults/AeturnumTest/Bloodtide/Black Door.md",
-    "Vaults/AeturnumTest/Bloodtide/Acolyte.md",
-    "Vaults/AeturnumTest/Bloodtide/Adrestia.md",
-    "Vaults/AeturnumTest/Quest/Argent Dawn (ship).md",
-    "Vaults/AeturnumTest/Guilds/Agnes (Librarian).md",
-    "Vaults/AeturnumTest/Bloodtide/Alexander Carvelle.md",
-    "Vaults/AeturnumTest/Guilds/The Attendant.md",
-    "Vaults/AeturnumTest/Bloodtide/Aldwich Academy.md",
+    "Kastia Tal'Shen.md",
+    "Lycithia.md",
+    "Vaults/AeturnumTest/Guilds/Kahdaj Kandera (Occultist leader).md",
+    "Killdelver Lodge.md",
+    "Vaults/AeturnumTest/Bloodtide/Keepers.md",
+    "Vaults/AeturnumTest/Bloodtide/Kasanova.md",
+    "Katja.md",
+    "Big Jac.md",
     "Vaults/AeturnumTest/The outlands/Joanna.md",
-    "Vaults/AeturnumTest/The outlands/Alvorn.md",
-    "Vaults/AeturnumTest/Guilds/Apollon.md",
-    "Vaults/AeturnumTest/Astral Corridor/Paladin Ailfric.md",
-    "Vaults/AeturnumTest/Astral Corridor/Astral corridor.md",
-    "Vaults/AeturnumTest/Bloodtide/The Archives.md",
-    "Vaults/AeturnumTest/Bloodtide/The Apartment.md",
-    "Vaults/AeturnumTest/Bloodtide/Almire Academy.md",
+    "Vaults/AeturnumTest/Guilds/Justicar Guild.md",
+    "Vaults/AeturnumTest/Bloodtide/Juliana Thorton (mayor).md",
+    "Julius Thornton.md",
+    "Vaults/AeturnumTest/Bloodtide/Bloodkin.md",
+    "Vaults/AeturnumTest/Astral Corridor/Juno (dead).md",
+    "Untitled.md",
+    "Institute for Paracausal Research.md",
+    "Professor Iksander.md",
+    "Imara sea.md",
+    "Vaults/AeturnumTest/Bloodtide/The Gothic Cathedral.md",
+    "Vaults/AeturnumTest/Bloodtide/Agera Collective.md",
+    "Vaults/AeturnumTest/Bloodtide/Harmonic stabilizer.md",
+    "Vaults/AeturnumTest/Bloodtide/Hermeia.md",
+    "Vaults/AeturnumTest/The outlands/Hemlock (Location).md",
+    "Vaults/AeturnumTest/The outlands/The Watering Hole.md",
+    "Vaults/AeturnumTest/The outlands/Shrine to the Blood God.md",
+    "Vaults/AeturnumTest/Bloodtide/Bloodkin Hive.md",
     "Untitled.canvas",
     "Vaults/AeturnumTest/The outlands",
     "Vaults/AeturnumTest/Quest",
