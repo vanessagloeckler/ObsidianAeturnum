@@ -1,0 +1,2 @@
+- Last Tomb keeper of [[St. Moira]]
+- Sacrificed himself with [[Moranna]] to save the [[Riftborn]]

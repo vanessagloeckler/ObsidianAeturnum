@@ -11,13 +11,245 @@
             "id": "a51acfe6ade944e2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "f0e93ed8a80a0eee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Guilds/AEGIS.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "AEGIS"
+            }
+          },
+          {
+            "id": "6ff60656a47cc260",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Antimatter Lance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Antimatter Lance"
+            }
+          },
+          {
+            "id": "e07fc0e66440a6c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Arcanotech.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arcanotech"
+            }
+          },
+          {
+            "id": "e588d179c27aefed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Aurora.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aurora"
+            }
+          },
+          {
+            "id": "460280eded90b664",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Astral Corridor/Astral corridor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Astral corridor"
+            }
+          },
+          {
+            "id": "d40247100fed7f8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Almire Academy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Almire Academy"
+            }
+          },
+          {
+            "id": "c46e2e12ae42ebf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/The Apartment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Apartment"
+            }
+          },
+          {
+            "id": "a34a6739a780dae1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/The Archives.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Archives"
+            }
+          },
+          {
+            "id": "f49ec889d101b0ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Guilds/Agnes (Librarian).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Agnes (Librarian)"
+            }
+          },
+          {
+            "id": "1cc7cbed55388fda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Quest/Argent Dawn (ship).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Argent Dawn (ship)"
+            }
+          },
+          {
+            "id": "f5255546791dcc9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Acolyte.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Acolyte"
+            }
+          },
+          {
+            "id": "2f55efb0e44b124e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Blood Mage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Blood Mage"
+            }
+          },
+          {
+            "id": "457c1597308d03f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Borok.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Borok"
+            }
+          },
+          {
+            "id": "5b78ecbba194f18b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Black Tower.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Black Tower"
+            }
+          },
+          {
+            "id": "9108ca31314486ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/The outlands/Bryn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bryn"
+            }
+          },
+          {
+            "id": "84526ac04edb369f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Black Church.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Black Church"
             }
           }
-        ]
+        ],
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -49,7 +281,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "black church",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,36 +422,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c01d4d7a5f1b8e3",
+  "active": "84526ac04edb369f",
   "lastOpenFiles": [
-    "Vaults/AeturnumTest/New Entry.md",
-    "Vaults/README.md",
-    "Vaults/AeturnumTest/The outlands/Wilfry.md",
-    "Vaults/AeturnumTest/The outlands/The Watering Hole.md",
-    "Vaults/AeturnumTest/The outlands/Shrine to the Blood God.md",
-    "Vaults/AeturnumTest/The outlands/Outlands.md",
-    "Vaults/AeturnumTest/The outlands/Joan.md",
-    "Vaults/AeturnumTest/The outlands/Hemlock Coast.md",
-    "Vaults/AeturnumTest/The outlands/Hemlock (Location).md",
-    "Vaults/AeturnumTest/The outlands/Chaharakail.md",
     "Vaults/AeturnumTest/The outlands/Bryn.md",
-    "Vaults/AeturnumTest/The outlands/Alvorn.md",
-    "Vaults/AeturnumTest/The outlands",
-    "Vaults/AeturnumTest/Quest/Quest.md",
-    "Vaults/AeturnumTest/Quest/Lumian Knights.md",
-    "Vaults/AeturnumTest/Quest/Lucricious (noble).md",
-    "Vaults/AeturnumTest/Quest/Hemwick Ladies.md",
-    "Vaults/AeturnumTest/Quest/Crystaline Matrix.md",
-    "Vaults/AeturnumTest/Quest/Burnt Lyra.md",
+    "Black Church.md",
+    "The Boundary.md",
+    "Black Tower.md",
+    "Borok.md",
+    "Vaults/AeturnumTest/Bloodtide/Blood Mage.md",
+    "Vaults/AeturnumTest/Bloodtide/Ageron.md",
+    "Vaults/AeturnumTest/Bloodtide/Blake (Geneticist).md",
+    "Vaults/AeturnumTest/Bloodtide/Bloodkin.md",
+    "Vaults/AeturnumTest/Bloodtide/Antimatter Lance.md",
+    "Vaults/AeturnumTest/Bloodtide/Black Door.md",
+    "Vaults/AeturnumTest/Bloodtide/Acolyte.md",
+    "Vaults/AeturnumTest/Bloodtide/Adrestia.md",
     "Vaults/AeturnumTest/Quest/Argent Dawn (ship).md",
-    "Vaults/AeturnumTest/Quest/AM771 03.md",
-    "Vaults/AeturnumTest/Quest/Acassius.md",
-    "Vaults/AeturnumTest/Quest",
-    "Vaults/AeturnumTest/Guilds/The contract.md",
-    "Vaults/AeturnumTest/Guilds/The Nine.md",
+    "Vaults/AeturnumTest/Guilds/Agnes (Librarian).md",
+    "Vaults/AeturnumTest/Bloodtide/Alexander Carvelle.md",
     "Vaults/AeturnumTest/Guilds/The Attendant.md",
-    "Vaults/AeturnumTest/Guilds/Sovereign (Currency).md",
-    "Vaults/AeturnumTest/Guilds/First Huntress Kora.md",
+    "Vaults/AeturnumTest/Bloodtide/Aldwich Academy.md",
+    "Vaults/AeturnumTest/The outlands/Joanna.md",
+    "Vaults/AeturnumTest/The outlands/Alvorn.md",
+    "Vaults/AeturnumTest/Guilds/Apollon.md",
+    "Vaults/AeturnumTest/Astral Corridor/Paladin Ailfric.md",
+    "Vaults/AeturnumTest/Astral Corridor/Astral corridor.md",
+    "Vaults/AeturnumTest/Bloodtide/The Archives.md",
+    "Vaults/AeturnumTest/Bloodtide/The Apartment.md",
+    "Vaults/AeturnumTest/Bloodtide/Almire Academy.md",
+    "Untitled.canvas",
+    "Vaults/AeturnumTest/The outlands",
+    "Vaults/AeturnumTest/Quest",
     "Vaults/AeturnumTest/Guilds",
     "Vaults/AeturnumTest/Bloodtide",
     "Vaults/AeturnumTest/Astral Corridor",
