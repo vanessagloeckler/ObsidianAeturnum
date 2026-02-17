@@ -1,3 +1,0 @@
-- half-elf
--  apprentice hunter
-- bitten by bloodkin (amputated to remedy)

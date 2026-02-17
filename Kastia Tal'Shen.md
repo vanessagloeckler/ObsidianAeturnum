@@ -1,7 +1,0 @@
-- Former [[Justicar Guild]] member (aspiring and morally flexible blade)
-- Stripped of Rank after [[Paradise Club]] event (later discovered to be caused by her sister [[Ves Tal'Shen]])
-- Then exiled as a [[Black Cloak]]
-- Now [[Eilodon]] member
-- Red skinned tiefling
-- sister to [[Ves Tal'Shen]]
-- Grew up in [[Undercity]] fighting arena 
