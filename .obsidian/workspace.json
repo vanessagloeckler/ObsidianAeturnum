@@ -41,12 +41,194 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vaults/AeturnumTest/Bloodtide/Surge.md",
+                "file": "Vaults/AeturnumTest/Astral Corridor/The Witness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Surge"
+              "title": "The Witness"
+            }
+          },
+          {
+            "id": "4c873c8e42e48ff1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Saint Moira.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Saint Moira"
+            }
+          },
+          {
+            "id": "af51f698ac4e5717",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Severance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Severance"
+            }
+          },
+          {
+            "id": "5ebedcc76716dcdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Scions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scions"
+            }
+          },
+          {
+            "id": "4919397a64a433fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Scribe Novitate Astra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scribe Novitate Astra"
+            }
+          },
+          {
+            "id": "c553b56e4f99a810",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Guilds/Seekers Guild.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Seekers Guild"
+            }
+          },
+          {
+            "id": "95f41fd7b756ab78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Serran.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Serran"
+            }
+          },
+          {
+            "id": "08e111fb9f11e893",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Surgeons.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Surgeons"
+            }
+          },
+          {
+            "id": "dd8d27b1234ad545",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Themis XIII.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Themis XIII"
+            }
+          },
+          {
+            "id": "e72317dc651afdb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Theft of the godflesh.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Theft of the godflesh"
+            }
+          },
+          {
+            "id": "a0da6728dfd04cff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/The outlands/Wilfry.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wilfry"
+            }
+          },
+          {
+            "id": "3ba5fc024ab082e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Rosaria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rosaria"
+            }
+          },
+          {
+            "id": "f34e201b208ff9d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Wastes (location).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wastes (location)"
+            }
+          },
+          {
+            "id": "9d02ac2e55e38e9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/AeturnumTest/Bloodtide/Whitecliff.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Whitecliff"
             }
           },
           {
@@ -55,16 +237,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Vaults/AeturnumTest/Bloodtide/Tallis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Tallis"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -96,7 +278,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sierra",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -237,34 +419,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3990882edf2e64a1",
+  "active": "0c01d4d7a5f1b8e3",
   "lastOpenFiles": [
-    "Vaults/AeturnumTest/Bloodtide/Reality Engines.md",
-    "Vaults/AeturnumTest/Bloodtide/Four rules of magic.md",
-    "Vaults/AeturnumTest/Bloodtide/Surge.md",
-    "Vaults/AeturnumTest/Bloodtide/Tybar Syndicate.md",
-    "Untitled.md",
-    "Vaults/AeturnumTest/Bloodtide/Sylvana.md",
-    "Vaults/AeturnumTest/Bloodtide/Sierra.md",
-    "Vaults/AeturnumTest/Astral Corridor/Juno (dead).md",
-    "Vaults/AeturnumTest/Bloodtide/Quintus.md",
-    "Vaults/AeturnumTest/Bloodtide/Riftborn.md",
-    "Vaults/AeturnumTest/Bloodtide/Elias Jassin.md",
-    "Vaults/AeturnumTest/Bloodtide/Red Isles.md",
-    "Vaults/AeturnumTest/Bloodtide/Adrestia.md",
-    "Vaults/AeturnumTest/Guilds/Mechanist Guild.md",
-    "Vaults/AeturnumTest/Bloodtide/Miria (Godvessel).md",
-    "Vaults/AeturnumTest/Bloodtide/Mortimer Hall.md",
-    "Vaults/AeturnumTest/Bloodtide/Lumian Knights.md",
+    "Vaults/AeturnumTest/Bloodtide/32nd recon division.md",
+    "Vaults/AeturnumTest/Bloodtide/Pale Legion.md",
+    "Vaults/AeturnumTest/Bloodtide/Pale Doctor.md",
+    "Vaults/AeturnumTest/Bloodtide/Enclave.md",
+    "Vaults/AeturnumTest/Guilds/Pale doctor.md",
+    "Vaults/AeturnumTest/Bloodtide/Circle of the Fundament.md",
+    "Vaults/AeturnumTest/Quest/Lucricious (noble).md",
     "Vaults/AeturnumTest/Bloodtide/Lucricious.md",
-    "Vaults/AeturnumTest/Guilds/Light of Hermeia.md",
-    "Vaults/AeturnumTest/Bloodtide/Lorn - God of Harvest.md",
-    "Vaults/AeturnumTest/Bloodtide/Lyria.md",
-    "Vaults/AeturnumTest/Bloodtide/Keepers.md",
-    "Vaults/AeturnumTest/The outlands/Joanna.md",
-    "Vaults/AeturnumTest/Bloodtide/Juliana Thorton (mayor).md",
-    "Vaults/AeturnumTest/Bloodtide/The Gothic Cathedral.md",
-    "Vaults/AeturnumTest/Bloodtide/Hermeia.md",
+    "Vaults/AeturnumTest/Bloodtide/Vendrik.md",
+    "Vaults/AeturnumTest/Bloodtide/Wastes (location).md",
+    "Vaults/AeturnumTest/Bloodtide/Rosaria.md",
+    "Vaults/AeturnumTest/Bloodtide/Agent 776.md",
+    "Vaults/AeturnumTest/Bloodtide/High Exalt Lathriel.md",
+    "Vaults/AeturnumTest/Bloodtide/Whitecliff.md",
+    "Vaults/AeturnumTest/The outlands/Wilfry.md",
+    "Vaults/AeturnumTest/Astral Corridor/The Witness.md",
+    "Vaults/AeturnumTest/Bloodtide/Acolyte.md",
+    "Vaults/AeturnumTest/Bloodtide/Velisara (God).md",
+    "Vaults/AeturnumTest/Bloodtide/Quintus.md",
+    "Vaults/AeturnumTest/Bloodtide/Valentian Crusade.md",
+    "Vaults/AeturnumTest/Bloodtide/Valentia (location).md",
+    "Vaults/AeturnumTest/Bloodtide/Theft of the godflesh.md",
+    "Vaults/AeturnumTest/Bloodtide/Velstadt.md",
+    "Vaults/AeturnumTest/Bloodtide/Tavern.md",
+    "Vaults/AeturnumTest/Bloodtide/Tallis.md",
+    "Vaults/AeturnumTest/Bloodtide/Themis XIII.md",
     "Untitled",
     "Untitled.canvas",
     "Vaults/AeturnumTest/The outlands",
