@@ -244,9 +244,23 @@
               "icon": "lucide-file",
               "title": "Tallis"
             }
+          },
+          {
+            "id": "b9c580c03484603e",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Vaults",
+                "bFile": "Vaults",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Vaults  (Working Tree)"
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -419,7 +433,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c01d4d7a5f1b8e3",
+  "active": "b9c580c03484603e",
   "lastOpenFiles": [
     "Vaults/AeturnumTest/Bloodtide/32nd recon division.md",
     "Vaults/AeturnumTest/Bloodtide/Pale Legion.md",
