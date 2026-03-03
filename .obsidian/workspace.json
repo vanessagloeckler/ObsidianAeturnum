@@ -251,12 +251,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AeturnumTest/Bloodtide/(Project) Ember.md",
+                "file": "AeturnumTest/Bloodtide/Fabricator-General Moranna.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(Project) Ember"
+              "title": "Fabricator-General Moranna"
             }
           }
         ],
@@ -292,7 +292,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ember",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -313,8 +313,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -436,16 +435,17 @@
   },
   "active": "b9c580c03484603e",
   "lastOpenFiles": [
+    "AeturnumTest/Test.md",
+    "AeturnumTest/Bloodtide/Fabricator-General Moranna.md",
+    "AeturnumTest/Bloodtide/Almire Academy.md",
+    "AeturnumTest/Bloodtide/Acacius.md",
+    "AeturnumTest/Bloodtide/32nd recon division.md",
     "AeturnumTest/Bloodtide/(Project) Ember.md",
     "AeturnumTest/Guilds/AEGIS.md",
-    "AeturnumTest/Bloodtide/Acacius.md",
     "AeturnumTest/Bloodtide/Cassandra (Justicar Leader).md",
     "AeturnumTest/Bloodtide/Blood Mage.md",
     "AeturnumTest/Bloodtide/Aurora.md",
-    "AeturnumTest/Bloodtide/Almire Academy.md",
     "AeturnumTest/Bloodtide/Agera Collective.md",
-    "AeturnumTest/Bloodtide/32nd recon division.md",
-    "AeturnumTest/Bloodtide/Fabricator-General Moranna.md",
     "AeturnumTest/Astral Corridor/Astral corridor.md",
     "conflict-files-obsidian-git.md",
     "AeturnumTest/The outlands/The Watering Hole.md",
@@ -463,7 +463,6 @@
     "AeturnumTest/Quest",
     "AeturnumTest/Guilds/Apollon.md",
     "AeturnumTest/Guilds/The Nine.md",
-    "AeturnumTest/Guilds/The Attendant.md",
     "AeturnumTest/Guilds",
     "AeturnumTest/Bloodtide",
     "AeturnumTest/Astral Corridor",
