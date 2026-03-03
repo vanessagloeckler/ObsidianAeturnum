@@ -1,0 +1,6 @@
+- Main city we are in
+- Above multiversal nexus [[Astral corridor]]
+- Layers of [[Undercity]]
+- Deeper layers are more ancient
+- Ruled by [[The Nine]]
+- In the [[Red Isles]]

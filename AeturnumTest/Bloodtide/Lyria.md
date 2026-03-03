@@ -1,0 +1,7 @@
+- Explosive
+- Fuel
+- Concentrated Liquid Magic
+- Refined is blue
+- Part of Surge (drug)
+- Natural Crystals = Purple
+- Raw crystaline -> refined in to oil

@@ -1,0 +1,3 @@
+- [[Riftborn]] met [[Lucille Duras]] there
+- Brutalist Architecture
+- Framed Photo with mold erasing the face of another woman ([[Ashe]]?) next to [[Lucille Duras]]

@@ -1,0 +1,4 @@
+- seen in [[Bloodshrine]]
+- touched in [[Astral corridor]] in Prologue
+- Potential door to [[The Witness]] grave
+- checks corruption

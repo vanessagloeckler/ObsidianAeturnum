@@ -1,1 +1,4 @@
-Crystaline helm
+- Crystaline helm/ Mirror Mask maybe to protect from reading thoughts
+- Part of the [[Occultist Guild]] as Emmisary
+- Undead (maybe Lich?)
+- really old

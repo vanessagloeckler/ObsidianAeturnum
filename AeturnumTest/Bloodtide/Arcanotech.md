@@ -1,0 +1,3 @@
+- ancient ([[Numerian]])
+- can augment people
+- techno-organic

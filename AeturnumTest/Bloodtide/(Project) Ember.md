@@ -4,13 +4,19 @@ Ember had been kept in a coffin with a iron collar around her neck suppsoedly to
 
 Her behavior and skills seemed very childlike, but she had the power to burn out the blood infection. Which sometimes burned away the person but could also heal [[Bloodkin]].
 
+- found in [[AEGIS]] facility [[Themis XIII]]
+- In chryogenically sealed coffin
+- Intended as a weapon
+- said to be part of [[Miria (Godvessel)]]
+-  [[Liliana]]'s sister ([[The Hierophant]])
+- Made by Alchemy
+- Surrogate mother
 
 
 
 
 
-
-Info from Phongraph in [[Laboratory]]:
+Info from Phonograph in [[Laboratory]]:
 -  Ember remembers
 - Ember will end it all
 - Puppets dancing on invisible strings

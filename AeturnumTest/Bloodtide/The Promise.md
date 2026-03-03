@@ -1,0 +1,7 @@
+- Forbidden Plane
+- Mentioned by [[Lucille Duras]] before dissapearing
+- Words echo each other across time
+- Related to promise between Miria and Asdel?
+- Prologue speech remember promise
+- Demi-plane
+- [[Lucille Duras]] is there

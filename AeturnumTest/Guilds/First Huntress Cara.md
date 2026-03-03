@@ -1,0 +1,2 @@
+- [[Seekers Guild]]
+- Killed in [[Hemlock (Location)]] by [[The Pursuer]]

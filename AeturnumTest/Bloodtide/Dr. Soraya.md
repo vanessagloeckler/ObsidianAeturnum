@@ -1,0 +1,2 @@
+- [[AEGIS]] doctor on the [[Minerva Project]]
+- with [[Dr. Minerva]] and [[Dr. Yulia]]

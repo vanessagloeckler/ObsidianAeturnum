@@ -1,0 +1,5 @@
+- Famine almost destroyed the town 200 years ago
+- Mayor [[Juliana Thorton (mayor)]] imprisioned [[Lorn - God of Harvest]] and fed his regenerating flesh to citizens
+- Overran by [[Bloodkin]]
+- Destroyed by [[The Nine]] with [[Antimatter Lance]]
+- Now covered in mist that mutates life within it

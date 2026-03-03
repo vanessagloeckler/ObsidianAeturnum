@@ -1,0 +1,4 @@
+- (lesser) God of Harvest
+- Long twisting antlers, four? arms
+- Kept captured below [[Mortimer Hall]] in [[Lamprow (location)]]
+- [[Juliana Thorton (mayor)]] had bound the god and fed the town his flesh to survive a famine causing the material veil to weaken there. This made Lamprow a perfect spot for [[Asdel (The Exile)]]'s [[Bloodkin]] Plague 

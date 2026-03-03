@@ -1,0 +1,6 @@
+- turns out to be [[Asdel (The Exile)]]
+- Dragonborn healer & priest
+- encountered below [[Mortimer Hall]]
+- Church of [[Velisara (God)]]
+- Killed by Eckra mistaken for [[Asdel (The Exile)]] but turned out to be [[Astra]]
+- Converted [[Elisa]] to his cause

@@ -1,0 +1,9 @@
+- 9th of the [[Keepers]]
+- Crimson mage
+- Time traveller
+- Formerly Missing (now found in [[The Promise]])
+- Expelled from multiple arcane academies
+- Apprentice to the 8th Keeper (also went missing)
+- leaves behind clues
+- Brown hair, piercing green eyes
+- Gather fragments to guide her home

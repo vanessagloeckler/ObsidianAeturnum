@@ -1,0 +1,1 @@
+- Ritual to bind a mage's arcane connection permanently

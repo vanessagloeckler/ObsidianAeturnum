@@ -1,1 +1,6 @@
-Sunken City
+- Sunken City
+- Ruins
+- In wastes of [[Lamprow (location)]]
+- Mechanical Monoliths and temples
+- [[Reality Engines]]
+- [[Numerian]] city

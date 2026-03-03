@@ -1,1 +1,8 @@
-The Navigator from the Prologue session that was supposed to find us. Belonged to the [[Navigators Guild]].
+- The Navigator from the Prologue session that was supposed to find us. 
+- Belonged to the [[Navigators Guild]]
+- codename [[Valentine]] as [[Eilodon]] member
+- Killed by [[Ashe]]/[[Sierra]]
+- Betrayed [[Eilodon]]
+- Member of the [[Cult of the Formless Mind]]
+- Has a child
+- Was made a [[Navigators Guild]] member as a child

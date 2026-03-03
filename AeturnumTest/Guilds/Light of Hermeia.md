@@ -1,1 +1,2 @@
-Used in a lighthouse near [[Aldwitch Academy]].
+- Powers a lighthouse near [[Aldwych Academy]].
+- Might refer to a god?

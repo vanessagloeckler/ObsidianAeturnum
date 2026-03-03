@@ -1,1 +1,2 @@
-Seargant at the entry to [[Hemlock (Location)]]
+- Seargant at the entry to [[Hemlock (Location)]]
+- Guards the entry

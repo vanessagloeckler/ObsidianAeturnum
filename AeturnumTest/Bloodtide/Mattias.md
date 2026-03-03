@@ -1,0 +1,3 @@
+- [[Lamprow (location)]]'s alchemist
+- dead
+- killed before [[Bloodkin]] attack
