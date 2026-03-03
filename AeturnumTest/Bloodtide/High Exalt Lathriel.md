@@ -1,0 +1,4 @@
+- [[Black Church]] leader
+- Drugged and manipulated [[Miria (Godvessel)]]
+- Portrait found in [[Asdel (The Exile)]]'s memories (Bloodtide 2)
+- Made [[Agent 776]]/ [[Rosaria]] into a dragon with blood from [[Elisabeth J.]]

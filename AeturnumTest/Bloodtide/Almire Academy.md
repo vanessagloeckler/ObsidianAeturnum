@@ -1,0 +1,3 @@
+- [[Lucille Duras]] went to school there and got expelled
+- Then it was a hospital for mages returning from war with a magical sickness
+- Later the [[Cult of the Formless Mind]] used it for science experiements and to create [[Dreamers]]

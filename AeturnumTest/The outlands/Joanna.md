@@ -1,0 +1,3 @@
+- [[Outlands]] guide in [[Hemlock (Location)]]. 
+- Colleague of [[Wilfry]] and [[Alvorn]]. 
+- One of the guides that found the [[Shrine to the Blood God]]

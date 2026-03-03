@@ -1,0 +1,3 @@
+- Paladin
+- Spear
+- One of the Paladins at the end of the Prologue

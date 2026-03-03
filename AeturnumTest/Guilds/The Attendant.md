@@ -1,0 +1,4 @@
+- The person that is supposed to look after the lighthouse near [[Aldwych Academy]]
+- Kenku
+- Has never been in the lighthouse and didn't attend shit
+- [[Light of Hermeia]] lighthouse

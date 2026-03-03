@@ -1,0 +1,3 @@
+- Enthropy is an issues to circumvent
+- Necromancy breaks that rule
+- Needs medium to burn away (soul?)

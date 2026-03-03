@@ -1,0 +1,2 @@
+- Godvessel for each god
+- [[Miria (Godvessel)]] for [[Archdragon Medea]]?

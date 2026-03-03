@@ -1,0 +1,3 @@
+- historical event in [[Valentia (location)]]
+- Possibly the crusade in which [[High Exalt Lathriel]] manipulated [[Miria (Godvessel)]] to destroy a continent
+- May be mentioned in a book by [[Jaquetta Iverson]]

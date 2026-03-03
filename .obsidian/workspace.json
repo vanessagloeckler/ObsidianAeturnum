@@ -251,16 +251,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vaults/AeturnumTest/Bloodtide/Acacius.md",
+                "file": "AeturnumTest/Bloodtide/Acacius.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Acacius"
             }
+          },
+          {
+            "id": "b0aeb5aa04d1958e",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "AeturnumTest/Bloodtide/Acolyte.md",
+                "bFile": "AeturnumTest/Bloodtide/Acolyte.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Acolyte  (Index)"
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -433,44 +448,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9c580c03484603e",
+  "active": "0c01d4d7a5f1b8e3",
   "lastOpenFiles": [
-    "Vaults/README.md",
-    "Vaults/AeturnumTest/The outlands/Hemlock Coast.md",
-    "Vaults/AeturnumTest/The outlands/Chaharakail.md",
-    "Vaults/AeturnumTest/Quest/Quest.md",
-    "Vaults/AeturnumTest/Quest/Lumian Knights.md",
-    "Vaults/AeturnumTest/Quest/Hemwick Ladies.md",
-    "Vaults/AeturnumTest/Quest/Burnt Lyra.md",
-    "Vaults/AeturnumTest/Quest/Acassius.md",
-    "Vaults/AeturnumTest/Guilds/The contract.md",
-    "Vaults/AeturnumTest/Guilds/Sovereign (Currency).md",
-    "Vaults/AeturnumTest/Guilds/Madame Zugrava.md",
-    "Vaults/AeturnumTest/Guilds/Head of Navigators Guild.md",
-    "Vaults/AeturnumTest/Guilds/Guilds.md",
-    "Vaults/AeturnumTest/Guilds/Coroner Sibuse.md",
-    "Vaults/AeturnumTest/Guilds/Cogitator Janus Mechanists.md",
-    "Vaults/AeturnumTest/Guilds/Captain Alabasta.md",
-    "Vaults/AeturnumTest/Guilds/Andrea Tharanis (Mechanists).md",
-    "Vaults/AeturnumTest/Bloodtide/The infection.md",
-    "Vaults/AeturnumTest/Bloodtide/The Exile.md",
-    "Vaults/AeturnumTest/Bloodtide/Sulia (dead).md",
-    "Vaults/AeturnumTest/Bloodtide/Pendanant Cradle.md",
-    "Vaults/AeturnumTest/Bloodtide/Pale Woods.md",
-    "Vaults/AeturnumTest/Bloodtide/Myria (Peninsula).md",
-    "Vaults/AeturnumTest/Bloodtide/Laboratory.md",
-    "Vaults/AeturnumTest/Astral Corridor/Harmonic Stabilizer.md",
-    "Vaults/AeturnumTest/Astral Corridor/Eventide (sword).md",
+    "conflict-files-obsidian-git.md",
+    "AeturnumTest/Bloodtide/Acacius.md",
+    "AeturnumTest/The outlands/The Watering Hole.md",
+    "AeturnumTest/The outlands/Wilfry.md",
+    "AeturnumTest/The outlands/Joanna.md",
+    "AeturnumTest/The outlands/Shrine to the Blood God.md",
+    "AeturnumTest/The outlands/Outlands.md",
+    "AeturnumTest/The outlands/Hemlock (Location).md",
+    "AeturnumTest/The outlands/Bryn.md",
+    "AeturnumTest/The outlands/Alvorn.md",
+    "AeturnumTest/The outlands",
+    "AeturnumTest/Quest/Lucricious (noble).md",
+    "AeturnumTest/Quest/Argent Dawn (ship).md",
+    "AeturnumTest/Quest/AM771 03.md",
+    "AeturnumTest/Quest",
+    "AeturnumTest/Guilds/Apollon.md",
+    "AeturnumTest/Guilds/The Nine.md",
+    "AeturnumTest/Guilds/The Attendant.md",
+    "AeturnumTest/Guilds/Seekers Guild.md",
+    "AeturnumTest/Guilds/Occultist Guild.md",
+    "AeturnumTest/Guilds/Navigators Guild.md",
+    "AeturnumTest/Guilds/Mechanist Guild.md",
+    "AeturnumTest/Guilds/Light of Hermeia.md",
+    "AeturnumTest/Guilds/Kahdaj Kandera (Occultist leader).md",
+    "AeturnumTest/Guilds/Justicar Guild.md",
+    "AeturnumTest/Guilds/First Huntress Cara.md",
+    "AeturnumTest/Guilds/Aldwych Academy.md",
+    "AeturnumTest/Guilds/Agnes (Librarian).md",
+    "AeturnumTest/Guilds",
+    "AeturnumTest/Bloodtide",
+    "AeturnumTest/Astral Corridor",
+    "AeturnumTest",
     "Vaults/Vaults",
     "Vaults/Untitled.canvas",
     "Untitled",
     "Untitled.canvas",
-    "Vaults/AeturnumTest/The outlands",
-    "Vaults/AeturnumTest/Quest",
-    "Vaults/AeturnumTest/Guilds",
-    "Vaults/AeturnumTest/Bloodtide",
-    "Vaults/AeturnumTest/Astral Corridor",
-    "Vaults/AeturnumTest",
-    "Vaults"
+    "AeturnumTest/The outlands",
+    "AeturnumTest/Quest"
   ]
 }

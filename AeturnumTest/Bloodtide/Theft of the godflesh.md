@@ -1,0 +1,4 @@
+- Devouring of a God ( [[Archdragon Medea]])?
+- [[Velstadt]]
+- [[Black Church]]
+- [[Valentia (location)]]

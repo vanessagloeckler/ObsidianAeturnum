@@ -1,0 +1,5 @@
+- Magic Police
+- Serving [[The Nine]]
+- Bureaucratic arm of [[The Nine]]
+- enforces control over magic
+- Interplanar bureaucracy

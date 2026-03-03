@@ -1,0 +1,1 @@
+Tavern in the town of [[Hemlock (Location)]] in the [[Outlands]]

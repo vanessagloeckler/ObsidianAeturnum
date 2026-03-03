@@ -1,0 +1,4 @@
+- Orc farmer
+- kind, optimistic
+- Rescued in [[Lamprow (location)]]
+- Infected with [[Bloodkin]] virus by [[Elisa]]

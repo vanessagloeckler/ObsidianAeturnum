@@ -1,0 +1,3 @@
+- Not sure who is shown
+- Weathered
+- Female
