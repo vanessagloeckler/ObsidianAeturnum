@@ -280,12 +280,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
+                "aFile": "AeturnumTest/Bloodtide/(Project) Ember.md",
+                "bFile": "AeturnumTest/Bloodtide/(Project) Ember.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
+              "title": "Diff: (Project) Ember  (Working Tree)"
             }
           }
         ],
@@ -464,10 +464,17 @@
   },
   "active": "06da67f9f09b2de5",
   "lastOpenFiles": [
+    "AeturnumTest/Bloodtide/Cassandra (Justicar Leader).md",
+    "AeturnumTest/Bloodtide/Blood Mage.md",
+    "AeturnumTest/Bloodtide/Aurora.md",
+    "AeturnumTest/Bloodtide/Almire Academy.md",
+    "AeturnumTest/Bloodtide/Agera Collective.md",
+    "AeturnumTest/Bloodtide/Acacius.md",
+    "AeturnumTest/Bloodtide/32nd recon division.md",
+    "AeturnumTest/Bloodtide/(Project) Ember.md",
     "AeturnumTest/Bloodtide/Fabricator-General Moranna.md",
     "AeturnumTest/Astral Corridor/Astral corridor.md",
     "conflict-files-obsidian-git.md",
-    "AeturnumTest/Bloodtide/Acacius.md",
     "AeturnumTest/The outlands/The Watering Hole.md",
     "AeturnumTest/The outlands/Wilfry.md",
     "AeturnumTest/The outlands/Joanna.md",
@@ -485,13 +492,6 @@
     "AeturnumTest/Guilds/The Nine.md",
     "AeturnumTest/Guilds/The Attendant.md",
     "AeturnumTest/Guilds/Seekers Guild.md",
-    "AeturnumTest/Guilds/Occultist Guild.md",
-    "AeturnumTest/Guilds/Navigators Guild.md",
-    "AeturnumTest/Guilds/Mechanist Guild.md",
-    "AeturnumTest/Guilds/Light of Hermeia.md",
-    "AeturnumTest/Guilds/Kahdaj Kandera (Occultist leader).md",
-    "AeturnumTest/Guilds/Justicar Guild.md",
-    "AeturnumTest/Guilds/First Huntress Cara.md",
     "AeturnumTest/Guilds",
     "AeturnumTest/Bloodtide",
     "AeturnumTest/Astral Corridor",
