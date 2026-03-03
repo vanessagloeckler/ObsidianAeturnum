@@ -1,3 +1,3 @@
-- Mechanist Leader
-- Sacrificed herself in [[Lamprow (location)]] using a [[Crystaline Matrix|Crystaline Matrix]] from the [[Old World]] [[Walker]] (supercharged)
+-  Mechanist Leader
+- Sacrificed herself in [[Lamprow (location)]] using a [[Vaults/AeturnumTest/Bloodtide/Crystaline Matrix|Crystaline Matrix]] from the [[Old World]] [[Walker]] (supercharged)
 - [[Borok]] joined her

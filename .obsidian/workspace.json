@@ -273,9 +273,23 @@
               "icon": "diff",
               "title": "Diff: Acolyte  (Index)"
             }
+          },
+          {
+            "id": "06da67f9f09b2de5",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -448,8 +462,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c01d4d7a5f1b8e3",
+  "active": "06da67f9f09b2de5",
   "lastOpenFiles": [
+    "AeturnumTest/Bloodtide/Fabricator-General Moranna.md",
+    "AeturnumTest/Astral Corridor/Astral corridor.md",
     "conflict-files-obsidian-git.md",
     "AeturnumTest/Bloodtide/Acacius.md",
     "AeturnumTest/The outlands/The Watering Hole.md",
@@ -476,8 +492,6 @@
     "AeturnumTest/Guilds/Kahdaj Kandera (Occultist leader).md",
     "AeturnumTest/Guilds/Justicar Guild.md",
     "AeturnumTest/Guilds/First Huntress Cara.md",
-    "AeturnumTest/Guilds/Aldwych Academy.md",
-    "AeturnumTest/Guilds/Agnes (Librarian).md",
     "AeturnumTest/Guilds",
     "AeturnumTest/Bloodtide",
     "AeturnumTest/Astral Corridor",
