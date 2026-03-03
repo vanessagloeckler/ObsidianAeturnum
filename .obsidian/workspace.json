@@ -251,45 +251,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AeturnumTest/Bloodtide/Acacius.md",
+                "file": "AeturnumTest/Bloodtide/(Project) Ember.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Acacius"
-            }
-          },
-          {
-            "id": "b0aeb5aa04d1958e",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "AeturnumTest/Bloodtide/Acolyte.md",
-                "bFile": "AeturnumTest/Bloodtide/Acolyte.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Acolyte  (Index)"
-            }
-          },
-          {
-            "id": "06da67f9f09b2de5",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "AeturnumTest/Bloodtide/(Project) Ember.md",
-                "bFile": "AeturnumTest/Bloodtide/(Project) Ember.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: (Project) Ember  (Working Tree)"
+              "title": "(Project) Ember"
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -321,7 +292,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ember",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -342,7 +313,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -462,16 +434,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06da67f9f09b2de5",
+  "active": "b9c580c03484603e",
   "lastOpenFiles": [
+    "AeturnumTest/Bloodtide/(Project) Ember.md",
+    "AeturnumTest/Guilds/AEGIS.md",
+    "AeturnumTest/Bloodtide/Acacius.md",
     "AeturnumTest/Bloodtide/Cassandra (Justicar Leader).md",
     "AeturnumTest/Bloodtide/Blood Mage.md",
     "AeturnumTest/Bloodtide/Aurora.md",
     "AeturnumTest/Bloodtide/Almire Academy.md",
     "AeturnumTest/Bloodtide/Agera Collective.md",
-    "AeturnumTest/Bloodtide/Acacius.md",
     "AeturnumTest/Bloodtide/32nd recon division.md",
-    "AeturnumTest/Bloodtide/(Project) Ember.md",
     "AeturnumTest/Bloodtide/Fabricator-General Moranna.md",
     "AeturnumTest/Astral Corridor/Astral corridor.md",
     "conflict-files-obsidian-git.md",
@@ -491,7 +464,6 @@
     "AeturnumTest/Guilds/Apollon.md",
     "AeturnumTest/Guilds/The Nine.md",
     "AeturnumTest/Guilds/The Attendant.md",
-    "AeturnumTest/Guilds/Seekers Guild.md",
     "AeturnumTest/Guilds",
     "AeturnumTest/Bloodtide",
     "AeturnumTest/Astral Corridor",

@@ -1,5 +1,6 @@
 [[Black Monolith]]
 [[Eventide (sword)]]
+[[Vaults/AeturnumTest/Astral Corridor/Harmonic Stabilizer]]
 [[Juno (dead)]]
 [[Navigators Guild]]
 [[Paladin Ailfric]]
