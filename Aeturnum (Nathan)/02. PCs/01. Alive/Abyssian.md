@@ -1,0 +1,26 @@
+Tags: #PCs 
+
+**Player Name:** Chris
+**Player Pronouns:** He/Him
+**Character Name:** Abyssian
+**Character Pronouns:** ?
+**Class:** Great Old One Warlock
+**Species:** Black Dragonborn
+**Level:** 3
+
+**Sessions:**
+- [[0.2 Requiem]]
+
+**Physical description:** Black leather armour on vantablack scales, like looking into a void 
+
+**Memory:** Working as an astrologer, and studying the [[Worldwound]]. He looked deep into the wound, and there he found his power.
+
+# Spells & Abilities
+
+Abilities:
+- Telepathic communication
+
+Spells:
+- Bless
+- Detect Thoughts
+- Disguise Self
