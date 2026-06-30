@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "96b6b175e2f54424",
+        "id": "4ab5845b082acd97",
         "type": "tabs",
         "children": [
           {
-            "id": "7a7c0a9ae43e8563",
+            "id": "fedf6b21d07ed2cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,8 +183,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "7a7c0a9ae43e8563",
+  "active": "fedf6b21d07ed2cc",
   "lastOpenFiles": [
+    "08. Other/04. Game Mechanics.md",
+    "07. Official Media/004. Hunter's Tools.md",
+    "08. Other/05. Glossary of Minor Terms.md",
+    "08. Other/03. Elements from Aeturnum 1.md",
+    "03. NPCs/Allies/Elaric Valent.md",
+    "08. Other/01. Questions.md",
+    "08. Other/02. Mysteries.md",
+    "02. PCs/01. Alive/Orinoco.md",
+    "08. Other/07. Differences Between Tables.md",
     "04. Lore/Memory Loss.md",
     "02. PCs/01. Alive/Galahad.md"
   ]

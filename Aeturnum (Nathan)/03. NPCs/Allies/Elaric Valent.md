@@ -18,7 +18,7 @@ Guild Master of the [[Wayfarer’s Guild]].
 
 Commanding officer of:
 - [[Scarlet]]
-# Backstory
+# Backstory, up to the events of Genesis
 
 Elaric Valent was the [[First Blade & First Shield|First Blade]] of Adrestia during the events of Aeturnum 1, and a major player in the Masquerade narrative arc. 
 
