@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "d21d82397a67b466",
+    "id": "60d8ea4447a2a80d",
     "type": "split",
     "children": [
       {
-        "id": "4ab5845b082acd97",
+        "id": "7893e8b22e161760",
         "type": "tabs",
         "children": [
           {
-            "id": "fedf6b21d07ed2cc",
+            "id": "094bceb73f4f065f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. PCs/01. Alive/Brick.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Brick"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0446b70b756824da",
+    "id": "f04bb4fdf0cc34dd",
     "type": "split",
     "children": [
       {
-        "id": "260be0be6c323e68",
+        "id": "6f822a382fd7a079",
         "type": "tabs",
         "children": [
           {
-            "id": "0f63edda7c0bea26",
+            "id": "aaac62b3f3d55ca6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "b991cc962d847c80",
+            "id": "bf299846349aaa91",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "2108a6b2fb8a1e0d",
+            "id": "503dcfeaa6b9bc5f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "c2128bbb155fbd83",
+    "id": "24fd8cd129bd9f6e",
     "type": "split",
     "children": [
       {
-        "id": "eadcda2348061bfa",
+        "id": "258d32f4050989ca",
         "type": "tabs",
         "children": [
           {
-            "id": "357bf5ef9e21e3d3",
+            "id": "1231d0013cde23f9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08. Other/07. Differences Between Tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 07. Differences Between Tables"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "e618928ef7904b36",
+            "id": "5e124b8c1c5504ef",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08. Other/07. Differences Between Tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 07. Differences Between Tables"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "f798e0eaad75e346",
+            "id": "e49a54038f09387b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +131,7 @@
             }
           },
           {
-            "id": "27a4af256a42e7ac",
+            "id": "eacf6735fb5ea6da",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +145,17 @@
             }
           },
           {
-            "id": "d7af0324f129732a",
+            "id": "90a0ebd222e005e9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "08. Other/07. Differences Between Tables.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 07. Differences Between Tables"
+              "title": "Outline"
             }
           }
         ]
@@ -183,19 +176,6 @@
       "bases:Create new base": false
     }
   },
-  "active": "fedf6b21d07ed2cc",
-  "lastOpenFiles": [
-    "01. Sessions/01. Session Notes/0.3 Initiation.md",
-    "08. Other/07. Differences Between Tables.md",
-    "08. Other/04. Game Mechanics.md",
-    "07. Official Media/004. Hunter's Tools.md",
-    "08. Other/05. Glossary of Minor Terms.md",
-    "08. Other/03. Elements from Aeturnum 1.md",
-    "03. NPCs/Allies/Elaric Valent.md",
-    "08. Other/01. Questions.md",
-    "08. Other/02. Mysteries.md",
-    "02. PCs/01. Alive/Orinoco.md",
-    "04. Lore/Memory Loss.md",
-    "02. PCs/01. Alive/Galahad.md"
-  ]
+  "active": "094bceb73f4f065f",
+  "lastOpenFiles": []
 }
