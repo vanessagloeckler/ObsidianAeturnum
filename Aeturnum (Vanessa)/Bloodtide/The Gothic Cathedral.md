@@ -1,2 +1,0 @@
-- Hideout of [[Asdel (The Exile)]] and his [[Acolyte]]s
-- Crashed into [[Adrestia]]

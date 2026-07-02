@@ -1,6 +1,0 @@
-- Lead by chairman [[Elias Jassin]]
-- Students selected by [[The Nine]]
-- [[Navigators Guild]] is part of it
-- On island south of [[Adrestia]]
-- Where [[Riftborn]] are ressurrected
-- Holds relic from [[Justicar Guild]]

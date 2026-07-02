@@ -1,6 +1,0 @@
-- [[Red Isles]]
-- Near [[Adrestia]]
-- Seismic activity
-- Previously [[Lamprow (location)]] before nuked by [[The Nine]] with [[Antimatter Lance]]
-- Temporal interference
-- Evershifting landscape

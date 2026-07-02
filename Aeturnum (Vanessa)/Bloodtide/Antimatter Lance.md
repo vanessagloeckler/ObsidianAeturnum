@@ -1,4 +1,0 @@
-- Used by [[The Nine]] to destroy [[Lamprow (location)]] to stop the [[Bloodkin]] infection
-- left a mist behind mutating [[Bloodkin]]
-- Possibly [[AEGIS]] related
-- Limited number - unsure how many [[The Nine]] have left
