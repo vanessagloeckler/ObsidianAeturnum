@@ -52,8 +52,9 @@ Human Circle of the Moon Druid
 
 An elderly woman and matriarch of a close-knit working class family, who expressed frequent affection for her grandson. She and her family were local legends/cryptids, who made a name for themselves when a roaming band of vampires attempted to attack her neighbourhood. Loup transformed into a monstrous creature (ankylosaurus) and destroyed the vampires.
 
-She was the last of her party to die (exluding the bewitched Elowen), and was torn apart in her wildshape form by her enthralled former comrades. She may have escaped, but her attempt to flee via shifting into an owl form was blocked by Haera's influence, having previously taken a deal from Haera to enhance an earlier effort.
+She was the last of her party to die (excluding the bewitched Elowen), and was torn apart in her wildshape form by her enthralled former comrades. She may have escaped, but her attempt to flee via shifting into an owl form was blocked by Haera's influence, having previously taken a deal from Haera to enhance an earlier effort.
 
+Her grandson, [[Loup Garou]], is now a member of the [[Wayfarer’s Guild]].
 ## Elowen
 
 See also: [[Five Lieutenants|Lieutenant Elowen]]

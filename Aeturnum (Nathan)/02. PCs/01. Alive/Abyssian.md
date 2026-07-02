@@ -1,7 +1,5 @@
 Tags: #PCs 
 
-**Player Name:** Chris
-**Player Pronouns:** He/Him
 **Character Name:** Abyssian
 **Character Pronouns:** ?
 **Class:** Great Old One Warlock

@@ -3,14 +3,13 @@ Tags: #PCs
 # Contents
 - Basics
 - Backstory
+- Physical Description
 - Events of Nocturne
 - Orinoco's Star Map
 - Playlist
 - Quotes
 # Basics
 
-**Player Name:** Me
-**Player Pronouns:** They/Them
 **Character Name:** Orinoco
 **Character Pronouns:** She/They
 **Class:** Circle of the Stars Druid
@@ -20,6 +19,10 @@ Tags: #PCs
 # Backstory
 
 Singular memory: Walking along a river with her mother as a child, and her mother telling her the meaning of 'Orinoco' - It means "The place where we go paddling together."
+
+# Physical Description
+
+![[Pasted image 20260702100357.png]]
 
 # Events of Nocturne
 
@@ -37,6 +40,7 @@ Session Notes - Orinoco's Journal
 |  5   | River Rapids  | Curving line around large rocks                                         | **Reckless:** Those who move too fast will fall first. | Celestial Revalation | Neg  | 25    | 19  | 2   | 4   |
 |  6   | Stagnant Pool | Long straight line with small lines pulled down                         | **Stagnation:** Those who remain stationary are lost.  | Celestial Revalation | Neg  | 21    | 21  | 0   | 0   |
 |  7   | Angelus       | Angel-like humanoid                                                     | **Loss:** Forget not those who fell before the end.    | [[Theolyn Esmond]]   | Neg  | 12    | 7   | 2   | 3   |
+|  8   | Harlequin     | Five spikes                                                             | **Chaos:**                                             |                      |      |       |     |     |     |
 # Playlist
 
 Last song added: 500 Miles - Peter, Paul, and Mary

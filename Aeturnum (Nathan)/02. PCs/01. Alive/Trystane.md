@@ -1,7 +1,5 @@
 Tags: #PCs 
 
-**Player Name:** Suhail
-**Player Pronouns:** He/Him
 **Character Name:** Trystane
 **Character Pronouns:** 
 **Class:** 

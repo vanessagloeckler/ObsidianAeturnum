@@ -1,7 +1,5 @@
 Tags: #PCs 
 
-**Player Name:** Jae
-**Player Pronouns:** They/Them 
 **Character Name:** Valkath StoneHeart Gathynakari
 **Character Pronouns:** She/Her
 **Class:** Druid/Barbarian

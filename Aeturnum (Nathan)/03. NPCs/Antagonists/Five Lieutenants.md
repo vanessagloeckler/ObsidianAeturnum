@@ -14,3 +14,5 @@ The Lieutenants:
 Formerly a human Oath of Vengeance Paladin / Fiend Patron Warlock.
 
 Wield(s/ed) a powerful glaive gifted to her by her patron. Has a significant scar around her throat from when Haera ate and converted her.
+
+![[Pasted image 20260702100449.png]]

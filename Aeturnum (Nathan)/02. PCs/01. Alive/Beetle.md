@@ -1,7 +1,5 @@
 Tags: #PCs 
 
-**Player Name:** Luke 
-**Player Pronouns:** He/Him
 **Character Name:** Beetle
 **Character Pronouns:** They/Them
 **Class:** Divination Wizard
@@ -10,6 +8,7 @@ Tags: #PCs
 
 **Sessions:**
 - [[0.2 Requiem]]
+- [[0.3 Initiation]] (Death - Returned)
 
 **Physical description:** 2ft. tall, grizzled, about 60 years old, masculine, bald on top with long white hair around the sides
 

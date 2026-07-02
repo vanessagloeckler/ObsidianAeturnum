@@ -1,7 +1,5 @@
 Tags: #PCs 
 
-**Player Name:** Gaia
-**Player Pronouns:** She/her
 **Character Name:** Cora
 **Character Pronouns:** She/Her(?)
 **Class:** Grave Domain Cleric
@@ -9,7 +7,9 @@ Tags: #PCs
 **Level:** 3
 
 **Sessions:**
+- [[0.3 Initiation]]
 
 **Physical description:**
+![[Pasted image 20260702100307.png]]
 
 **Memory:** 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bloodtide/The Apartment.md",
+                "file": "Bloodtide/Outer God of Blood.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Apartment"
+              "title": "Outer God of Blood"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bloodtide/The Apartment.md",
+                "file": "Bloodtide/Outer God of Blood.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Apartment"
+              "title": "Backlinks for Outer God of Blood"
             }
           },
           {
@@ -166,6 +166,11 @@
   },
   "active": "2f7ba1f32aa290f2",
   "lastOpenFiles": [
+    "The outlands/Shrine to the Blood God.md",
+    "Guilds/The Nine.md",
+    "Bloodtide/Elias Jassin.md",
+    "Bloodtide/Big Jac.md",
+    "Bloodtide/The Apartment.md",
     "Bloodtide/Tavern.md",
     "Bloodtide/Sierra.md",
     "Quest/Hemwick Ladies.md",
@@ -189,11 +194,6 @@
     "Untitled.canvas",
     "Hemlock.md",
     "Bloodtide/Theft of the godflesh.md",
-    "The outlands/Alvorn.md",
-    "The outlands/Bryn.md",
-    "The outlands/Joan.md",
-    "The outlands/Wilfry.md",
-    "The outlands/Hemlock Coast.md",
     "Untitled 1.canvas",
     "Bloodtide/Untitled.canvas",
     "The outlands",

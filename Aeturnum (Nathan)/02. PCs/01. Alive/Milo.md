@@ -1,7 +1,5 @@
 Tags: #PCs 
 
-**Player Name:** Vee
-**Player Pronouns:** She/They
 **Character Name:** Milo
 **Character Pronouns:** He/They
 **Class:** Battle Master Fighter
@@ -10,6 +8,7 @@ Tags: #PCs
 
 **Sessions:**
 - [[0.2 Requiem]]
+- [[0.3 Initiation]]
 
 **Physical description:** ![[Pasted image 20260611085745.png]]
 
