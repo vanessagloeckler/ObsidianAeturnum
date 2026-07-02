@@ -8,7 +8,7 @@ Location: Unknown, last seen returning to Adrestia with us after Requiem, but de
 - [[0.2 Requiem]]
 # Physical Appearance
 
-Red hair, cut short and jagged, as though cut with a knife.
+Artificial red hair, cut short and jagged, as though cut with a knife. Typically wears leather armour.
 
 # Personality
 

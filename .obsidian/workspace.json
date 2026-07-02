@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "4548a44ff0d1ccb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1604ae69f27d4659",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fd6fbdc401b8bf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Personal Aeturnum Folders/Aeturnum (Nathan)/01. Sessions/01. Session Notes/0.3 Initiation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0.3 Initiation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "79578596a552b4fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "951209c469cbc6d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42e2bd81641746c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e741d4f8c6cc796e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "49ebc0eeedb775d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "50d3a8571e1ec404",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd4f15f3d623a58e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c36752bfbe4aa9c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. Personal Aeturnum Folders/Aeturnum (Nathan)/01. Sessions/01. Session Notes/0.3 Initiation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 0.3 Initiation"
+            }
+          },
+          {
+            "id": "4ad9907cc29e5845",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2. Personal Aeturnum Folders/Aeturnum (Nathan)/01. Sessions/01. Session Notes/0.3 Initiation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 0.3 Initiation"
+            }
+          },
+          {
+            "id": "bf947f4498f4fe6c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f6e7e6e7ec847472",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9f396882f60a3d93",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2. Personal Aeturnum Folders/Aeturnum (Nathan)/01. Sessions/01. Session Notes/0.3 Initiation.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 0.3 Initiation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6fd6fbdc401b8bf7",
+  "lastOpenFiles": []
+}

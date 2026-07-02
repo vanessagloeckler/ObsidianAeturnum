@@ -10,6 +10,10 @@ Effects of the Worldwound:
 # Creation
 
 30 years ago, [[Haera Agelamorn]] was performing some sort of ritual in Aernoc Palace, while surrounded by her courtiers. This resulted in the Worldwound opening, and immediately turning the vampire courtiers to stone, all bar Haera herself. It is unknown whether this was Haera's intent, but all the courtiers were frozen with happy, peaceful, or excited expressions, meaning they either expected it to happen or it happened instantly.
+
+# Appearance
+
+A large void in the sky, surrounded by red and purple energies. As of [[0.3 Initiation|Initiation]], from [[Adrestia]], the wound seems to cover about 1/5th of the sky. The epicentre of the wound is assumedly above [[Tisis|Aernoc Castle]], which is on the opposite side of the Red Isles to Adrestia. (Description given by Rory)
 ## Connection to Haera
 
 It is unknown whether Haera meant to open the Worldwound or if she has any direct power over it, but she has found a way to draw power from it, if nothing else.
