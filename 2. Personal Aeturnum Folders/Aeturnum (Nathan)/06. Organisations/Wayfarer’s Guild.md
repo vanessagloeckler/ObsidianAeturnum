@@ -24,9 +24,15 @@ See [[005. Aeturnum II - Patch Notes 1.1 (Launch)|Patch Notes 1.1]] for detailed
 
 Multiple colossal metal wagons, each one pulled by multiple horses, with heavy armour plating and weapons. Each wagon is protected with arcane wards, including anti-scrying wards. The wagons are modular, with the capacity to join together and have extra parts added.
 
+## Marching Order
+
+- The Vanguard (At the very front)
+- The Armoury (Near the back)
 ## The Armoury
 
 Where [[Technology|Hunter's Tools]] and other gear is procured. It is overseen by [[Astra]], and is covered in an array of arcane wards from mismatched cultures, even more so than the rest of the convoy.
+
+The Armoury looks different to the rest of the convoy, more gothic in appearance, and featuring heavy large exhaust pipes from which smoke with an iridescent sheen pumps out. The inside is dark and gloomy, with all the curtains drawn, and a thick aroma of incense in the air. The wagon is filled with leatherbound books and scrolls, a variety of gear for exploration and combat, and further inside a workshop can be seen. While the entire convoy is covered in protective and anti-scrying runes, the runes and other magical artefacts in the armoury is much more diverse and obscure, featuring a bizarre mismatch of butchered magicks, including [[05. Glossary of Minor Terms|Valentian]] magic. It is as though the wagon has been stapled together from different cultures and languages. 
 
 ## The Vanguard
 
