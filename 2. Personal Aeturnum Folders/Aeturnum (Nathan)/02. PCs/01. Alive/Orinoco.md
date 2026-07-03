@@ -1,16 +1,21 @@
 Tags: #PCs 
 
 # Contents
+- Meta Notes
 - Basics
 - Backstory
 - Events of Nocturne
 - Orinoco's Star Map
 - Playlist
 - Quotes
+
+# Meta Notes
+
+This is my character, so this doc is a lot more detailed than all the other PC sheets. Happy for anyone to read anything that's written here. The playlist section is immaculate.
+
+If you have this level of detail for your character and are happy for it to be public, feel free to send it to me and I'll add it, as I'd love to read it. 
 # Basics
 
-**Player Name:** Me
-**Player Pronouns:** They/Them
 **Character Name:** Orinoco
 **Character Pronouns:** She/They
 **Class:** Circle of the Stars Druid
@@ -78,7 +83,6 @@ Last song added: 500 Miles - Peter, Paul, and Mary
 - Follow the Stars - Swingrowers
 - Dancing in the Moonlight - Toploader
 - Shine - Years & Years
-
 ## Thematic Tracks
 ### River
 - River Lea - Adele
