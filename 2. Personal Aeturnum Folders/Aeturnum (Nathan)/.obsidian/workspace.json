@@ -91,8 +91,7 @@
               "title": "Haera's Forces"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,11 +253,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "870a3fd43cf1acc0",
+  "active": "fedf6b21d07ed2cc",
   "lastOpenFiles": [
+    "Astra.md",
     "04. Lore/Worldwound.md",
     "01. Sessions/01. Session Notes/0.3 Initiation.md",
-    "Astra.md",
     "03. NPCs/NPC Template.md",
     "06. Organisations/Wayfarer’s Guild.md",
     "01. Sessions/01. Session Notes/0.2 Requiem.md",
