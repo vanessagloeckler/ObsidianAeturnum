@@ -1,7 +1,5 @@
 Tags: #PCs 
 
-**Player Name:** Luke 
-**Player Pronouns:** He/Him
 **Character Name:** Beetle
 **Character Pronouns:** They/Them
 **Class:** Divination Wizard

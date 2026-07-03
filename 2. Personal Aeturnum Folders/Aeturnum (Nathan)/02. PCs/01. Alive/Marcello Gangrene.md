@@ -1,7 +1,5 @@
 Tags: #PCs 
 
-**Player Name:** Aitrix
-**Player Pronouns:** He/They
 **Character Name:** Marcello Gangrene
 **Character Pronouns:** He/They
 **Class:** Champion Fighter

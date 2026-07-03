@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. PCs/01. Alive/Valkath.md",
+                "file": "02. PCs/01. Alive/Wally.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Valkath"
+              "title": "Wally"
             }
           }
         ]
@@ -185,16 +185,22 @@
   },
   "active": "3c25ad1368fdaa5d",
   "lastOpenFiles": [
-    "02. PCs/01. Alive/Cora.md",
-    "Pasted image 20260703132959.png",
-    "02. PCs/01. Alive/Brick.md",
-    "02. PCs/01. Alive/Beetle.md",
+    "02. PCs/01. Alive/Valkath.md",
     "02. PCs/01. Alive/Abyssian.md",
-    "02. PCs/01. Alive/Orinoco.md",
-    "01. Sessions/01. Session Notes/0.3 Initiation.md",
-    "02. PCs/01. Alive/Milo.md",
-    "02. PCs/01. Alive/Loup Garou.md",
+    "02. PCs/01. Alive/Beetle.md",
+    "02. PCs/01. Alive/Brick.md",
+    "02. PCs/01. Alive/Cora.md",
     "02. PCs/01. Alive/Elias Mulch.md",
+    "02. PCs/01. Alive/Galahad.md",
+    "02. PCs/01. Alive/Lilah.md",
+    "02. PCs/01. Alive/Loup Garou.md",
+    "02. PCs/01. Alive/Marcello Gangrene.md",
+    "02. PCs/01. Alive/Milo.md",
+    "02. PCs/01. Alive/Orinoco.md",
+    "02. PCs/01. Alive/Trystane.md",
+    "02. PCs/01. Alive/Wally.md",
+    "Pasted image 20260703132959.png",
+    "01. Sessions/01. Session Notes/0.3 Initiation.md",
     "03. NPCs/Antagonists/Haera's Forces.md",
     "01. Sessions/01. Session Notes/0.2 Requiem.md",
     "01. Sessions/01. Session Notes/0.1. Genesis (Prelude).md",
@@ -205,11 +211,6 @@
     "07. Official Media/004. Hunter's Tools.md",
     "04. Lore/Technology.md",
     "08. Other/04. Game Mechanics.md",
-    "08. Other/02. Mysteries.md",
-    "03. NPCs/Allies/Scarlet.md",
-    "04. Lore/Worldwound.md",
-    "03. NPCs/Allies/Henrietta.md",
-    "03. NPCs/Allies/Elaric Valent.md",
-    "03. NPCs/Allies/Astra.md"
+    "08. Other/02. Mysteries.md"
   ]
 }

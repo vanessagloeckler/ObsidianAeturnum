@@ -1,7 +1,5 @@
 Tags: #PCs 
 
-**Player Name:** Harley
-**Player Pronouns:** She/They
 **Character Name:** Wally
 **Character Pronouns:** She/They
 **Class:** Evocation Wizard

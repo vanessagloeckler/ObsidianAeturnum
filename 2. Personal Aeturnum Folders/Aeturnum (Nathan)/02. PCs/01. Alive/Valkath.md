@@ -1,11 +1,9 @@
 Tags: #PCs 
 
-**Player Name:** Jae
-**Player Pronouns:** They/Them 
 **Character Name:** Valkath StoneHeart Gathynakari
 **Character Pronouns:** She/Her
 **Class:** Druid/Barbarian
-**Species:** Aasimar
+**Species:** Stone Goliath
 **Level:** 3
 
 **Sessions:**

@@ -1,7 +1,5 @@
 Tags: #PCs 
 
-**Player Name:** Vee
-**Player Pronouns:** She/They
 **Character Name:** Milo
 **Character Pronouns:** He/They
 **Class:** Battle Master Fighter

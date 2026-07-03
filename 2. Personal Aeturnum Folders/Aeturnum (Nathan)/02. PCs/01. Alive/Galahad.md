@@ -1,7 +1,5 @@
 Tags: #PCs 
 
-**Player Name:** Harry
-**Player Pronouns:** He/Him
 **Character Name:** Galahad
 **Character Pronouns:** 
 **Class:** 

@@ -1,11 +1,9 @@
 Tags: #PCs 
 
-**Player Name:** Gaia
-**Player Pronouns:** She/her
 **Character Name:** Cora
 **Character Pronouns:** She/Her(?)
 **Class:** Grave Domain Cleric
-**Species:** Tiefling
+**Species:** Chthonic Tiefling
 **Level:** 3
 
 **Sessions:**
