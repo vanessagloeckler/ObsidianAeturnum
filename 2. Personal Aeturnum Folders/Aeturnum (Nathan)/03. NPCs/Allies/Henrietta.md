@@ -1,8 +1,9 @@
 Tags: #NPCs 
 
-Species: Machine, possibly something else previously
-Status: Alive/Operational
-Location: Unknown, assumedly with [[Scarlet]]
+**Species:** Machine, possibly something else previously
+**Pronouns:** Unknown, Scarlet refers to Henrietta as 'her'
+**Status:** Alive/Operational
+**Location:** Unknown, assumedly with [[Scarlet]] in the Wayfarer's Convoy
 # Basics
 
 Henrietta is a 9ft. tall robot with a core made from a [[Technology|coffin-like tank]]. What exactly she is, and whether she is a sentient entity, is unknown, but the machine may be controlled by some sort of creature inside the tank.

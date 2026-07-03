@@ -12,3 +12,8 @@ Tags: #PCs
 **Physical description:**
 
 **Memory:** Elias remembers laying in a bog.
+
+# Spells and Abilities
+
+- Speak with Animals
+- Wildshape (Giant Lizard)

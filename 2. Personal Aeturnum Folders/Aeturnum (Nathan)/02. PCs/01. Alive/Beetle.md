@@ -10,6 +10,7 @@ Tags: #PCs
 
 **Sessions:**
 - [[0.2 Requiem]]
+- [[0.3 Initiation]]
 
 **Physical description:** 2ft. tall, grizzled, about 60 years old, masculine, bald on top with long white hair around the sides
 
@@ -17,8 +18,12 @@ Tags: #PCs
 
 # Spells & Abilities
 
+Abilities:
+- Seer's Tooth (can rip out a tooth and use it to scry through, up to 10 miles)
+
 Spells:
 - Arcane Lock
+- Find Familiar (Giant Fly, rideable)
 - Dragon's Breath
 - Jump
 - Spider Climb

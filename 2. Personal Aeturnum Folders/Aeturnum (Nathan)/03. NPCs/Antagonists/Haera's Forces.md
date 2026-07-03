@@ -6,6 +6,7 @@ Stat Blocks
 - Bloodshot Archers
 - Undead Wayfarers
 - Vampiric Knights & Commander
+- Wraithlike Creatures
 Unique NPCs
 - The Five Lieutenants
 - Malice (The Harlequin)
@@ -35,17 +36,28 @@ Encountered during the initial raid on [[Tisis|Aernoc Castle]] during the events
 
 Melee combatants encountered during the initial raid on [[Tisis|Aernoc Castle]] during the events of [[0.1. Genesis (Prelude)|Genesis]].
 
+## Wraithlike Creatures
+
+First encountered during [[0.3 Initiation|Initiation]], these are semi-incorporeal humanoid creatures. 
+
+Abilities:
+- A wailing shriek that can cause Bloodkin to go into a frenzy. 
+
 # Unique NPCs
 ## The Five Lieutenants
 
 Five victims of the [[0.1. Genesis (Prelude)|Genesis Expedition]] that were converted into undead creatures and appointed as leaders of Haera's forces. See [[Five Lieutenants]].
 ## Malice (The Harlequin)
 
-A unique and powerful enemy with multiple abilities. They were first encountered during [[0.3 Initiation|Initiation training]], where they were in the process of killing multiple wayfarers, including [[Elaria]]. Malice appears sentient and capable of independent action. They are dressed in black studded leather armour and a harlequin's mask.
+A unique and powerful enemy with multiple abilities. They were first encountered during [[0.3 Initiation|Initiation training]], where they were in the process of killing multiple wayfarers, including [[Minor Wayfarer NPCs|Elaria]]. Malice appears sentient and capable of independent action. They are dressed in black studded leather armour, with tattered blood-red rags and a harlequin's mask.
 
 Their exact rank within Haera's Forces is unknown. They may be a [[Victims of the Genesis Expedition|victim of the Genesis Expedition]].
 
 Abilities include;
+- AC 15 (Initiation)
+- Invisibility
+- Blood Magic
+- Uncanny Dodge
 ## Warden & Witch
 
 A ogre-like armoured creature (Warden), who held a shrieking undead corpse (Witch) chained to a poll. They moved as one and acted as one, but had two separate ACs and hit points.

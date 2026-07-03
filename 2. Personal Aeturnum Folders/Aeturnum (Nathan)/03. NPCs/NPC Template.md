@@ -1,6 +1,7 @@
 Tags: #NPCs 
 
 Species:
+Pronouns:
 Status:
 Location:
 # Basics

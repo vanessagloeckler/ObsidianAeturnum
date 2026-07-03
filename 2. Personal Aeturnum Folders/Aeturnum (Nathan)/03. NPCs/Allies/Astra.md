@@ -1,8 +1,9 @@
 Tags: #NPCs 
 
-Species: Unknown
-Status: Alive
-Location: The Wayfarer's Convoy, Armoury Wagon
+**Species:** Unknown
+**Pronouns:** He/They
+**Status:** Alive
+**Location:** The Wayfarer's Convoy, Armoury Wagon
 # Basics
 # Appearances
 # Physical Appearance

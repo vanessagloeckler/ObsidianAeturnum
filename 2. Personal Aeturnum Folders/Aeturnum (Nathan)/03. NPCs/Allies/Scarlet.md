@@ -1,11 +1,13 @@
 Tags: #NPCs 
 
-Species: Human
-Status: Alive
-Location: Unknown, last seen returning to Adrestia with us after Requiem, but departed before we awoke.
+**Species:** Human
+**Pronouns:** She/Her
+**Status:** Alive
+**Location:** The Wayfarer's Convoy
 
 # Appearances
 - [[0.2 Requiem]]
+- [[0.3 Initiation]]
 # Physical Appearance
 
 Artificial red hair, cut short and jagged, as though cut with a knife. Typically wears leather armour.
@@ -22,6 +24,7 @@ She is a commander of the [[Wayfarer’s Guild]].
 
 # Connection to other NPCs
 
+[[Astra]] - It seems that Scarlet doesn't like going near Astra, and Astra believes that Scarlet has been stealing lyria to sell.
 [[Elaric Valent]] - As Guild Master, Elaric is her commanding officer. On the surface, she seems to dislike him, but there seems to be some deeper connection. 
 [[Henrietta]] - Seems to have a close bond, fights together
 

@@ -13,6 +13,7 @@ Districts:
 Other locations:
 - Aldwych Academy
 - Ivandara Temple
+- Primitive Ruins
 
 Organisations:
 - Major Guild: The Occultist's Guild
@@ -33,12 +34,16 @@ The Whaling District
 
 ## Aldwych Academy
 
-Located on an island to the southeast of Adrestia, this is where [[2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/The Nine|Elias Jassen]] had his base of operations during the [[03. Elements from Aeturnum 1|events of Aeturnum 1]]. Here, Elias would bring all the Riftborn that were pulled out of the Astral Corridor, binding them into service to The Nine. 
+Located on an island to the southeast of Adrestia, this is where [[The Nine|Elias Jassen]] had his base of operations during the [[03. Elements from Aeturnum 1|events of Aeturnum 1]]. Here, Elias would bring all the Riftborn that were pulled out of the Astral Corridor, binding them into service to The Nine. 
 
 The current status of the Academy is unknown.
 ## Ivandara Temple
 
 A temple located in the mountains above Adrestia, where statues of the heroic and forgotten founders of Adrestia are honoured. The [[0.1. Genesis (Prelude)|Genesis Expedition]] was dispatched from here. 
+
+## Primitive Ruins
+
+Located a short distance outside Adrestia, there are some primitive ruins. They were explored during the events of [[0.3 Initiation|Initiation]]. They featured a large humanoid statue that may have been [[03. Elements from Aeturnum 1|The Witness]] or [[05. Glossary of Minor Terms|Velissara]]. 
 
 # Organisations
 ## Major Guilds: The Occultists

@@ -1,8 +1,9 @@
 Tags: #NPCs 
 
-Species: Elf? Vampire
-Status: Alive
-Location: [[2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Adrestia]]
+**Species:** Elf? Vampire
+**Pronouns:** He/Him
+**Status:** Alive
+**Location:** The Wayfarer's Convoy
 # Appearances
 - [[03. Elements from Aeturnum 1|Events of Masquerade]]
 - [[0.2 Requiem]]
