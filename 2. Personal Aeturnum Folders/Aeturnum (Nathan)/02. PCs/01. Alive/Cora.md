@@ -12,6 +12,8 @@ Tags: #PCs
 
 **Physical description:**
 
+![[Pasted image 20260703132959.png]]
+
 **Memory:** 
 
 # Spells and Abilities
