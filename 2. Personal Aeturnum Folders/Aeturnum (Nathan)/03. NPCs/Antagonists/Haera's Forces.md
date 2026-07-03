@@ -28,10 +28,12 @@ Can inflict the [[04. Game Mechanics|Bleed & Haemorrhage]] condition.
 ## Bloodkin-esque Monsters
 
 Encountered during the initial raid on [[Tisis|Aernoc Castle]] during the events of [[0.1. Genesis (Prelude)|Genesis]]. They were narratively similar/identical to Bloodkin, but only had 1HP, acting as fodder minions.
-
 ## Bloodshot Archers
 
 Encountered during the initial raid on [[Tisis|Aernoc Castle]] during the events of [[0.1. Genesis (Prelude)|Genesis]]. They were able to shoot arrows of blood that inflicted a condition on a hit, though this condition was not Haemorrhage.
+## Undead Wayfarers
+
+First encountered during [[0.3 Initiation|Initiation]], these are the corpses of fallen wayfarers that have been reanimated by necromancy, but not turned into bloodkin. They seem to function like basic zombies, and are weak to radiant damage. 
 ## Vampiric Knights / Commander
 
 Melee combatants encountered during the initial raid on [[Tisis|Aernoc Castle]] during the events of [[0.1. Genesis (Prelude)|Genesis]].
@@ -51,12 +53,13 @@ Five victims of the [[0.1. Genesis (Prelude)|Genesis Expedition]] that were conv
 
 A unique and powerful enemy with multiple abilities. They were first encountered during [[0.3 Initiation|Initiation training]], where they were in the process of killing multiple wayfarers, including [[Minor Wayfarer NPCs|Elaria]]. Malice appears sentient and capable of independent action. They are dressed in black studded leather armour, with tattered blood-red rags and a harlequin's mask.
 
-Their exact rank within Haera's Forces is unknown. They may be a [[Victims of the Genesis Expedition|victim of the Genesis Expedition]].
+Their exact rank within Haera's Forces is unknown. They may be a [[Victims of the Genesis Expedition|victim of the Genesis Expedition]]. Their abilities are similar to that of a Rogue, though they also have access to magic. This may mean they were an Arcane Trickster, but they may also get their magic from Haera. 
 
 Abilities include;
 - AC 15 (Initiation)
 - Invisibility
 - Blood Magic
+- Necromancy - reanimated Undead Wayfarers (assumed)
 - Uncanny Dodge
 ## Warden & Witch
 

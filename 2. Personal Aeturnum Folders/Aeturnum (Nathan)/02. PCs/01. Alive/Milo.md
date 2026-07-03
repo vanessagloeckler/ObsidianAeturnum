@@ -18,5 +18,6 @@ Tags: #PCs
 # Spells & Abilities
 
 Abilities:
-- Push
+- Bait & Switch
 - Manoeuvring Step
+- Push

@@ -15,5 +15,7 @@ Tags: #PCs
 
 # Spells and Abilities
 
-- Speak with Animals
-- Wildshape (Giant Lizard)
+All level 1 & 2 Druid spells. 
+
+Wildshape (enhanced by Circle of the Moon subclass):
+- Giant Lizard (Brown)

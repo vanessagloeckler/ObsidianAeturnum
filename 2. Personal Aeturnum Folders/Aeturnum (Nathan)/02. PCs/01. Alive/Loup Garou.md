@@ -13,6 +13,16 @@ Tags: #PCs
 
 **Memory:** 
 
-Backstory
+**Backstory;**
 
 Grandson of [[Victims of the Genesis Expedition|Loup Garou]], and named after her.
+
+# Spells and Abilities
+
+All level 1 & 2 Druid spells. 
+
+Cantrips:
+- Message
+
+Wildshape (enhanced by Circle of the Moon subclass):
+- Demonic panther-like creature (Stat block: Lion)

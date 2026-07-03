@@ -13,3 +13,7 @@ Tags: #PCs
 **Physical description:**
 
 **Memory:** 
+
+# Spells and Abilities
+
+All level 1 & 2 Cleric spells. 

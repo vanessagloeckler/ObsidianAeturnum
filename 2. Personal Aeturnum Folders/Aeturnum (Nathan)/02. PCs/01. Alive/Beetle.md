@@ -23,6 +23,7 @@ Abilities:
 
 Spells:
 - Arcane Lock
+- See Invisibility
 - Find Familiar (Giant Fly, rideable)
 - Dragon's Breath
 - Jump

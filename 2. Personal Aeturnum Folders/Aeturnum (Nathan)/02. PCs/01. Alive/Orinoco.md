@@ -21,6 +21,23 @@ Tags: #PCs
 
 Singular memory: Walking along a river with her mother as a child, and her mother telling her the meaning of 'Orinoco' - It means "The place where we go paddling together."
 
+# Spells and Abilities
+
+All level 1 & 2 Druid spells. 
+
+Cantrips:
+- Guidance
+- Light
+- Spare the Dying
+- Starry Wisp
+- Thorn Whip
+
+Wildshape:
+- Giant Lizard
+- Giant Venomous Snake
+- Piranha
+- Scorpion
+
 # Events of Nocturne
 
 Session Notes - Orinoco's Journal
