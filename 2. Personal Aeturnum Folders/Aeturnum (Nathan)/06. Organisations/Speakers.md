@@ -1,6 +1,6 @@
 Tags: #Organisations 
 
-A council of representatives of all the different groups, organisations, guilds, and peoples of [[2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Adrestia]], formed in the wake of [[2. Personal Aeturnum Folders/Aeturnum (Nathan)/06. Organisations/The Nine]] falling silent after Elias Jassen's death. 
+A council of representatives of all the different groups, organisations, guilds, and peoples of [[Adrestia]], formed in the wake of [[The Nine]] falling silent after Elias Jassen's death. 
 
 Members:
 - Lenore - Speaker of the Occultists

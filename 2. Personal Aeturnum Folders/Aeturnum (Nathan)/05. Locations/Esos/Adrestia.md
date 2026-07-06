@@ -2,7 +2,7 @@ Tags: #Locations
 
 Setting of the original Aeturnum campaign, and origin of the [[Wayfarer’s Guild]].
 
-As per the map in the Riftborn Journal, the symbol of Adrestia is two crossed keys. 
+As per the map in the Riftborn Journal, the symbol of Adrestia is two old fashioned keys, crossed together. 
 
 Districts:
 - Highgarden Court

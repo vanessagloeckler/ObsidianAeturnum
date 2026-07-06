@@ -17,7 +17,7 @@ Ships capable of flight due to their Lyria engines. Have a habit of crashing.
 
 Known Airships:
 - Helena's Revenge (Destroyed) - Owned by [[03. Elements from Aeturnum 1|Eidolon/The Riftborn]], and named after Helena, an Eidolon operative who was repeatedly tortured to death by The Hierophant. Destroyed in the final battle against the Hierophant when the revived Helena crashed it into the Shrike. 
-- Phospherian Five (Destroyed) - Owned by [[Speakers|Speaker Vivian]]/[[2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Adrestia|Typhon Foundry]] and equipped with The Diluxium Sphere (see below) for battle against [[Haera Agelamorn]].  Destroyed by Haera during the events of [[0.1. Genesis (Prelude)|Genesis]].
+- Phospherian Five (Destroyed) - Owned by [[Speakers|Speaker Vivian]]/[[Adrestia|Typhon Foundry]] and equipped with The Diluxium Sphere (see below) for battle against [[Haera Agelamorn]].  Destroyed by Haera during the events of [[0.1. Genesis (Prelude)|Genesis]].
 # Coffin-like Tanks
 
 Unknown devices, assumedly of Haera's design. A humanoid is contained within, hung upside and pierced all over, submerged in blood. Their blood is extracted and pumped towards [[Tisis|Aernoc Castle]], while vampiric blood is pumped in, converting the human into a bloodkin. Seen in [[0.2 Requiem]].
@@ -31,7 +31,7 @@ An unknown substance that Elaric/the Wayfarer's Guild has access to. When admini
 
 An artificial sun, that generates natural sunlight in a range of ten miles, capable of repelling vampires. It operates either by using or generating 'heliatic energy' (possibly spelt wrong).
 
-Created by the Typhon Foundry in [[2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Adrestia]], and the brain child of [[Speakers|Speaker]] Vivian Anelin.
+Created by the Typhon Foundry in [[05. Locations/Esos/Adrestia|Adrestia]], and the brain child of [[Speakers|Speaker]] Vivian Anelin.
 
 Only one model is known to exist, which was carried on the Phospherian Five, the flagship airship of Adrestia, on the [[0.1. Genesis (Prelude)|Genesis Expedition]]. Both ship and sphere were destroyed by [[Haera Agelamorn]], who cast a bolt/cannon of blood powerful enough to cut through both, and the mountain behind. 
 

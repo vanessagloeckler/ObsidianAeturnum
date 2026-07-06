@@ -1,3 +1,5 @@
+Tags: #NPCs 
+
 - Template
 - Elaria
 

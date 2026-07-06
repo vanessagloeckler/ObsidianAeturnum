@@ -1,6 +1,6 @@
 Tags: #Lore 
 
-Ceremonial titles, identifying major commanding officers of the forces of [[2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Adrestia]].
+Ceremonial titles, identifying major commanding officers of the forces of [[Adrestia]].
 
 Whether these titles still exist, and who holds them, is presently unknown. 
 # First Blade

@@ -1,6 +1,6 @@
 Tags: #Organisations
 
-An organisation based out of [[2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Adrestia]] and led by Guild Master Elaric Valent. Our mission is to find a way to kill [[Haera Agelamorn]] and close the [[Worldwound]]. 
+An organisation based out of [[Adrestia]] and led by Guild Master Elaric Valent. Our mission is to find a way to kill [[Haera Agelamorn]] and close the [[Worldwound]]. 
 
 All PCs are Wayfarers. Below is a list of all known NPC members.
 
@@ -15,7 +15,7 @@ Known Active Members:
 - [[Scarlet]] - Commanding Officer - Possibly Gilli's avatar
 
 Known Inactive Members: 
-- [[Elaria]] (Deceased) - Scout - Killed by [[Haera's Forces|Malice]] during [[0.3 Initiation|Initiation]].
+- [[Minor Wayfarer NPCs|Elaria]] (Deceased) - Scout - Killed by [[Haera's Forces|Malice]] during [[0.3 Initiation|Initiation]].
 - [[Theolyn Esmond]] (Deceased) - Rank unknown, assumed Wayfarer - Died during the events of [[0.2 Requiem|Requiem]]
 
 # The Wayfarer's Convoy
