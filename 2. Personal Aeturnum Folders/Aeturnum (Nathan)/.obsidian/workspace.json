@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "af61e31217a7305d",
+        "id": "04cce327a896dc6f",
         "type": "tabs",
         "children": [
           {
-            "id": "1f2a35a9f2a50cad",
+            "id": "fc48f8daa857ef78",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08. Other/03. Elements from Aeturnum 1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "03. Elements from Aeturnum 1"
+              "title": "New tab"
             }
           }
         ]
@@ -183,8 +179,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "1f2a35a9f2a50cad",
+  "active": "fc48f8daa857ef78",
   "lastOpenFiles": [
+    "02. PCs/01. Alive/Orinoco.md",
+    "08. Other/03. Elements from Aeturnum 1.md",
     "06. Organisations/The Nine.md",
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/06. Organisations/The Nine.md",
     "The Nine.md",
@@ -204,7 +202,6 @@
     "04. Lore/First Blade & First Shield.md",
     "08. Other/05. Glossary of Minor Terms.md",
     "07. Official Media/005. Aeturnum II - Patch Notes 1.1 (Launch).md",
-    "08. Other/03. Elements from Aeturnum 1.md",
     "07. Official Media/002. Genesis Ticket Drop.md",
     "08. Other/01. Questions.md",
     "07. Official Media/001. Initial Post.md",
