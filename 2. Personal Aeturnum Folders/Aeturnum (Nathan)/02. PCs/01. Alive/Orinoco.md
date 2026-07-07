@@ -46,6 +46,7 @@ Wildshape:
 
 Session Notes - Orinoco's Journal
 - [[0.2 Requiem]] - [[The Tree Remembers]]
+- [[0.3 Initiation]] - [[Mock a Crocodile]]
 
 # Orinoco's Star Map
 
