@@ -11,6 +11,11 @@ tags:
 **Sessions:**
 - [[1.4 Anathema|Anathema]]
 
-**Physical description:**
+**Physical description:** Carries an obsidian axe and has skin the colour of a storm cloud just before it breaks. 
 
 **Memory:** 
+
+# Spells and Abilities
+
+Spells:
+- Mage Armour - His body becomes engulfed in a cloudy shroud

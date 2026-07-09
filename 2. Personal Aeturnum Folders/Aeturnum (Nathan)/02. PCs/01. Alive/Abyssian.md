@@ -22,3 +22,4 @@ Spells:
 - Bless
 - Detect Thoughts
 - Disguise Self
+- Silent Image

@@ -11,6 +11,6 @@ tags:
 **Sessions:**
 - [[1.4 Anathema|Anathema]]
 
-**Physical description:**
+**Physical description:** 2ft. tall.
 
 **Memory:** Everything on fire. 

@@ -14,3 +14,10 @@ tags:
 **Physical description:**
 
 **Memory:** 
+
+# Spells and Abilities
+
+Spells:
+- Minor Illusion
+- Dancing Lights
+- Silent Image

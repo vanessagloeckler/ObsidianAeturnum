@@ -1,7 +1,19 @@
-Tags: #Lore 
+---
+tags:
+  - Lore
+aliases:
+  - Airships
+  - Automata
+  - Dark Serum
+  - Diluxium Sphere
+  - Lyria
+  - Teleportation Gates
+---
+
 
 Contents: 
 - Airships
+- Automata
 - Coffin-like Tanks
 - Dark Serum
 - The Diluxium Sphere
@@ -18,6 +30,12 @@ Ships capable of flight due to their Lyria engines. Have a habit of crashing.
 Known Airships:
 - Helena's Revenge (Destroyed) - Owned by [[03. Elements from Aeturnum 1|Eidolon/The Riftborn]], and named after Helena, an Eidolon operative who was repeatedly tortured to death by The Hierophant. Destroyed in the final battle against the Hierophant when the revived Helena crashed it into the Shrike. 
 - Phospherian Five (Destroyed) - Owned by [[Speakers|Speaker Vivian]]/[[Adrestia|Typhon Foundry]] and equipped with The Diluxium Sphere (see below) for battle against [[Haera Agelamorn]].  Destroyed by Haera during the events of [[0.1. Genesis (Prelude)|Genesis]].
+
+# Automata
+
+Created by the [[Adrestia|Typhon Foundry]], Automata are large autonomous machines, built to keep the streets safe. They are vaguely humanoid in appearance, though very slender, relative to their size. They range from 7ft to 9ft tall, and are brass coloured. They have two sets of arms - a large, armoured set designed for combat and destruction, and a smaller, more humanoid set, designed for object manipulation. They have a definable head that is vaguely cranial in shape, but with no visible eyes or other features. 
+
+[[Henrietta]] is a modified Automata. 
 # Coffin-like Tanks
 
 Unknown devices, assumedly of Haera's design. A humanoid is contained within, hung upside and pierced all over, submerged in blood. Their blood is extracted and pumped towards [[Tisis|Aernoc Castle]], while vampiric blood is pumped in, converting the human into a bloodkin. Seen in [[0.2 Requiem]].

@@ -32,12 +32,16 @@ Encountered during the initial raid on [[Tisis|Aernoc Castle]] during the events
 ## Bloodshot Archers
 
 Encountered during the initial raid on [[Tisis|Aernoc Castle]] during the events of [[0.1. Genesis (Prelude)|Genesis]]. They were able to shoot arrows of blood that inflicted a condition on a hit, though this condition was not Haemorrhage.
-## Sword Arms
+## Sword Bastard
 
 First encountered during [[1.4 Anathema|Anathema]], these are mostly mechanical creatures with long swords for arms. They **cannot** inflict Haemorrhage, but are capable of teleporting through pools of blood. There are organic components to them, with blood flowing through visible veins throughout the machinery.
 
 **HP:** Less than 28.
 **Damage Types:** May be weak to fire, definitely not vulnerable to radiant
+
+Abilities:
+- Blood Step
+- Death Explosion - Upon destruction, they trigger an explosion that hits everyone in a 10ft radius with no save, deals a relatively small amount of both fire and necrotic damage.
 ## Undead Wayfarers
 
 First encountered during [[0.3 Initiation|Initiation]], these are the corpses of fallen wayfarers that have been reanimated by necromancy, but not turned into bloodkin. They seem to function like basic zombies, and are weak to radiant damage. 
