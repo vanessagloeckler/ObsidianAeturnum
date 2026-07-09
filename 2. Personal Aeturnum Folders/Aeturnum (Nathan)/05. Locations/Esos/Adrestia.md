@@ -5,6 +5,7 @@ Setting of the original Aeturnum campaign, and origin of the [[Wayfarer’s Guil
 As per the map in the Riftborn Journal, the symbol of Adrestia is two old fashioned keys, crossed together. 
 
 Districts:
+- Brigmore Commons
 - Highgarden Court
 - The Silver District
 - The Undercity
@@ -25,10 +26,26 @@ Organisations:
 - Typhon Foundry
 
 # Districts
-Highgarden Court
-The Silver District
-The Undercity
-The Whaling District
+## Brigmore Commons
+
+A working class district in the west of Adrestia, filled with workshops and workhouses, supply stores, and taverns. The Occultist's Guild public-facing base of operations is located here. As of the time of Aeturnum 2, it has become plagued with an unusually high number of people suffering from the [[Petrification Curse]]. 
+
+Locations within Brigmore Commons:
+- The Occultist Guild's headquarters
+- The *Sun Above Water* Tavern - an idyllic working class tavern that has been converted into a care centre for the Petrification Curse. 
+- A former candleshop that has also been converted into a care centre. [[Adrestia NPCs|Mina]] was working out of here for a time. 
+## Highgarden Court
+## The Silver District
+## The Undercity
+
+At the time of Aeturnum 1, The Undercity was a crime-rampant part of the city where people live in poverty, with illegal businesses such as fighting pits and drug trades operating with relative freedom.
+
+As of the time of Aeturnum 2, [[Speakers|Lady Zarissa]], formerly of the crime organisation Syndicate, has become the Speaker of the Undercity, and the districts fortunes are on the rise.
+## The Whaling District
+
+An industry district on the harbour, in the east of Adrestia, where many factories and warehouses can be found.
+
+During the [[03. Elements from Aeturnum 1|Events of Aeturnum 1]], the Riftborn's base of operations was located here.  
 
 # Other Locations
 

@@ -1,3 +1,11 @@
+---
+Tags:
+  - Organisations
+aliases:
+  - Wayfarer's Convoy
+---
+
+
 Tags: #Organisations
 
 An organisation based out of [[Adrestia]] and led by Guild Master Elaric Valent. Our mission is to find a way to kill [[Haera Agelamorn]] and close the [[Worldwound]]. 
