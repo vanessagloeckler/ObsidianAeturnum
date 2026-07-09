@@ -4,17 +4,21 @@ Tags:
 aliases:
   - Wayfarer's Convoy
 ---
-
-
-Tags: #Organisations
+- Basics
+- Our Vow
+- Members
+- The Wayfarer's Convoy
+# Basics
 
 An organisation based out of [[Adrestia]] and led by Guild Master Elaric Valent. Our mission is to find a way to kill [[Haera Agelamorn]] and close the [[Worldwound]]. 
 
-All PCs are Wayfarers. Below is a list of all known NPC members.
-
 Our uniform is black and gold.
+# Our Vow
 
+"The Worldwound must be closed, and Haera Agelamorn must die." 
 # Members
+
+All PCs are Wayfarers. Below is a list of all known NPC members.
 
 Known Active Members:
 - [[Astra]] - Armourer

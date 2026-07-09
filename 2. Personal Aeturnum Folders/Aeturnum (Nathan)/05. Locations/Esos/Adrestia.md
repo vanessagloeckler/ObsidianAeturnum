@@ -28,14 +28,18 @@ Organisations:
 # Districts
 ## Brigmore Commons
 
-A working class district in the west of Adrestia, filled with workshops and workhouses, supply stores, and taverns. The Occultist's Guild public-facing base of operations is located here. As of the time of Aeturnum 2, it has become plagued with an unusually high number of people suffering from the [[Petrification Curse]]. 
+A working class district in the west of Adrestia, filled with workshops and workhouses, supply stores for tradespeople, and taverns. The Occultist's Guild public-facing base of operations is located here. As of the time of Aeturnum 2, it has become plagued with an unusually high number of people suffering from the [[Petrification Curse]]. 
 
-Locations within Brigmore Commons:
+Locations within Brigmore Commons (A2 Only):
 - The Occultist Guild's headquarters
 - The *Sun Above Water* Tavern - an idyllic working class tavern that has been converted into a care centre for the Petrification Curse. 
 - A former candleshop that has also been converted into a care centre. [[Adrestia NPCs|Mina]] was working out of here for a time. 
 ## Highgarden Court
+
+A central district of Adrestia, housing the cathedral.
 ## The Silver District
+
+At the time of Aeturnum 1, The Silver District was the wealthier part of town, where nobility and celebrities lived. Its current status is unknown.
 ## The Undercity
 
 At the time of Aeturnum 1, The Undercity was a crime-rampant part of the city where people live in poverty, with illegal businesses such as fighting pits and drug trades operating with relative freedom.

@@ -1,5 +1,9 @@
-Tags: #NPCs 
-
+---
+tags:
+  - NPCs
+aliases:
+  - Elaria
+---
 - Template
 - Elaria
 
