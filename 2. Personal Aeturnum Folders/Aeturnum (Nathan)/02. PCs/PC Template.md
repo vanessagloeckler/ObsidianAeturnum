@@ -1,7 +1,7 @@
-Tags: #PCs 
-
-**Player Name:** 
-**Player Pronouns:** 
+---
+tags:
+  - PCs
+---
 **Character Name:** 
 **Character Pronouns:** 
 **Class:** 

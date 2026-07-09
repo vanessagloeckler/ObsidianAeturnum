@@ -4,6 +4,7 @@ Stat Blocks
 - Bloodkin
 - Bloodkin-esque monsters (Minions)
 - Bloodshot Archers
+- Sword Arms
 - Undead Wayfarers
 - Vampiric Knights & Commander
 - Wraithlike Creatures
@@ -19,10 +20,10 @@ Described as grotesque monsters with too many teeth. They are created when a hum
 
 Creatures called Bloodkin also featured heavily in [[03. Elements from Aeturnum 1|Bloodtide]]. Similarities currently unknown, but they are both directly linked to [[The Outer God of Blood]].
 
-AC: 13
-HP: Less than 18
-Movement: 30ft
-Weaknesses: Fire, possibly radiant
+**AC:** 13
+**HP:** Less than 18
+**Movement:** 30ft
+**Damage Types:** Fire, possibly radiant
 
 Can inflict the [[04. Game Mechanics|Bleed & Haemorrhage]] condition.
 ## Bloodkin-esque Monsters
@@ -31,6 +32,12 @@ Encountered during the initial raid on [[Tisis|Aernoc Castle]] during the events
 ## Bloodshot Archers
 
 Encountered during the initial raid on [[Tisis|Aernoc Castle]] during the events of [[0.1. Genesis (Prelude)|Genesis]]. They were able to shoot arrows of blood that inflicted a condition on a hit, though this condition was not Haemorrhage.
+## Sword Arms
+
+First encountered during [[1.4 Anathema|Anathema]], these are mostly mechanical creatures with long swords for arms. They **cannot** inflict Haemorrhage, but are capable of teleporting through pools of blood. There are organic components to them, with blood flowing through visible veins throughout the machinery.
+
+**HP:** Less than 28.
+**Damage Types:** May be weak to fire, definitely not vulnerable to radiant
 ## Undead Wayfarers
 
 First encountered during [[0.3 Initiation|Initiation]], these are the corpses of fallen wayfarers that have been reanimated by necromancy, but not turned into bloodkin. They seem to function like basic zombies, and are weak to radiant damage. 

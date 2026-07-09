@@ -2,10 +2,10 @@
 tags:
   - NPCs
 ---
-Species:
-Pronouns:
-Status:
-Location:
+**Species:** Human (Assumed) 
+**Pronouns:** He/Him
+**Status:** Alive
+**Location:** The Wayfarer's Convoy
 # Basics
 # Appearances
 # Physical Appearance
