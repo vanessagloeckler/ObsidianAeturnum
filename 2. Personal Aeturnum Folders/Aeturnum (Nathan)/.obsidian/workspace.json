@@ -4,137 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "be2605526c63e90b",
+        "id": "51a46061295fe14a",
         "type": "tabs",
         "children": [
           {
-            "id": "f6bd8efa48f779c0",
+            "id": "70aadb7ff2876190",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Sessions/01. Session Notes/1.4 Anathema.md",
+                "file": "08. Other/03. Elements from Aeturnum 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.4 Anathema"
+              "title": "03. Elements from Aeturnum 1"
             }
           },
           {
-            "id": "1fa5ec38c09dc770",
+            "id": "465179ceb4a22bc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. NPCs/Antagonists/Haera's Forces.md",
+                "file": "08. Other/99. The Riftborn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Haera's Forces"
+              "title": "99. The Riftborn"
             }
           },
           {
-            "id": "e1f011ec942deb92",
+            "id": "51fc88812333e58f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Lore/Technology.md",
+                "file": "02. PCs/01. Alive/Orinoco.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Technology"
-            }
-          },
-          {
-            "id": "54d69e34a5aa7738",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. PCs/01. Alive/Abyssian.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Abyssian"
-            }
-          },
-          {
-            "id": "c9e96a4006d6f6a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. PCs/Ember.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ember"
-            }
-          },
-          {
-            "id": "dc6febfb30c96f70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. PCs/Squeak.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Squeak"
-            }
-          },
-          {
-            "id": "b4be5937ac2721c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. PCs/Shade.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Shade"
-            }
-          },
-          {
-            "id": "4203c9c3218be22e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. PCs/Lugos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lugos"
-            }
-          },
-          {
-            "id": "94b24cafd097e6c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. PCs/Zanya.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zanya"
+              "title": "Orinoco"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -296,8 +212,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "94b24cafd097e6c5",
+  "active": "465179ceb4a22bc2",
   "lastOpenFiles": [
+    "02. PCs/01. Alive/Orinoco.md",
+    "06. Organisations/Speakers.md",
+    "03. NPCs/Neutral or Unknown/Other NPCs.md",
+    "08. Other/99. The Riftborn.md",
+    "08. Other/03. Elements from Aeturnum 1.md",
+    "00. READ ME FIRST/00. READ ME FIRST.md",
+    "00. READ ME FIRST",
+    "02. PCs/Zanya.md",
     "02. PCs/Lugos.md",
     "02. PCs/Shade.md",
     "02. PCs/Squeak.md",
@@ -307,7 +231,6 @@
     "01. Sessions/01. Session Notes/1.4 Anathema.md",
     "03. NPCs/Antagonists/Haera's Forces.md",
     "01. Sessions/01. Session Notes/0.3 Initiation.md",
-    "02. PCs/Zanya.md",
     "08. Other/01. Questions.md",
     "03. NPCs/Location-Based NPCs/Adrestia NPCs.md",
     "03. NPCs/Allies/Wayfarers/Henrietta.md",
@@ -316,16 +239,10 @@
     "06. Organisations/Wayfarer’s Guild.md",
     "03. NPCs/Allies/Wayfarers/Minor Wayfarer NPCs.md",
     "08. Other/02. Mysteries.md",
-    "08. Other/03. Elements from Aeturnum 1.md",
-    "06. Organisations/Speakers.md",
     "03. NPCs/Allies/Wayfarers/Scarlet.md",
     "08. Other/05. Glossary of Minor Terms.md",
-    "03. NPCs/NPC Template.md",
-    "04. Lore/Vampirism.md",
-    "05. Locations/Tisis/Tisis.md",
     "03. NPCs/Location-Based NPCs",
     "03. NPCs/Lists of Minor NPCs",
-    "02. PCs/01. Alive/Orinoco.md",
     "08. Other/Images/Pasted image 20260703132959.png",
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/05. Locations/Esos",
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/05. Locations",
@@ -333,7 +250,6 @@
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)",
     "2. Personal Aeturnum Folders",
     "03. NPCs/Allies/Wayfarers",
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide",
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)"
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide"
   ]
 }

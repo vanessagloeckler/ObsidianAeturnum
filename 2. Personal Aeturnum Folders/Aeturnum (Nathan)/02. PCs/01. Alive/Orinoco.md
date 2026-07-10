@@ -5,6 +5,7 @@ Tags: #PCs
 - Basics
 - Backstory
 - Events of Nocturne
+- Views on NPCs
 - Orinoco's Star Map
 - Playlist
 - Quotes
@@ -27,6 +28,8 @@ If you have this level of detail for your character and are happy for it to be p
 Singular memory: Walking along a river with her mother as a child, and her mother telling her the meaning of 'Orinoco' - It means "The place where we go paddling together."
 # Spells and Abilities
 
+Circle of the Stars Druid abilities up to level 3.
+
 All level 1 & 2 Druid spells. 
 
 Cantrips:
@@ -47,6 +50,18 @@ Wildshape:
 Session Notes - Orinoco's Journal
 - [[0.2 Requiem]] - [[The Tree Remembers]]
 - [[0.3 Initiation]] - [[Mock a Crocodile]]
+- [[1.4 Anathema]] - Journal not written yet
+
+# Views on NPCs
+
+**Astra** - Curiosity (and desire).
+**Elaric Valent** - Desire.
+**Haera** - Fear, an inexplicable sympathy, and a small amount of desire.
+**Henrietta** - Suspicion.
+**Mina** - Desire.
+**Scarlet** - Waning desire due to Scarlet's cavalier attitude towards the memory loss we're experiencing. Orinoco believes Scarlet to be responsible for the memory loss, given that Scarlet was her commanding officer during the mission that it happened on.
+**Theolyn Esmond** - Grief for a friend she can't remember.
+**Silas Reiner** - Desire.
 
 # Orinoco's Star Map
 
