@@ -8,63 +8,63 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "#NPCs",
+      "query": "tag: #NPCs",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
     },
     {
-      "query": "#PCs",
+      "query": "tag: #PCs ",
       "color": {
         "a": 1,
         "rgb": 46079
       }
     },
     {
-      "query": "#Locations",
+      "query": "tag: #Locations",
       "color": {
         "a": 1,
         "rgb": 11392604
       }
     },
     {
-      "query": "#SessionNotes",
+      "query": "tag: #SessionNotes",
       "color": {
         "a": 1,
         "rgb": 9175295
       }
     },
     {
-      "query": "#Lore",
+      "query": "tag: #Lore",
       "color": {
         "a": 1,
         "rgb": 16753152
       }
     },
     {
-      "query": "#Organisations",
+      "query": "tag: #Organisations",
       "color": {
         "a": 1,
         "rgb": 11403202
       }
     },
     {
-      "query": "#OM",
+      "query": "tag: #OM",
       "color": {
         "a": 1,
         "rgb": 7667712
       }
     },
     {
-      "query": "#Other",
+      "query": "tag: #Other",
       "color": {
         "a": 1,
         "rgb": 16777215
       }
     },
     {
-      "query": "#Journals",
+      "query": "tag: #Journals",
       "color": {
         "a": 1,
         "rgb": 14048429

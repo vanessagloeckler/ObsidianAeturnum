@@ -1,3 +1,8 @@
+---
+tags:
+  - Journals
+---
+
 <p style="text-align:center;">
 It is Only Safe to Mock A Crocodile<br>
 
@@ -5,8 +10,6 @@ After You Have Crossed the River <br>
 
 (Initiation)
 </p>
-Tags: #Journals 
-
 I have tried today, for the first time, to draw meaning from the stars on my pitcher. To my great surprise, I recognized two of the symbols that appeared. The first was *Piranha*, a warning of blood in the water, and the second was *Scarlet Ibis*, a symbol of rejuvenation. These are both constellations that I appear to be bound to, and draw my power from. The Piranha makes my offensive magicks more deadly, while the Scarlet Ibis shows me how best to channel my healing powers into my friends. The third constellation was unknown to me in the morning, but by the end of the day both its shape and meaning became very clear.
 
 Last night I dreamt of Aernoc Palace again. I was in those dreadful coffin tanks that convert the forsaken into the damned. I awoke to screaming - not my own, thankfully, but that of my new companions, the Wayfarers. I approached Brick, a rather fetching lady dwarf with biceps bigger than my thighs. I felt the full force of those arms as she instinctively cracked me in the jaw, in a bid to defend herself from her own nightmare. Elsewhere, Beetle found themself trampled by another new ally, a large human by the name of Elias Mulch - aptly named as he looks and smells as though he had just crawled out of a bog. 
