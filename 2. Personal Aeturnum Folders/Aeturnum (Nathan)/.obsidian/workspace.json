@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. PCs/01. Alive/Shade.md",
+                "file": "05. Locations/Esos/Adrestia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shade"
+              "title": "Adrestia"
+            }
+          },
+          {
+            "id": "616d23c44e8d1ecc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. PCs/01. Alive/Orinoco.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Orinoco"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,19 +198,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "0f63edda7c0bea26",
+  "active": "616d23c44e8d1ecc",
   "lastOpenFiles": [
+    "05. Locations/Esos/Adrestia.md",
+    "03. NPCs/Location-Based NPCs/Adrestia NPCs.md",
+    "01. Sessions/02. Orinoco's Journals/The River and the Sea are One.md",
+    "01. Sessions/01. Session Notes/1.4 Anathema.md",
+    "01. Sessions/01. Session Notes/0.3 Initiation.md",
+    "02. PCs/01. Alive/Orinoco.md",
+    "02. PCs/01. Alive/Ember.md",
+    "01. Sessions/02. Orinoco's Journals/The Tree Remembers.md",
+    "01. Sessions/02. Orinoco's Journals/Mock a Crocodile.md",
+    "02. PCs/01. Alive/Shade.md",
     "02. PCs/01. Alive/Lugos.md",
     "02. PCs/PC Template.md",
-    "02. PCs/01. Alive/Ember.md",
     "08. Other/99. The Riftborn.md",
     "02. PCs/01. Alive/Lilah.md",
-    "01. Sessions/02. Orinoco's Journals/Mock a Crocodile.md",
     "00. READ ME FIRST/00. READ ME FIRST.md",
     "02. PCs/01. Alive/Beetle.md",
-    "02. PCs/01. Alive/Shade.md",
     "08. Other/03. Elements from Aeturnum 1.md",
-    "02. PCs/01. Alive/Orinoco.md",
     "08. Other/05. Glossary of Minor Terms.md",
     "06. Organisations/Speakers.md",
     "03. NPCs/Neutral or Unknown/Other NPCs.md",
@@ -204,14 +225,8 @@
     "02. PCs/01. Alive/Squeak.md",
     "02. PCs/01. Alive/Abyssian.md",
     "04. Lore/Technology.md",
-    "01. Sessions/01. Session Notes/1.4 Anathema.md",
     "03. NPCs/Antagonists/Haera's Forces.md",
-    "01. Sessions/01. Session Notes/0.3 Initiation.md",
     "08. Other/01. Questions.md",
-    "03. NPCs/Location-Based NPCs/Adrestia NPCs.md",
-    "03. NPCs/Allies/Wayfarers/Henrietta.md",
-    "05. Locations/Esos/Adrestia.md",
-    "03. NPCs/Allies/Wayfarers/Silas Reiner.md",
     "03. NPCs/Location-Based NPCs",
     "03. NPCs/Lists of Minor NPCs",
     "08. Other/Images/Pasted image 20260703132959.png",

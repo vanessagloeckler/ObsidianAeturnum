@@ -1,3 +1,7 @@
+---
+tags:
+  - Journals
+---
 <p style="text-align:center;">
 The Axe Forgets<br>
 
@@ -5,8 +9,6 @@ The Tree Remembers <br>
 
 (Requiem)
 </p>
-
-Tags: #Journals
 
 I don't know who I am, but I am covered in blood.
 

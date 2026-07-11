@@ -9,7 +9,6 @@ Tags: #PCs
 - Orinoco's Star Map
 - Playlist
 - Quotes
-
 # Meta Notes
 
 This is my character, so this doc is a lot more detailed than all the other PC sheets. Happy for anyone to read anything that's written here. The playlist section is immaculate.
@@ -50,7 +49,7 @@ Wildshape:
 Session Notes - Orinoco's Journal
 - [[0.2 Requiem]] - [[The Tree Remembers]]
 - [[0.3 Initiation]] - [[Mock a Crocodile]]
-- [[1.4 Anathema]] - Journal not written yet
+- [[1.4 Anathema]] - [[The River and the Sea are One]] (One Star Sign unidentified)
 
 # Views on NPCs
 
@@ -65,16 +64,17 @@ Session Notes - Orinoco's Journal
 
 # Orinoco's Star Map
 
-| D100 | Constellation  | Appearance                                                              | Meaning                                                | Source                            | PNN  | Total | Sm  | Md  | Lg  |
-| :--: | -------------- | ----------------------------------------------------------------------- | ------------------------------------------------------ | --------------------------------- | ---- | ----- | --- | --- | --- |
-|  1   | Piranha        | Zig-Zag lines plus one large star, as the teeth and eyes of the piranha | **Caution:** Blood in the water, take heed             | Starry Form                       | Neut | 24    | 17  | 6   | 1   |
-|  2   | Scarlet Ibis   | Box with two stems going downwards, one going up                        | **Healing:** Good health and rejuvenation              | Starry Form                       | Pos  | 12    | 8   | 1   | 3   |
-|  3   | Arrau Turtle   | Diamond-shape                                                           | **Fortitude:** A strong mind listens before it reacts. | Starry Form                       | Pos  | 7     | 3   | 3   | 1   |
-|  4   | Mermaid        | Humanoid with forked tail instead of legs                               | **Release:** Break free from restraints.               | Celestial Revalation              | Pos  | 15    | 8   | 4   | 3   |
-|  5   | River Rapids   | Curving line around large rocks                                         | **Reckless:** Those who move too fast will fall first. | Celestial Revalation              | Neg  | 25    | 19  | 2   | 4   |
-|  6   | Stagnant Pool  | Long straight line with small lines pulled down                         | **Stagnation:** Those who remain stationary are lost.  | Celestial Revalation              | Neg  | 21    | 21  | 0   | 0   |
-|  7   | Angelus        | Angel-like humanoid                                                     | **Loss:** Forget not those who fell before the end.    | [[Theolyn Esmond]]                | Neg  | 12    | 7   | 2   | 3   |
-|  8   | Harlequin Mask | A spiked crown with two large stars for eyes                            | **Mischief:** To cause havoc with no greater purpose.  | [[Haera's Forces\|The Harlequin]] | Neut | 19    | 12  | 5   | 2   |
+| D100 | Constellation  | Appearance                                                              | Meaning                                                 | Source                                          | Total | Sm  | Md  | Lg  |
+| :--: | -------------- | ----------------------------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------- | ----- | --- | --- | --- |
+|  1   | Piranha        | Zig-Zag lines plus one large star, as the teeth and eyes of the piranha | **Caution:** Blood in the water, take heed              | Starry Form                                     | 24    | 17  | 6   | 1   |
+|  2   | Scarlet Ibis   | Box with two stems going downwards, one going up                        | **Healing:** Good health and rejuvenation               | Starry Form                                     | 12    | 8   | 1   | 3   |
+|  3   | Arrau Turtle   | Diamond-shape                                                           | **Fortitude:** A strong mind listens before it reacts.  | Starry Form                                     | 7     | 3   | 3   | 1   |
+|  4   | Mermaid        | Humanoid with forked tail instead of legs                               | **Release:** Break free from restraints.                | Celestial Revalation                            | 15    | 8   | 4   | 3   |
+|  5   | River Rapids   | Curving line around large rocks                                         | **Reckless:** Those who move too fast will fall first.  | Celestial Revalation                            | 25    | 19  | 2   | 4   |
+|  6   | Stagnant Pool  | Long straight line with small lines pulled down                         | **Stagnation:** Those who remain stationary are lost.   | Celestial Revalation                            | 21    | 21  | 0   | 0   |
+|  7   | Angelus        | Angel-like humanoid                                                     | **Loss:** Forget not those who fell before the end.     | [[Theolyn Esmond]]                              | 12    | 7   | 2   | 3   |
+|  8   | Harlequin Mask | A spiked crown with two large stars for eyes                            | **Mischief:** To cause havoc with no greater purpose.   | [[Haera's Forces\|The Harlequin]]               | 19    | 12  | 5   | 2   |
+|  9   | Cherubs        |                                                                         | **Innocence**: No one else will have to feel this pain. | [[Adrestia NPCs\|Luke and his Nameless Sister]] |       |     |     |     |
 # Playlist
 
 Last song added: 500 Miles - Peter, Paul, and Mary
