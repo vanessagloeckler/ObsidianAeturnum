@@ -9,7 +9,7 @@ Effects of the Worldwound:
 
 # Creation
 
-30 years ago, [[Haera Agelamorn]] was performing some sort of ritual in Aernoc Palace, while surrounded by her courtiers. This resulted in the Worldwound opening, and immediately turning the vampire courtiers to stone, all bar Haera herself. It is unknown whether this was Haera's intent, but all the courtiers were frozen with happy, peaceful, or excited expressions, meaning they either expected it to happen or it happened instantly.
+30 years ago, [[2. Personal Aeturnum Folders/Aeturnum (Nathan)/03. NPCs/Antagonists/Haera Agelamorn]] was performing some sort of ritual in Aernoc Palace, while surrounded by her courtiers. This resulted in the Worldwound opening, and immediately turning the vampire courtiers to stone, all bar Haera herself. It is unknown whether this was Haera's intent, but all the courtiers were frozen with happy, peaceful, or excited expressions, meaning they either expected it to happen or it happened instantly.
 
 # Appearance
 

@@ -1,6 +1,6 @@
 Tags: #NPCs
 
-The following people were dispatched to [[Tisis#Aernoc Palace|Aernoc Palace]] to fight [[Haera Agelamorn]] and close the [[Worldwound]]. 
+The following people were dispatched to [[Tisis#Aernoc Palace|Aernoc Palace]] to fight [[2. Personal Aeturnum Folders/Aeturnum (Nathan)/03. NPCs/Antagonists/Haera Agelamorn]] and close the [[Worldwound]]. 
 
 They were completely wiped out by Haera, and converted into thralls. Five became the [[Five Lieutenants|lieutenants of Haera's forces/court]]. 
 

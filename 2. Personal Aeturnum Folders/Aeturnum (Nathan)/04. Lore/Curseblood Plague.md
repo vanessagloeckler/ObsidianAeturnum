@@ -2,7 +2,7 @@
 tags:
   - Lore
 ---
-The Curseblood Plague is a vampiric infection created by [[Haera Agelamorn]]. She uses it to convert humanoid creatures into [[Haera's Forces|thralls, vampires, and bloodkin]]. 
+The Curseblood Plague is a vampiric infection created by [[2. Personal Aeturnum Folders/Aeturnum (Nathan)/03. NPCs/Antagonists/Haera Agelamorn]]. She uses it to convert humanoid creatures into [[Haera's Forces|thralls, vampires, and bloodkin]]. 
 
 All PC members of the [[Wayfarer’s Guild]] became infected with it after being submerged in the [[Technology#Coffin-like Tanks|coffin-like tanks]] during the events of [[0.2 Requiem|Requiem]].
 

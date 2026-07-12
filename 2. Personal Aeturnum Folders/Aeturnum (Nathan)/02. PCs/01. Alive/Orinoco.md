@@ -124,7 +124,7 @@ Last song added: 500 Miles - Peter, Paul, and Mary
 - Passing Afternoon - Iron & Wine - Orinoco's Mother
 - Trauma Olympics - James the 7th
 - My Type - Saint Motel (Lovers)
-- Black Hole Sun - Soundgarden ([[Haera Agelamorn]]/[[Worldwound]])
+- Black Hole Sun - Soundgarden ([[2. Personal Aeturnum Folders/Aeturnum (Nathan)/03. NPCs/Antagonists/Haera Agelamorn]]/[[Worldwound]])
 ## Other Vibes
 ### General Nature-y Vibes
 - The Moss - Cosmo Sheldrake

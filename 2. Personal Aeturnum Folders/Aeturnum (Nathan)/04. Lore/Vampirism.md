@@ -11,7 +11,7 @@ Information on the exact nature of vampires is unclear. There may be several dif
 # Known Vampires
 - [[03. Elements from Aeturnum 1#Ashe|Ashe]] - Thrall of unknown origin - Assumed deceased
 - [[Elaric Valent]] - Half Vampire - Leader of the [[Wayfarer’s Guild]]
-- [[Haera Agelamorn]] - Pure Vampire - Tisis
+- [[2. Personal Aeturnum Folders/Aeturnum (Nathan)/03. NPCs/Antagonists/Haera Agelamorn]] - Pure Vampire - Tisis
 - [[Elaric Valent#Aeturnum 1 Backstory|Heloise Valent]] - Half Vampire - Deceased
 - [[Adrestia NPCs#Mina|Mina]] - Thrall of unknown origin - Adrestia
 - The [[Five Lieutenants]] - Thralls of Haera - Tisis

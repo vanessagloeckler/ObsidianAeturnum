@@ -4,4 +4,4 @@ A group of powerful wizards that rule over [[Adrestia]]. They have 'fallen silen
 
 Members:
 - Elias Jassen (Deceased - Killed at the end of Masquerade in Aeturnum 1)
-- [[Haera Agelamorn]]
+- [[2. Personal Aeturnum Folders/Aeturnum (Nathan)/03. NPCs/Antagonists/Haera Agelamorn]]

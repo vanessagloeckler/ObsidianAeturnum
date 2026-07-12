@@ -14,7 +14,7 @@ aliases:
 	- [[#The Vanguard]]
 # Basics
 
-An organisation based out of [[Adrestia]] and led by Guild Master Elaric Valent. Our mission is to find a way to kill [[Haera Agelamorn]] and close the [[Worldwound]]. 
+An organisation based out of [[Adrestia]] and led by Guild Master Elaric Valent. Our mission is to find a way to kill [[2. Personal Aeturnum Folders/Aeturnum (Nathan)/03. NPCs/Antagonists/Haera Agelamorn]] and close the [[Worldwound]]. 
 
 Our uniform is black and gold.
 # Our Vow

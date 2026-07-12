@@ -26,7 +26,7 @@ Ships capable of flight due to their Lyria engines. Have a habit of crashing.
 
 Known Airships:
 - Helena's Revenge (Destroyed) - Owned by [[03. Elements from Aeturnum 1#Eidolon|Eidolon/The Riftborn]], and named after Helena, an Eidolon operative who was repeatedly tortured to death by The Hierophant. Destroyed in the final battle against the Hierophant when the revived Helena crashed it into the Shrike. 
-- Phospherian Five (Destroyed) - Owned by [[Speakers#Vivian Anelin|Speaker Vivian]]/[[Adrestia#Typhon Foundry|Typhon Foundry]] and equipped with [[#The Diluxium Sphere]] for battle against [[Haera Agelamorn]].  Destroyed by Haera during the events of [[0.1. Genesis (Prelude)|Genesis]].
+- Phospherian Five (Destroyed) - Owned by [[Speakers#Vivian Anelin|Speaker Vivian]]/[[Adrestia#Typhon Foundry|Typhon Foundry]] and equipped with [[#The Diluxium Sphere]] for battle against [[2. Personal Aeturnum Folders/Aeturnum (Nathan)/03. NPCs/Antagonists/Haera Agelamorn]].  Destroyed by Haera during the events of [[0.1. Genesis (Prelude)|Genesis]].
 # Automata
 
 Created by the [[Adrestia#Typhon Foundry|Typhon Foundry]], Automata are large autonomous machines, built to keep the streets safe. They are vaguely humanoid in appearance, though very slender, relative to their size. They range from 7ft to 9ft tall, and are brass coloured. They have two sets of arms - a large, armoured set designed for combat and destruction, and a smaller, more humanoid set, designed for object manipulation. They have a definable head that is vaguely cranial in shape, but with no visible eyes or other features. 
@@ -46,7 +46,7 @@ An artificial sun, that generates natural sunlight in a range of ten miles, capa
 
 Created by the [[Adrestia#Typhon Foundry|Typhon Foundry]], and the brain child of [[Speakers#Vivian Anelin|Speaker Vivian]].
 
-Only one model is known to exist, which was carried on the Phospherian Five, the flagship airship of Adrestia, on the [[0.1. Genesis (Prelude)|Genesis Expedition]]. Both ship and sphere were destroyed by [[Haera Agelamorn]], who cast a bolt/cannon of blood powerful enough to cut through both, and the mountain behind. 
+Only one model is known to exist, which was carried on the Phospherian Five, the flagship airship of Adrestia, on the [[0.1. Genesis (Prelude)|Genesis Expedition]]. Both ship and sphere were destroyed by [[2. Personal Aeturnum Folders/Aeturnum (Nathan)/03. NPCs/Antagonists/Haera Agelamorn]], who cast a bolt/cannon of blood powerful enough to cut through both, and the mountain behind. 
 
 # Energy Sources
 ## Etheric Cells

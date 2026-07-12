@@ -19,3 +19,16 @@ A council of representatives of all the different groups, organisations, guilds,
 **Location:** Adrestia
 **Role:** Speaker of The Occultist's Guild
 
+# Lady Zarissa
+**Species:** Unknown, assumed tiefling
+**Pronouns:** She/Her
+**Status:** Alive as of Genesis
+**Location:** Adrestia
+**Role:** Speaker of The Undercity
+
+# Vivian Anelin
+**Species:** Unknown, assumed human
+**Pronouns:** He/Him
+**Status:** Alive as of Genesis
+**Location:** Adrestia
+**Role:** Speaker of Typhon Foundry
