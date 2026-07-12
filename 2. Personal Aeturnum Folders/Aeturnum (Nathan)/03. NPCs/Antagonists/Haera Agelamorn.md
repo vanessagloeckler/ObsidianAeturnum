@@ -1,14 +1,24 @@
-Tags: #NPCs
-
+---
+tags:
+  - NPCs
+aliases:
+  - Heara
+  - Agelamorn
+  - The Queen of Tisis
+---
+**Contents**
+- [[#Basics]]
+- [[#Appearances]]
+- [[#Physical Appearance]]
+- [[#Connection to the Wayfarers]]
+- [[#Abilities]]
 # Basics
-
-AKA: 'The Queen of Tisis'
 
 The leader of the vampires and ruler of [[Tisis]]. She is responsible for opening the [[Worldwound]], and seems to be connected to it, though whether she has control over it is presently unknown. She was attempting to do something - perform some powerful magic - when she caused it to open. 
 # Appearances
-- [[03. Elements from Aeturnum 1|Severance]]
-- [[0.1. Genesis (Prelude)|Genesis]]
-- [[0.2 Requiem|Requiem]]
+- [[03. Elements from Aeturnum 1#Severance|Severance]]
+- [[0.1. Genesis (Prelude)]]
+- [[0.2 Requiem]]
 # Physical Appearance
 
 Deeply unnatural. Tall, blonde/silver hair, pale to the point of being almost white, impossibly curvy with 'them big unnatural' breasts. Wears slender, silky clothes.
@@ -23,7 +33,7 @@ Abilities in combat:
 - Deglove - Magic attack (possibly melee range) - If the target drops to 0HP as a result of this attack, they are instantly killed as their flesh is stripped from their skeleton, which becomes animated and fights for Haera
 - Sanguine Step - Basically Misty Step, possibly a wider range, may need presence of blood on the floor
 - Brainwashing (Concentration) - Can possess a single target and take complete control of them
-- Can inflict [[04. Game Mechanics|Bleed and Haemorrhage]]
+- Can inflict [[04. Game Mechanics#Bleed & Haemorrhage|Bleed and Haemorrhage]]
 
 Other Abilities:
 - Is psychically linked to anyone suffering from the Curseblood Plague. The limits and range of this are unknown. 

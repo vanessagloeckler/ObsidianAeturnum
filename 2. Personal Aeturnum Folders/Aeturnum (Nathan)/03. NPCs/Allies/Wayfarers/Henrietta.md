@@ -19,14 +19,12 @@ Henrietta is inspired by/named after Gilli's cat.
 **Status:** Alive/Operational
 **Location:** Unknown, assumedly with [[Scarlet]] in the Wayfarer's Convoy
 
-Henrietta is a 9ft. tall robot with a core made from a [[Technology|coffin-like tank]]. What exactly she is, and whether she is a sentient entity, is unknown, but the machine may be controlled by some sort of creature inside the tank.
-
-Above table: Henrietta is based on Gilli's cat.
+What exactly Henrietta is, and whether it is a sentient entity, is unknown, but the machine may be controlled by some sort of creature inside the tank.
 # Appearances
-- [[0.2 Requiem|Requiem]]
+- [[0.2 Requiem]]
 # Physical Appearance
 
-Henrietta is a modified [[Technology|Automata]], taller than average at roughly 8-9ft.. Its construction also features a coffin-like tank that seems directly wired into the machinery.  
+Henrietta is a 9ft. tall [[Technology#Automata|Typhon Automata]] with the addition of a [[Technology|coffin-like tank]], that appears to contain something/someone.  
 # Personality
 
 While it is unknown whether Henrietta is sentient, it demonstrates some amount of personality. It shows affection towards Scarlet and Beetle, exhibits fear in response to an illusory image of Haera Agelamorn created by Abyssian, and 'chirps happily' while killing bloodkin.

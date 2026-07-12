@@ -5,7 +5,7 @@ An unknown phenomenon occurring above [[Tisis]], and expanding. If not stopped, 
 Effects of the Worldwound:
 - The [[Curseblood Plague]] (Though this may be from Haera)
 - The [[Petrification Curse]]
-- The corruption of [[Technology|Lyria]]. 
+- The corruption of [[Technology#Lyria|Lyria]]. 
 
 # Creation
 
@@ -13,7 +13,7 @@ Effects of the Worldwound:
 
 # Appearance
 
-A large void in the sky, surrounded by red and purple energies. As of [[0.3 Initiation|Initiation]], from [[Adrestia]], the wound seems to cover about 1/5th of the sky. The epicentre of the wound is assumedly above [[Tisis|Aernoc Castle]], which is on the opposite side of the Red Isles to Adrestia. (Description given by Rory)
+A large void in the sky, surrounded by red and purple energies. As of [[0.3 Initiation|Initiation]], from [[Adrestia]], the wound seems to cover about 1/5th of the sky. The epicentre of the wound is assumedly above [[Tisis#Aernoc Palace|Aernoc Palace]], which is on the opposite side of the Red Isles to Adrestia. (Description given by Rory)
 ## Connection to Haera
 
 It is unknown whether Haera meant to open the Worldwound or if she has any direct power over it, but she has found a way to draw power from it, if nothing else.

@@ -15,7 +15,7 @@ In Anathema, Jenn used a mini that carried a sword and shield, though that may h
 
 Silas is a Lieutenant of the [[Wayfarer’s Guild]]. 
 # Appearances
-- [[1.4 Anathema|Anathema]]
+- [[1.4 Anathema]]
 # Physical Appearance
 
 Black hair, brown skin and eyes, wears clean, crisp white shirts beneath leather armour.

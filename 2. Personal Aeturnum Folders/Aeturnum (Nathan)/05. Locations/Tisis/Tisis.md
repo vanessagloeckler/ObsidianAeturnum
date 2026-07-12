@@ -1,28 +1,24 @@
 Tags: #Locations
 
-- Basics
-- Aernoc
-	- Aernoc Palace
-		- Throne
-	- Foundry
+- [[#Basics]]
+- [[#Aernoc]]
+	- [[#Aernoc Palace]]
+		- [[#Throne]]
+	- [[#Foundry]]
 
 # Basics
 
-A continent in [[05. Glossary of Minor Terms|Theora]], inhabited by vampires and ruled by [[Haera Agelamorn]]. The capital is called [[Tisis]].
+A continent in [[05. Glossary of Minor Terms#Theora|Theora]], inhabited by vampires and ruled by [[Haera Agelamorn]]. The capital is called [[#Aernoc]].
 
 Haera ruled Tisis via a vampiric court, though as of the events of [[0.1. Genesis (Prelude)|Genesis]], it would appear that she has killed the entirety of the old court (or was unable/unwilling to save them from the [[Petrification Curse]]), and has replaced them with the [[Five Lieutenants]]. 
 # Aernoc
 
-The capital of [[Tisis]] and the seat of [[Haera Agelamorn]]. According to the Riftborn Journal Map, it is surrounded by the ocean to the north and mountains to the south. [[05. Glossary of Minor Terms|Vestran and Lyra]] are close by. 
+The capital of Tisis and the seat of [[Haera Agelamorn]]. According to the Riftborn Journal Map, it is surrounded by the ocean to the north and mountains to the south. [[05. Glossary of Minor Terms#Vestran|Vestran]] and [[05. Glossary of Minor Terms#Lyra|Lyra]] are close by. 
 
 Their symbol/crest appears to be some large bird of prey, most likely an eagle. 
-
-Locations:
-- Aernoc Palace
-- Foundry
 ## Aernoc Palace
 
-Haera's seat of power. A detailed description of some locations within the palace can be found in [[0.1. Genesis (Prelude)]]. 
+Haera's seat of power. A detailed description of some locations within the palace can be found in [[0.1. Genesis (Prelude)|Genesis]]. 
 
 Locations (Genesis):
 - Castle gates (location of first Genesis battle) leading to Courtyard

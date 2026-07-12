@@ -15,7 +15,7 @@ Tags: #PCs
 
 **Backstory;**
 
-Grandson of [[Victims of the Genesis Expedition|Loup Garou]], and named after her.
+Grandson of [[Victims of the Genesis Expedition#Loup Garou|Loup Garou]], and named after her.
 
 # Spells and Abilities
 

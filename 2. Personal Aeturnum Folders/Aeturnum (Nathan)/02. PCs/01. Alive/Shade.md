@@ -9,7 +9,7 @@ tags:
 **Level:** 3
 
 **Sessions:**
-- [[1.4 Anathema|Anathema]]
+- [[1.4 Anathema]]
 
 **Physical description:** Carries an obsidian axe and has skin the colour of a storm cloud just before it breaks. 
 

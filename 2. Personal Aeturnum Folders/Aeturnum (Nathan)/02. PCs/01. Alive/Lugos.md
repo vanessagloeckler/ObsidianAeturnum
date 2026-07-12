@@ -9,7 +9,7 @@ tags:
 **Level:** 3
 
 **Sessions:** 
-- [[1.4 Anathema|Anathema]]
+- [[1.4 Anathema]]
 
 **Physical description:** Irish(?) accent, wears jorts and flipflops.
 

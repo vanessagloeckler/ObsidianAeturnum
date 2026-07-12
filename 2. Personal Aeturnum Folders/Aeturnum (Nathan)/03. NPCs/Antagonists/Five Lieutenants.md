@@ -1,15 +1,15 @@
 Tags: #NPCs 
 
-During the events of [[0.1. Genesis (Prelude)]], [[Haera Agelamorn]] slaughtered the entire [[Victims of the Genesis Expedition|expedition]], enthralling them all and adding them to her undead army. From these ranks, she selected five lieutenants to return to [[Adrestia]] and destroy it.
+During the events of [[0.1. Genesis (Prelude)|Genesis]], [[Haera Agelamorn]] slaughtered the entire [[Victims of the Genesis Expedition|expedition]], enthralling them all and adding them to her undead army. From these ranks, she selected five lieutenants to return to [[Adrestia]] and destroy it.
 
 The Lieutenants:
-- Elowen Argall
+- [[#Elowen Argall]]
 - Table 2 Lieutenant (Suhail)
 - Table 3 Lieutenant (Alice)
 - Table 4 Lieutenant (Unknown)
 - Table 5 Lieutenant (Nathan)
 
-# Elowen
+# Elowen Argall
 
 Formerly a human Oath of Vengeance Paladin / Fiend Patron Warlock.
 

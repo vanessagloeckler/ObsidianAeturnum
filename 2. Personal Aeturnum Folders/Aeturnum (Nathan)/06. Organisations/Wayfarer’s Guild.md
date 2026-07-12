@@ -4,10 +4,14 @@ Tags:
 aliases:
   - Wayfarer's Convoy
 ---
-- Basics
-- Our Vow
-- Members
-- The Wayfarer's Convoy
+- [[#Basics]]
+- [[#Our Vow]]
+- [[#Members]]
+- [[#The Hunter's Council]]
+- [[#The Wayfarer's Convoy]]
+	- [[#Marching Order]]
+	- [[#The Armoury]]
+	- [[#The Vanguard]]
 # Basics
 
 An organisation based out of [[Adrestia]] and led by Guild Master Elaric Valent. Our mission is to find a way to kill [[Haera Agelamorn]] and close the [[Worldwound]]. 
@@ -29,7 +33,9 @@ Known Active Members:
 Known Inactive Members: 
 - [[Minor Wayfarer NPCs|Elaria]] (Deceased) - Scout - Killed by [[Haera's Forces|Malice]] during [[0.3 Initiation|Initiation]].
 - [[Theolyn Esmond]] (Deceased) - Rank unknown, assumed Wayfarer - Died during the events of [[0.2 Requiem|Requiem]]
+# The Hunter's Council
 
+A group of Wayfarers elected whenever important decisions about the Convoy or our allies needs to be made. Members are selected by vote each time to represent their group. 
 # The Wayfarer's Convoy
 
 See [[005. Aeturnum II - Patch Notes 1.1 (Launch)|Patch Notes 1.1]] for detailed description of the mechanics of the convoy. 
@@ -49,8 +55,3 @@ The Armoury looks different to the rest of the convoy, more gothic in appearance
 ## The Vanguard
 
 The front wagons of the convoy, which appear to have the greatest amount of weapons and armour.
-
-# The Hunter's Council
-
-A group of Wayfarers elected whenever important decisions about the Convoy or our allies needs to be made. Members are selected by vote each time to represent their group. 
-

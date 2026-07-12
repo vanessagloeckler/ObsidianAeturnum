@@ -5,7 +5,7 @@ aliases:
   - Elaria
 ---
 - Template
-- Elaria
+- [[#Elaria]]
 
 # Template
 

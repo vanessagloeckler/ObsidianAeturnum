@@ -9,39 +9,34 @@ aliases:
   - Lyria
   - Teleportation Gates
 ---
-
-
-Contents: 
-- Airships
-- Automata
-- Coffin-like Tanks
-- Dark Serum
-- The Diluxium Sphere
-- Energy Sources
-	- Etheric Cells
-	- Lyria
-- Hunter's Bracer and Hunter's Tools
-- Lyria
-- Teleportation Gates
+**Contents** 
+- [[#Airships]]
+- [[#Automata]]
+- [[#Coffin-like Tanks]]
+- [[#Dark Serum]]
+- [[#The Diluxium Sphere]]
+- [[#Energy Sources]]
+	- [[#Etheric Cells]]
+	- [[#Lyria]]
+- [[#Hunter's Bracer and Hunter's Tools]]
+- [[#Teleportation Gates]]
 # Airships
 
 Ships capable of flight due to their Lyria engines. Have a habit of crashing.
 
 Known Airships:
-- Helena's Revenge (Destroyed) - Owned by [[03. Elements from Aeturnum 1|Eidolon/The Riftborn]], and named after Helena, an Eidolon operative who was repeatedly tortured to death by The Hierophant. Destroyed in the final battle against the Hierophant when the revived Helena crashed it into the Shrike. 
-- Phospherian Five (Destroyed) - Owned by [[Speakers|Speaker Vivian]]/[[Adrestia|Typhon Foundry]] and equipped with The Diluxium Sphere (see below) for battle against [[Haera Agelamorn]].  Destroyed by Haera during the events of [[0.1. Genesis (Prelude)|Genesis]].
-
+- Helena's Revenge (Destroyed) - Owned by [[03. Elements from Aeturnum 1#Eidolon|Eidolon/The Riftborn]], and named after Helena, an Eidolon operative who was repeatedly tortured to death by The Hierophant. Destroyed in the final battle against the Hierophant when the revived Helena crashed it into the Shrike. 
+- Phospherian Five (Destroyed) - Owned by [[Speakers#Vivian Anelin|Speaker Vivian]]/[[Adrestia#Typhon Foundry|Typhon Foundry]] and equipped with [[#The Diluxium Sphere]] for battle against [[Haera Agelamorn]].  Destroyed by Haera during the events of [[0.1. Genesis (Prelude)|Genesis]].
 # Automata
 
-Created by the [[Adrestia|Typhon Foundry]], Automata are large autonomous machines, built to keep the streets safe. They are vaguely humanoid in appearance, though very slender, relative to their size. They range from 7ft to 9ft tall, and are brass coloured. They have two sets of arms - a large, armoured set designed for combat and destruction, and a smaller, more humanoid set, designed for object manipulation. They have a definable head that is vaguely cranial in shape, but with no visible eyes or other features. 
+Created by the [[Adrestia#Typhon Foundry|Typhon Foundry]], Automata are large autonomous machines, built to keep the streets safe. They are vaguely humanoid in appearance, though very slender, relative to their size. They range from 7ft to 9ft tall, and are brass coloured. They have two sets of arms - a large, armoured set designed for combat and destruction, and a smaller, more humanoid set, designed for object manipulation. They have a definable head that is vaguely cranial in shape, but with no visible eyes or other features. 
 
 [[Henrietta]] is a modified Automata. 
 # Coffin-like Tanks
 
-Unknown devices, assumedly of Haera's design. A humanoid is contained within, hung upside and pierced all over, submerged in blood. Their blood is extracted and pumped towards [[Tisis|Aernoc Castle]], while vampiric blood is pumped in, converting the human into a bloodkin. Seen in [[0.2 Requiem]].
+Unknown devices, assumedly of Haera's design. A humanoid is contained within, hung upside and pierced all over, submerged in blood. Their blood is extracted and pumped towards [[Tisis#Aernoc Palace|Aernoc Palace]], while vampiric blood is pumped in, converting the human into a bloodkin. Seen in [[0.2 Requiem|Requiem]].
 
 It appears that one such tank is part of the construction of [[Henrietta]]. The exact nature of this is unknown.
-
 # Dark Serum
 
 An unknown substance that Elaric/the Wayfarer's Guild has access to. When administered to those who have the [[Curseblood Plague]], it slows the progress of the plague, but is not enough to stop or reverse it. 
@@ -49,14 +44,14 @@ An unknown substance that Elaric/the Wayfarer's Guild has access to. When admini
 
 An artificial sun, that generates natural sunlight in a range of ten miles, capable of repelling vampires. It operates either by using or generating 'heliatic energy' (possibly spelt wrong).
 
-Created by the Typhon Foundry in [[05. Locations/Esos/Adrestia|Adrestia]], and the brain child of [[Speakers|Speaker]] Vivian Anelin.
+Created by the [[Adrestia#Typhon Foundry|Typhon Foundry]], and the brain child of [[Speakers#Vivian Anelin|Speaker Vivian]].
 
 Only one model is known to exist, which was carried on the Phospherian Five, the flagship airship of Adrestia, on the [[0.1. Genesis (Prelude)|Genesis Expedition]]. Both ship and sphere were destroyed by [[Haera Agelamorn]], who cast a bolt/cannon of blood powerful enough to cut through both, and the mountain behind. 
 
 # Energy Sources
 ## Etheric Cells
 
-A magical substance that provides fuel for the Hunter's Tools. They are forged in the [[05. Glossary of Minor Terms|Atropos Refinery]], and are an extremely precious commodity. 
+A magical substance that provides fuel for the Hunter's Tools. They are forged in the [[05. Glossary of Minor Terms#The Atropos Refinery|Atropos Refinery]], and are an extremely precious commodity. 
 ## Lyria
 
 A powerful and highly volatile magical material that can be used as fuel to power machinery such as airships, and fuel magics. It is being corrupted/depowered by the [[Worldwound]]. 
