@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Sessions/02. Orinoco's Journals/The River and the Sea are One.md",
+                "file": "01. Sessions/01. Session Notes/Session Notes Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The River and the Sea are One"
+              "title": "Session Notes Template"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "0035273388609cd6",
   "lastOpenFiles": [
-    "01. Sessions/02. Orinoco's Journals/Mock a Crocodile.md",
     "01. Sessions/02. Orinoco's Journals/The River and the Sea are One.md",
+    "01. Sessions/02. Orinoco's Journals/Mock a Crocodile.md",
     "05. Locations/Esos/Adrestia.md",
     "02. PCs/01. Alive/Orinoco.md",
     "03. NPCs/Location-Based NPCs/Adrestia NPCs.md",
