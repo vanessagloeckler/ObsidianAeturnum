@@ -95,58 +95,117 @@
         "newlineCount": 33
       }
     },
-    "08. Other/06. Timeline.md": {
+    "08. Other/99. The Riftborn.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 87,
+      "wordCount": 4098,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.29,
-      "characterCount": 590,
-      "nonWhitespaceCharacterCount": 466,
-      "newlineCount": 23,
-      "readingTimeInMinutes": 0.3283018867924528,
-      "linkCount": 4,
+      "pageCount": 13.66,
+      "characterCount": 24495,
+      "nonWhitespaceCharacterCount": 20056,
+      "newlineCount": 541,
+      "readingTimeInMinutes": 15.464150943396227,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1783005517626,
-      "modifiedDate": 1783005517626,
-      "sizeInBytes": 590,
+      "createdDate": 1783673143608,
+      "modifiedDate": 1783698528026,
+      "sizeInBytes": 24522,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.29,
-        "wordCount": 87,
-        "characterCount": 590,
-        "nonWhitespaceCharacterCount": 466,
-        "newlineCount": 23
+        "pageCount": 13.66,
+        "wordCount": 4098,
+        "characterCount": 24495,
+        "nonWhitespaceCharacterCount": 20056,
+        "newlineCount": 541
+      },
+      "frontmatter": {
+        "Tags": [
+          "Other"
+        ]
       }
     },
-    "08. Other/05. Glossary of Minor Terms.md": {
-      "isCountable": true,
+    "08. Other/Images/Pasted image 20260703132959.png": {
+      "isCountable": false,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1566,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 5.22,
-      "characterCount": 9938,
-      "nonWhitespaceCharacterCount": 8129,
-      "newlineCount": 170,
-      "readingTimeInMinutes": 5.909433962264151,
-      "linkCount": 37,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517626,
-      "modifiedDate": 1783867755553,
-      "sizeInBytes": 9946,
+      "aliases": [],
+      "createdDate": 1783081799318,
+      "modifiedDate": 1783081799322,
+      "sizeInBytes": 539979,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 5.22,
-        "wordCount": 1566,
-        "characterCount": 9838,
-        "nonWhitespaceCharacterCount": 8029,
-        "newlineCount": 170
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "08. Other/Images/Pasted image 20260611085745.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1783005517642,
+      "modifiedDate": 1783005517642,
+      "sizeInBytes": 628586,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "08. Other/Images/Pasted image 20260702100357.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1783005517690,
+      "modifiedDate": 1783005517690,
+      "sizeInBytes": 848500,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     },
     "08. Other/Images/Pasted image 20260702100449.png": {
@@ -176,7 +235,7 @@
         "newlineCount": 0
       }
     },
-    "08. Other/Images/Pasted image 20260703132959.png": {
+    "08. Other/Images/Pasted image 20260702100307.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -191,8 +250,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1783081799318,
-      "modifiedDate": 1783081799322,
+      "createdDate": 1783005517690,
+      "modifiedDate": 1783005517690,
       "sizeInBytes": 539979,
       "sessionStart": {
         "noteCount": 0,
@@ -257,117 +316,58 @@
         "newlineCount": 0
       }
     },
-    "08. Other/Images/Pasted image 20260702100357.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1783005517690,
-      "modifiedDate": 1783005517690,
-      "sizeInBytes": 848500,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "08. Other/Images/Pasted image 20260702100307.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1783005517690,
-      "modifiedDate": 1783005517690,
-      "sizeInBytes": 539979,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "08. Other/Images/Pasted image 20260611085745.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1783005517642,
-      "modifiedDate": 1783005517642,
-      "sizeInBytes": 628586,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "08. Other/99. The Riftborn.md": {
+    "08. Other/06. Timeline.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 4098,
+      "wordCount": 86,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 13.66,
-      "characterCount": 24495,
-      "nonWhitespaceCharacterCount": 20056,
-      "newlineCount": 541,
-      "readingTimeInMinutes": 15.464150943396227,
-      "linkCount": 3,
+      "pageCount": 0.2866666666666667,
+      "characterCount": 619,
+      "nonWhitespaceCharacterCount": 517,
+      "newlineCount": 22,
+      "readingTimeInMinutes": 0.32452830188679244,
+      "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1783673143608,
-      "modifiedDate": 1783698528026,
-      "sizeInBytes": 24522,
+      "createdDate": 1783005517626,
+      "modifiedDate": 1783873446783,
+      "sizeInBytes": 619,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 13.66,
-        "wordCount": 4098,
-        "characterCount": 24495,
-        "nonWhitespaceCharacterCount": 20056,
-        "newlineCount": 541
-      },
-      "frontmatter": {
-        "Tags": [
-          "Other"
-        ]
+        "pageCount": 0.29,
+        "wordCount": 87,
+        "characterCount": 590,
+        "nonWhitespaceCharacterCount": 466,
+        "newlineCount": 23
+      }
+    },
+    "08. Other/05. Glossary of Minor Terms.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1543,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.1433333333333335,
+      "characterCount": 9827,
+      "nonWhitespaceCharacterCount": 8043,
+      "newlineCount": 168,
+      "readingTimeInMinutes": 5.8226415094339625,
+      "linkCount": 35,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517626,
+      "modifiedDate": 1783873389531,
+      "sizeInBytes": 9833,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 5.22,
+        "wordCount": 1566,
+        "characterCount": 9938,
+        "nonWhitespaceCharacterCount": 8129,
+        "newlineCount": 170
       }
     },
     "08. Other/04. Game Mechanics.md": {
@@ -390,25 +390,52 @@
       "sizeInBytes": 3757,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.6066666666666667,
-        "wordCount": 482,
-        "characterCount": 3808,
-        "nonWhitespaceCharacterCount": 2508,
-        "newlineCount": 62
+        "pageCount": 1.57,
+        "wordCount": 471,
+        "characterCount": 3757,
+        "nonWhitespaceCharacterCount": 2471,
+        "newlineCount": 58
+      }
+    },
+    "08. Other/02. Mysteries.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 164,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5466666666666666,
+      "characterCount": 1148,
+      "nonWhitespaceCharacterCount": 956,
+      "newlineCount": 34,
+      "readingTimeInMinutes": 0.6188679245283019,
+      "linkCount": 12,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517610,
+      "modifiedDate": 1783872907410,
+      "sizeInBytes": 1148,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.5466666666666666,
+        "wordCount": 164,
+        "characterCount": 1139,
+        "nonWhitespaceCharacterCount": 947,
+        "newlineCount": 34
       }
     },
     "08. Other/03. Elements from Aeturnum 1.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1347,
+      "wordCount": 1352,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 4.49,
-      "characterCount": 8833,
-      "nonWhitespaceCharacterCount": 7346,
+      "pageCount": 4.506666666666667,
+      "characterCount": 8918,
+      "nonWhitespaceCharacterCount": 7426,
       "newlineCount": 165,
-      "readingTimeInMinutes": 5.083018867924529,
+      "readingTimeInMinutes": 5.10188679245283,
       "linkCount": 39,
       "embedCount": 0,
       "aliases": [
@@ -416,14 +443,14 @@
         "Aeturnum 1"
       ],
       "createdDate": 1783005517626,
-      "modifiedDate": 1783867087567,
-      "sizeInBytes": 8904,
+      "modifiedDate": 1783873023811,
+      "sizeInBytes": 8989,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 4.48,
-        "wordCount": 1344,
-        "characterCount": 8689,
-        "nonWhitespaceCharacterCount": 7205,
+        "pageCount": 4.49,
+        "wordCount": 1347,
+        "characterCount": 8833,
+        "nonWhitespaceCharacterCount": 7346,
         "newlineCount": 165
       },
       "frontmatter": {
@@ -436,57 +463,30 @@
         ]
       }
     },
-    "08. Other/02. Mysteries.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 164,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.5466666666666666,
-      "characterCount": 1139,
-      "nonWhitespaceCharacterCount": 947,
-      "newlineCount": 34,
-      "readingTimeInMinutes": 0.6188679245283019,
-      "linkCount": 12,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517610,
-      "modifiedDate": 1783867833762,
-      "sizeInBytes": 1139,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.5466666666666666,
-        "wordCount": 164,
-        "characterCount": 1119,
-        "nonWhitespaceCharacterCount": 927,
-        "newlineCount": 34
-      }
-    },
     "08. Other/01. Questions.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 644,
+      "wordCount": 647,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.1466666666666665,
-      "characterCount": 4155,
-      "nonWhitespaceCharacterCount": 3432,
+      "pageCount": 2.1566666666666667,
+      "characterCount": 4202,
+      "nonWhitespaceCharacterCount": 3476,
       "newlineCount": 76,
-      "readingTimeInMinutes": 2.430188679245283,
+      "readingTimeInMinutes": 2.4415094339622643,
       "linkCount": 27,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783005517610,
-      "modifiedDate": 1783868328255,
-      "sizeInBytes": 4155,
+      "modifiedDate": 1783872880164,
+      "sizeInBytes": 4202,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 2.1433333333333335,
-        "wordCount": 643,
-        "characterCount": 4107,
-        "nonWhitespaceCharacterCount": 3385,
+        "pageCount": 2.1466666666666665,
+        "wordCount": 644,
+        "characterCount": 4155,
+        "nonWhitespaceCharacterCount": 3432,
         "newlineCount": 76
       }
     },
@@ -517,33 +517,6 @@
         "newlineCount": 139
       }
     },
-    "07. Official Media/004. Hunter's Tools.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 554,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.8466666666666667,
-      "characterCount": 3315,
-      "nonWhitespaceCharacterCount": 2733,
-      "newlineCount": 49,
-      "readingTimeInMinutes": 2.090566037735849,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517610,
-      "modifiedDate": 1783069566319,
-      "sizeInBytes": 3315,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.8466666666666667,
-        "wordCount": 554,
-        "characterCount": 3315,
-        "nonWhitespaceCharacterCount": 2733,
-        "newlineCount": 49
-      }
-    },
     "07. Official Media/003. Character Creation Guidelines.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -569,6 +542,33 @@
         "characterCount": 7591,
         "nonWhitespaceCharacterCount": 5959,
         "newlineCount": 211
+      }
+    },
+    "07. Official Media/004. Hunter's Tools.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 554,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.8466666666666667,
+      "characterCount": 3315,
+      "nonWhitespaceCharacterCount": 2733,
+      "newlineCount": 49,
+      "readingTimeInMinutes": 2.090566037735849,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517610,
+      "modifiedDate": 1783069566319,
+      "sizeInBytes": 3315,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.8466666666666667,
+        "wordCount": 554,
+        "characterCount": 3315,
+        "nonWhitespaceCharacterCount": 2733,
+        "newlineCount": 49
       }
     },
     "07. Official Media/002. Genesis Ticket Drop.md": {
@@ -656,29 +656,29 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 423,
+      "wordCount": 433,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.41,
-      "characterCount": 2820,
-      "nonWhitespaceCharacterCount": 2340,
+      "pageCount": 1.4433333333333334,
+      "characterCount": 2917,
+      "nonWhitespaceCharacterCount": 2426,
       "newlineCount": 53,
-      "readingTimeInMinutes": 1.5962264150943397,
+      "readingTimeInMinutes": 1.6339622641509435,
       "linkCount": 24,
       "embedCount": 0,
       "aliases": [
         "Wayfarer's Convoy"
       ],
       "createdDate": 1783005517595,
-      "modifiedDate": 1783867555922,
-      "sizeInBytes": 2882,
+      "modifiedDate": 1783872841078,
+      "sizeInBytes": 2979,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.38,
-        "wordCount": 414,
-        "characterCount": 2711,
-        "nonWhitespaceCharacterCount": 2244,
-        "newlineCount": 52
+        "pageCount": 1.41,
+        "wordCount": 423,
+        "characterCount": 2820,
+        "nonWhitespaceCharacterCount": 2340,
+        "newlineCount": 53
       },
       "frontmatter": {
         "Tags": [
@@ -697,16 +697,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.13,
-      "characterCount": 277,
-      "nonWhitespaceCharacterCount": 232,
+      "characterCount": 288,
+      "nonWhitespaceCharacterCount": 243,
       "newlineCount": 7,
       "readingTimeInMinutes": 0.1471698113207547,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783005517595,
-      "modifiedDate": 1783361525387,
-      "sizeInBytes": 277,
+      "modifiedDate": 1783872774025,
+      "sizeInBytes": 288,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.13,
@@ -724,9 +724,9 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.9,
-      "characterCount": 1991,
-      "nonWhitespaceCharacterCount": 1692,
-      "newlineCount": 36,
+      "characterCount": 2005,
+      "nonWhitespaceCharacterCount": 1707,
+      "newlineCount": 35,
       "readingTimeInMinutes": 1.0188679245283019,
       "linkCount": 18,
       "embedCount": 0,
@@ -737,15 +737,15 @@
         "Vivian Anelin"
       ],
       "createdDate": 1783005517595,
-      "modifiedDate": 1783864857136,
-      "sizeInBytes": 2101,
+      "modifiedDate": 1783872754434,
+      "sizeInBytes": 2115,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.8766666666666667,
-        "wordCount": 263,
-        "characterCount": 1929,
-        "nonWhitespaceCharacterCount": 1632,
-        "newlineCount": 41
+        "pageCount": 0.9,
+        "wordCount": 270,
+        "characterCount": 1991,
+        "nonWhitespaceCharacterCount": 1692,
+        "newlineCount": 36
       },
       "frontmatter": {
         "tags": [
@@ -767,50 +767,50 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.99,
-      "characterCount": 2053,
-      "nonWhitespaceCharacterCount": 1711,
-      "newlineCount": 53,
+      "characterCount": 2073,
+      "nonWhitespaceCharacterCount": 1734,
+      "newlineCount": 49,
       "readingTimeInMinutes": 1.120754716981132,
       "linkCount": 16,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783005517595,
-      "modifiedDate": 1783865575873,
-      "sizeInBytes": 2053,
+      "modifiedDate": 1783870311849,
+      "sizeInBytes": 2073,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.99,
         "wordCount": 297,
-        "characterCount": 2028,
-        "nonWhitespaceCharacterCount": 1686,
-        "newlineCount": 53
+        "characterCount": 2073,
+        "nonWhitespaceCharacterCount": 1734,
+        "newlineCount": 49
       }
     },
     "05. Locations/Esos/Adrestia.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 814,
+      "wordCount": 815,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.7133333333333334,
-      "characterCount": 5821,
-      "nonWhitespaceCharacterCount": 4897,
-      "newlineCount": 111,
-      "readingTimeInMinutes": 3.0716981132075474,
-      "linkCount": 45,
+      "pageCount": 2.716666666666667,
+      "characterCount": 5856,
+      "nonWhitespaceCharacterCount": 4930,
+      "newlineCount": 112,
+      "readingTimeInMinutes": 3.0754716981132075,
+      "linkCount": 46,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783005517579,
-      "modifiedDate": 1783870152523,
-      "sizeInBytes": 5852,
+      "modifiedDate": 1783870178929,
+      "sizeInBytes": 5887,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 2.1866666666666665,
-        "wordCount": 656,
-        "characterCount": 4482,
-        "nonWhitespaceCharacterCount": 3742,
-        "newlineCount": 101
+        "pageCount": 2.716666666666667,
+        "wordCount": 815,
+        "characterCount": 5856,
+        "nonWhitespaceCharacterCount": 4930,
+        "newlineCount": 112
       },
       "frontmatter": {
         "Tags": [
@@ -822,27 +822,256 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 33,
+      "wordCount": 30,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.11,
-      "characterCount": 225,
-      "nonWhitespaceCharacterCount": 187,
-      "newlineCount": 6,
-      "readingTimeInMinutes": 0.12452830188679245,
+      "pageCount": 0.1,
+      "characterCount": 198,
+      "nonWhitespaceCharacterCount": 165,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.11320754716981132,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783005517595,
-      "modifiedDate": 1783361850559,
+      "modifiedDate": 1783870215243,
       "sizeInBytes": 225,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.11,
-        "wordCount": 33,
-        "characterCount": 225,
-        "nonWhitespaceCharacterCount": 187,
-        "newlineCount": 6
+        "pageCount": 0.1,
+        "wordCount": 30,
+        "characterCount": 198,
+        "nonWhitespaceCharacterCount": 165,
+        "newlineCount": 4
+      },
+      "frontmatter": {
+        "tags": [
+          "Locations"
+        ]
+      }
+    },
+    "04. Lore/Worldwound.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 429,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.43,
+      "characterCount": 2719,
+      "nonWhitespaceCharacterCount": 2266,
+      "newlineCount": 30,
+      "readingTimeInMinutes": 1.618867924528302,
+      "linkCount": 12,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517579,
+      "modifiedDate": 1783869984225,
+      "sizeInBytes": 2719,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.43,
+        "wordCount": 429,
+        "characterCount": 2719,
+        "nonWhitespaceCharacterCount": 2266,
+        "newlineCount": 30
+      }
+    },
+    "04. Lore/Vampirism.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 227,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7566666666666667,
+      "characterCount": 1642,
+      "nonWhitespaceCharacterCount": 1374,
+      "newlineCount": 29,
+      "readingTimeInMinutes": 0.8566037735849057,
+      "linkCount": 15,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517579,
+      "modifiedDate": 1783869949079,
+      "sizeInBytes": 1666,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.7566666666666667,
+        "wordCount": 227,
+        "characterCount": 1642,
+        "nonWhitespaceCharacterCount": 1374,
+        "newlineCount": 29
+      },
+      "frontmatter": {
+        "tags": [
+          "Lore"
+        ]
+      }
+    },
+    "04. Lore/The Outer God of Blood.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 46,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.15333333333333332,
+      "characterCount": 343,
+      "nonWhitespaceCharacterCount": 291,
+      "newlineCount": 9,
+      "readingTimeInMinutes": 0.17358490566037735,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517579,
+      "modifiedDate": 1783869875242,
+      "sizeInBytes": 343,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.15333333333333332,
+        "wordCount": 46,
+        "characterCount": 343,
+        "nonWhitespaceCharacterCount": 291,
+        "newlineCount": 9
+      }
+    },
+    "04. Lore/Technology.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 649,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.1633333333333336,
+      "characterCount": 4494,
+      "nonWhitespaceCharacterCount": 3779,
+      "newlineCount": 70,
+      "readingTimeInMinutes": 2.449056603773585,
+      "linkCount": 30,
+      "embedCount": 0,
+      "aliases": [
+        "Airships",
+        "Automata",
+        "Dark Serum",
+        "Diluxium Sphere",
+        "Lyria",
+        "Teleportation Gates"
+      ],
+      "createdDate": 1783005517579,
+      "modifiedDate": 1783869838246,
+      "sizeInBytes": 4620,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.1633333333333336,
+        "wordCount": 649,
+        "characterCount": 4494,
+        "nonWhitespaceCharacterCount": 3779,
+        "newlineCount": 70
+      },
+      "frontmatter": {
+        "tags": [
+          "Lore"
+        ],
+        "aliases": [
+          "Airships",
+          "Automata",
+          "Dark Serum",
+          "Diluxium Sphere",
+          "Lyria",
+          "Teleportation Gates"
+        ]
+      }
+    },
+    "04. Lore/Petrification Curse.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 145,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.48333333333333334,
+      "characterCount": 978,
+      "nonWhitespaceCharacterCount": 826,
+      "newlineCount": 9,
+      "readingTimeInMinutes": 0.5471698113207547,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517579,
+      "modifiedDate": 1783869669311,
+      "sizeInBytes": 978,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.48333333333333334,
+        "wordCount": 145,
+        "characterCount": 978,
+        "nonWhitespaceCharacterCount": 826,
+        "newlineCount": 9
+      }
+    },
+    "04. Lore/Curseblood Plague.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 118,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3933333333333333,
+      "characterCount": 819,
+      "nonWhitespaceCharacterCount": 693,
+      "newlineCount": 14,
+      "readingTimeInMinutes": 0.44528301886792454,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517563,
+      "modifiedDate": 1783869579892,
+      "sizeInBytes": 843,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.3933333333333333,
+        "wordCount": 118,
+        "characterCount": 819,
+        "nonWhitespaceCharacterCount": 693,
+        "newlineCount": 14
+      },
+      "frontmatter": {
+        "tags": [
+          "Lore"
+        ]
+      }
+    },
+    "04. Lore/Memory Loss.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 289,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.9633333333333334,
+      "characterCount": 1740,
+      "nonWhitespaceCharacterCount": 1436,
+      "newlineCount": 25,
+      "readingTimeInMinutes": 1.090566037735849,
+      "linkCount": 10,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517563,
+      "modifiedDate": 1783869631248,
+      "sizeInBytes": 1762,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.9633333333333334,
+        "wordCount": 289,
+        "characterCount": 1740,
+        "nonWhitespaceCharacterCount": 1436,
+        "newlineCount": 25
+      },
+      "frontmatter": {
+        "tags": [
+          "Lore"
+        ]
       }
     },
     "03. NPCs/NPC Template.md": {
@@ -897,11 +1126,11 @@
       "sizeInBytes": 1544,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.71,
-        "wordCount": 213,
-        "characterCount": 1454,
-        "nonWhitespaceCharacterCount": 1222,
-        "newlineCount": 22
+        "pageCount": 0.7366666666666667,
+        "wordCount": 221,
+        "characterCount": 1544,
+        "nonWhitespaceCharacterCount": 1306,
+        "newlineCount": 23
       }
     },
     "03. NPCs/Neutral or Unknown/Victims of the Genesis Expedition.md": {
@@ -924,11 +1153,11 @@
       "sizeInBytes": 5504,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 2.933333333333333,
-        "wordCount": 880,
-        "characterCount": 5614,
-        "nonWhitespaceCharacterCount": 4594,
-        "newlineCount": 79
+        "pageCount": 2.9,
+        "wordCount": 870,
+        "characterCount": 5504,
+        "nonWhitespaceCharacterCount": 4568,
+        "newlineCount": 87
       }
     },
     "03. NPCs/Neutral or Unknown/Herald.md": {
@@ -951,11 +1180,11 @@
       "sizeInBytes": 157,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.06333333333333334,
-        "wordCount": 19,
-        "characterCount": 140,
-        "nonWhitespaceCharacterCount": 121,
-        "newlineCount": 3
+        "pageCount": 0.056666666666666664,
+        "wordCount": 17,
+        "characterCount": 135,
+        "nonWhitespaceCharacterCount": 118,
+        "newlineCount": 2
       },
       "frontmatter": {
         "tags": [
@@ -986,10 +1215,10 @@
       "sizeInBytes": 1028,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.51,
-        "wordCount": 153,
-        "characterCount": 946,
-        "nonWhitespaceCharacterCount": 781,
+        "pageCount": 0.5133333333333333,
+        "wordCount": 154,
+        "characterCount": 978,
+        "nonWhitespaceCharacterCount": 812,
         "newlineCount": 14
       },
       "frontmatter": {
@@ -1000,33 +1229,6 @@
           "Mina",
           "Aline"
         ]
-      }
-    },
-    "03. NPCs/Antagonists/Five Lieutenants.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 99,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.33,
-      "characterCount": 694,
-      "nonWhitespaceCharacterCount": 583,
-      "newlineCount": 16,
-      "readingTimeInMinutes": 0.37358490566037733,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517547,
-      "modifiedDate": 1783868878374,
-      "sizeInBytes": 694,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.32666666666666666,
-        "wordCount": 98,
-        "characterCount": 674,
-        "nonWhitespaceCharacterCount": 564,
-        "newlineCount": 16
       }
     },
     "03. NPCs/Antagonists/Haera's Forces.md": {
@@ -1049,11 +1251,11 @@
       "sizeInBytes": 4587,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.9833333333333334,
-        "wordCount": 595,
-        "characterCount": 4184,
-        "nonWhitespaceCharacterCount": 3528,
-        "newlineCount": 83
+        "pageCount": 2.0966666666666667,
+        "wordCount": 629,
+        "characterCount": 4587,
+        "nonWhitespaceCharacterCount": 3894,
+        "newlineCount": 87
       }
     },
     "03. NPCs/Antagonists/Haera Agelamorn.md": {
@@ -1080,11 +1282,11 @@
       "sizeInBytes": 2709,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.27,
-        "wordCount": 381,
-        "characterCount": 2531,
-        "nonWhitespaceCharacterCount": 2112,
-        "newlineCount": 35
+        "pageCount": 1.2833333333333334,
+        "wordCount": 385,
+        "characterCount": 2631,
+        "nonWhitespaceCharacterCount": 2203,
+        "newlineCount": 38
       },
       "frontmatter": {
         "tags": [
@@ -1117,70 +1319,38 @@
       "sizeInBytes": 925,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.4533333333333333,
-        "wordCount": 136,
-        "characterCount": 897,
-        "nonWhitespaceCharacterCount": 756,
+        "pageCount": 0.45666666666666667,
+        "wordCount": 137,
+        "characterCount": 925,
+        "nonWhitespaceCharacterCount": 784,
         "newlineCount": 13
       }
     },
-    "03. NPCs/Allies/Wayfarers/Scarlet.md": {
+    "03. NPCs/Antagonists/Five Lieutenants.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 204,
+      "wordCount": 99,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.68,
-      "characterCount": 1329,
-      "nonWhitespaceCharacterCount": 1102,
-      "newlineCount": 32,
-      "readingTimeInMinutes": 0.769811320754717,
-      "linkCount": 7,
+      "pageCount": 0.33,
+      "characterCount": 694,
+      "nonWhitespaceCharacterCount": 583,
+      "newlineCount": 16,
+      "readingTimeInMinutes": 0.37358490566037733,
+      "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783005517547,
-      "modifiedDate": 1783868791836,
-      "sizeInBytes": 1331,
+      "modifiedDate": 1783868878374,
+      "sizeInBytes": 694,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.68,
-        "wordCount": 204,
-        "characterCount": 1334,
-        "nonWhitespaceCharacterCount": 1102,
-        "newlineCount": 37
-      }
-    },
-    "03. NPCs/Allies/Wayfarers/Henrietta.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 183,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.61,
-      "characterCount": 1357,
-      "nonWhitespaceCharacterCount": 1149,
-      "newlineCount": 35,
-      "readingTimeInMinutes": 0.690566037735849,
-      "linkCount": 7,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517547,
-      "modifiedDate": 1783868753660,
-      "sizeInBytes": 1381,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.71,
-        "wordCount": 213,
-        "characterCount": 1517,
-        "nonWhitespaceCharacterCount": 1280,
-        "newlineCount": 37
-      },
-      "frontmatter": {
-        "tags": [
-          "NPCs"
-        ]
+        "pageCount": 0.33,
+        "wordCount": 99,
+        "characterCount": 694,
+        "nonWhitespaceCharacterCount": 583,
+        "newlineCount": 16
       }
     },
     "03. NPCs/Allies/Wayfarers/Silas Reiner.md": {
@@ -1205,13 +1375,81 @@
         "noteCount": 1,
         "pageCount": 0.32666666666666666,
         "wordCount": 98,
-        "characterCount": 700,
-        "nonWhitespaceCharacterCount": 584,
+        "characterCount": 691,
+        "nonWhitespaceCharacterCount": 575,
         "newlineCount": 26
       },
       "frontmatter": {
         "tags": [
           "NPCs"
+        ]
+      }
+    },
+    "03. NPCs/Allies/Wayfarers/Scarlet.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 204,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.68,
+      "characterCount": 1329,
+      "nonWhitespaceCharacterCount": 1102,
+      "newlineCount": 32,
+      "readingTimeInMinutes": 0.769811320754717,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517547,
+      "modifiedDate": 1783868791836,
+      "sizeInBytes": 1331,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.68,
+        "wordCount": 204,
+        "characterCount": 1329,
+        "nonWhitespaceCharacterCount": 1102,
+        "newlineCount": 32
+      }
+    },
+    "03. NPCs/Allies/Wayfarers/Elaric Valent.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 682,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.2733333333333334,
+      "characterCount": 4489,
+      "nonWhitespaceCharacterCount": 3772,
+      "newlineCount": 44,
+      "readingTimeInMinutes": 2.5735849056603772,
+      "linkCount": 16,
+      "embedCount": 0,
+      "aliases": [
+        "Elaric",
+        "The Guild Master",
+        "Guild Master"
+      ],
+      "createdDate": 1783005517544,
+      "modifiedDate": 1783868611174,
+      "sizeInBytes": 4570,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.2733333333333334,
+        "wordCount": 682,
+        "characterCount": 4489,
+        "nonWhitespaceCharacterCount": 3772,
+        "newlineCount": 44
+      },
+      "frontmatter": {
+        "tags": [
+          "PCs"
+        ],
+        "aliases": [
+          "Elaric",
+          "The Guild Master",
+          "Guild Master"
         ]
       }
     },
@@ -1239,8 +1477,8 @@
         "noteCount": 1,
         "pageCount": 0.16666666666666666,
         "wordCount": 50,
-        "characterCount": 447,
-        "nonWhitespaceCharacterCount": 386,
+        "characterCount": 452,
+        "nonWhitespaceCharacterCount": 391,
         "newlineCount": 21
       },
       "frontmatter": {
@@ -1249,6 +1487,38 @@
         ],
         "aliases": [
           "Elaria"
+        ]
+      }
+    },
+    "03. NPCs/Allies/Wayfarers/Henrietta.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 183,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.61,
+      "characterCount": 1357,
+      "nonWhitespaceCharacterCount": 1149,
+      "newlineCount": 35,
+      "readingTimeInMinutes": 0.690566037735849,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517547,
+      "modifiedDate": 1783868753660,
+      "sizeInBytes": 1381,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.61,
+        "wordCount": 183,
+        "characterCount": 1357,
+        "nonWhitespaceCharacterCount": 1149,
+        "newlineCount": 35
+      },
+      "frontmatter": {
+        "tags": [
+          "NPCs"
         ]
       }
     },
@@ -1279,47 +1549,6 @@
         "newlineCount": 16
       }
     },
-    "03. NPCs/Allies/Wayfarers/Elaric Valent.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 682,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.2733333333333334,
-      "characterCount": 4489,
-      "nonWhitespaceCharacterCount": 3772,
-      "newlineCount": 44,
-      "readingTimeInMinutes": 2.5735849056603772,
-      "linkCount": 16,
-      "embedCount": 0,
-      "aliases": [
-        "Elaric",
-        "The Guild Master",
-        "Guild Master"
-      ],
-      "createdDate": 1783005517544,
-      "modifiedDate": 1783868611174,
-      "sizeInBytes": 4570,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.1966666666666668,
-        "wordCount": 659,
-        "characterCount": 4223,
-        "nonWhitespaceCharacterCount": 3533,
-        "newlineCount": 38
-      },
-      "frontmatter": {
-        "tags": [
-          "PCs"
-        ],
-        "aliases": [
-          "Elaric",
-          "The Guild Master",
-          "Guild Master"
-        ]
-      }
-    },
     "03. NPCs/Allies/Deceased/Theolyn Esmond.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1340,235 +1569,11 @@
       "sizeInBytes": 1465,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.7333333333333333,
-        "wordCount": 220,
-        "characterCount": 1455,
-        "nonWhitespaceCharacterCount": 1187,
+        "pageCount": 0.7433333333333333,
+        "wordCount": 223,
+        "characterCount": 1463,
+        "nonWhitespaceCharacterCount": 1219,
         "newlineCount": 28
-      }
-    },
-    "04. Lore/Worldwound.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 429,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.43,
-      "characterCount": 2719,
-      "nonWhitespaceCharacterCount": 2266,
-      "newlineCount": 30,
-      "readingTimeInMinutes": 1.618867924528302,
-      "linkCount": 12,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517579,
-      "modifiedDate": 1783869984225,
-      "sizeInBytes": 2719,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.4266666666666667,
-        "wordCount": 428,
-        "characterCount": 2699,
-        "nonWhitespaceCharacterCount": 2247,
-        "newlineCount": 30
-      }
-    },
-    "04. Lore/Vampirism.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 227,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.7566666666666667,
-      "characterCount": 1642,
-      "nonWhitespaceCharacterCount": 1374,
-      "newlineCount": 29,
-      "readingTimeInMinutes": 0.8566037735849057,
-      "linkCount": 15,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517579,
-      "modifiedDate": 1783869949079,
-      "sizeInBytes": 1666,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.7033333333333334,
-        "wordCount": 211,
-        "characterCount": 1433,
-        "nonWhitespaceCharacterCount": 1185,
-        "newlineCount": 27
-      },
-      "frontmatter": {
-        "tags": [
-          "Lore"
-        ]
-      }
-    },
-    "04. Lore/The Outer God of Blood.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 46,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.15333333333333332,
-      "characterCount": 343,
-      "nonWhitespaceCharacterCount": 291,
-      "newlineCount": 9,
-      "readingTimeInMinutes": 0.17358490566037735,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517579,
-      "modifiedDate": 1783869875242,
-      "sizeInBytes": 343,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.15333333333333332,
-        "wordCount": 46,
-        "characterCount": 334,
-        "nonWhitespaceCharacterCount": 274,
-        "newlineCount": 9
-      }
-    },
-    "04. Lore/Technology.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 649,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.1633333333333336,
-      "characterCount": 4494,
-      "nonWhitespaceCharacterCount": 3779,
-      "newlineCount": 70,
-      "readingTimeInMinutes": 2.449056603773585,
-      "linkCount": 30,
-      "embedCount": 0,
-      "aliases": [
-        "Airships",
-        "Automata",
-        "Dark Serum",
-        "Diluxium Sphere",
-        "Lyria",
-        "Teleportation Gates"
-      ],
-      "createdDate": 1783005517579,
-      "modifiedDate": 1783869838246,
-      "sizeInBytes": 4620,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.16,
-        "wordCount": 648,
-        "characterCount": 4374,
-        "nonWhitespaceCharacterCount": 3655,
-        "newlineCount": 75
-      },
-      "frontmatter": {
-        "tags": [
-          "Lore"
-        ],
-        "aliases": [
-          "Airships",
-          "Automata",
-          "Dark Serum",
-          "Diluxium Sphere",
-          "Lyria",
-          "Teleportation Gates"
-        ]
-      }
-    },
-    "04. Lore/Petrification Curse.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 145,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.48333333333333334,
-      "characterCount": 978,
-      "nonWhitespaceCharacterCount": 826,
-      "newlineCount": 9,
-      "readingTimeInMinutes": 0.5471698113207547,
-      "linkCount": 6,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517579,
-      "modifiedDate": 1783869669311,
-      "sizeInBytes": 978,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.48,
-        "wordCount": 144,
-        "characterCount": 965,
-        "nonWhitespaceCharacterCount": 806,
-        "newlineCount": 9
-      }
-    },
-    "04. Lore/Memory Loss.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 289,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.9633333333333334,
-      "characterCount": 1740,
-      "nonWhitespaceCharacterCount": 1436,
-      "newlineCount": 25,
-      "readingTimeInMinutes": 1.090566037735849,
-      "linkCount": 10,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517563,
-      "modifiedDate": 1783869631248,
-      "sizeInBytes": 1762,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.95,
-        "wordCount": 285,
-        "characterCount": 1720,
-        "nonWhitespaceCharacterCount": 1397,
-        "newlineCount": 24
-      },
-      "frontmatter": {
-        "tags": [
-          "Lore"
-        ]
-      }
-    },
-    "04. Lore/Curseblood Plague.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 118,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.3933333333333333,
-      "characterCount": 819,
-      "nonWhitespaceCharacterCount": 693,
-      "newlineCount": 14,
-      "readingTimeInMinutes": 0.44528301886792454,
-      "linkCount": 7,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517563,
-      "modifiedDate": 1783869579892,
-      "sizeInBytes": 843,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.39,
-        "wordCount": 117,
-        "characterCount": 818,
-        "nonWhitespaceCharacterCount": 676,
-        "newlineCount": 16
-      },
-      "frontmatter": {
-        "tags": [
-          "Lore"
-        ]
       }
     },
     "02. PCs/PC Template.md": {
@@ -1603,38 +1608,6 @@
         ]
       }
     },
-    "02. PCs/01. Alive/Squeak.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 29,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.09666666666666666,
-      "characterCount": 275,
-      "nonWhitespaceCharacterCount": 235,
-      "newlineCount": 20,
-      "readingTimeInMinutes": 0.10943396226415095,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517538,
-      "modifiedDate": 1783868189291,
-      "sizeInBytes": 296,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.09666666666666666,
-        "wordCount": 29,
-        "characterCount": 284,
-        "nonWhitespaceCharacterCount": 244,
-        "newlineCount": 20
-      },
-      "frontmatter": {
-        "tags": [
-          "PCs"
-        ]
-      }
-    },
     "02. PCs/01. Alive/Zanya.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1657,14 +1630,73 @@
         "noteCount": 1,
         "pageCount": 0.30333333333333334,
         "wordCount": 91,
-        "characterCount": 671,
-        "nonWhitespaceCharacterCount": 562,
+        "characterCount": 662,
+        "nonWhitespaceCharacterCount": 553,
         "newlineCount": 26
       },
       "frontmatter": {
         "tags": [
           "PCs"
         ]
+      }
+    },
+    "02. PCs/01. Alive/Squeak.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 29,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09666666666666666,
+      "characterCount": 275,
+      "nonWhitespaceCharacterCount": 235,
+      "newlineCount": 20,
+      "readingTimeInMinutes": 0.10943396226415095,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517538,
+      "modifiedDate": 1783868189291,
+      "sizeInBytes": 296,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.09666666666666666,
+        "wordCount": 29,
+        "characterCount": 275,
+        "nonWhitespaceCharacterCount": 235,
+        "newlineCount": 20
+      },
+      "frontmatter": {
+        "tags": [
+          "PCs"
+        ]
+      }
+    },
+    "02. PCs/01. Alive/Valkath.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 65,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.21666666666666667,
+      "characterCount": 505,
+      "nonWhitespaceCharacterCount": 434,
+      "newlineCount": 16,
+      "readingTimeInMinutes": 0.24528301886792453,
+      "linkCount": 1,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1783005517532,
+      "modifiedDate": 1783083196192,
+      "sizeInBytes": 505,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.21666666666666667,
+        "wordCount": 65,
+        "characterCount": 505,
+        "nonWhitespaceCharacterCount": 434,
+        "newlineCount": 16
       }
     },
     "02. PCs/01. Alive/Wally.md": {
@@ -1721,60 +1753,6 @@
         "newlineCount": 13
       }
     },
-    "02. PCs/01. Alive/Valkath.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 65,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.21666666666666667,
-      "characterCount": 505,
-      "nonWhitespaceCharacterCount": 434,
-      "newlineCount": 16,
-      "readingTimeInMinutes": 0.24528301886792453,
-      "linkCount": 1,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1783005517532,
-      "modifiedDate": 1783083196192,
-      "sizeInBytes": 505,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.21666666666666667,
-        "wordCount": 65,
-        "characterCount": 505,
-        "nonWhitespaceCharacterCount": 434,
-        "newlineCount": 16
-      }
-    },
-    "02. PCs/01. Alive/Orinoco.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 856,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.8533333333333335,
-      "characterCount": 7320,
-      "nonWhitespaceCharacterCount": 4997,
-      "newlineCount": 153,
-      "readingTimeInMinutes": 3.230188679245283,
-      "linkCount": 19,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517516,
-      "modifiedDate": 1783868152883,
-      "sizeInBytes": 7323,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.8366666666666664,
-        "wordCount": 851,
-        "characterCount": 6975,
-        "nonWhitespaceCharacterCount": 4894,
-        "newlineCount": 154
-      }
-    },
     "02. PCs/01. Alive/Shade.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1797,68 +1775,14 @@
         "noteCount": 1,
         "pageCount": 0.17,
         "wordCount": 51,
-        "characterCount": 405,
-        "nonWhitespaceCharacterCount": 343,
+        "characterCount": 396,
+        "nonWhitespaceCharacterCount": 334,
         "newlineCount": 18
       },
       "frontmatter": {
         "tags": [
           "PCs"
         ]
-      }
-    },
-    "02. PCs/01. Alive/Milo.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 43,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.14333333333333334,
-      "characterCount": 397,
-      "nonWhitespaceCharacterCount": 340,
-      "newlineCount": 21,
-      "readingTimeInMinutes": 0.16226415094339622,
-      "linkCount": 1,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1783005517516,
-      "modifiedDate": 1783083213908,
-      "sizeInBytes": 397,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.14333333333333334,
-        "wordCount": 43,
-        "characterCount": 397,
-        "nonWhitespaceCharacterCount": 340,
-        "newlineCount": 21
-      }
-    },
-    "02. PCs/01. Alive/Loup Garou.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 65,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.21666666666666667,
-      "characterCount": 512,
-      "nonWhitespaceCharacterCount": 431,
-      "newlineCount": 28,
-      "readingTimeInMinutes": 0.24528301886792453,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517516,
-      "modifiedDate": 1783868096974,
-      "sizeInBytes": 512,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.21333333333333335,
-        "wordCount": 64,
-        "characterCount": 501,
-        "nonWhitespaceCharacterCount": 421,
-        "newlineCount": 28
       }
     },
     "02. PCs/01. Alive/Marcello Gangrene.md": {
@@ -1888,57 +1812,84 @@
         "newlineCount": 14
       }
     },
-    "02. PCs/01. Alive/Lilah.md": {
+    "02. PCs/01. Alive/Loup Garou.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 15,
+      "wordCount": 65,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.05,
-      "characterCount": 158,
-      "nonWhitespaceCharacterCount": 135,
-      "newlineCount": 13,
-      "readingTimeInMinutes": 0.05660377358490566,
-      "linkCount": 0,
+      "pageCount": 0.21666666666666667,
+      "characterCount": 512,
+      "nonWhitespaceCharacterCount": 431,
+      "newlineCount": 28,
+      "readingTimeInMinutes": 0.24528301886792453,
+      "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783005517516,
-      "modifiedDate": 1783083224457,
-      "sizeInBytes": 158,
+      "modifiedDate": 1783868096974,
+      "sizeInBytes": 512,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.05,
-        "wordCount": 15,
-        "characterCount": 158,
-        "nonWhitespaceCharacterCount": 135,
-        "newlineCount": 13
+        "pageCount": 0.21666666666666667,
+        "wordCount": 65,
+        "characterCount": 512,
+        "nonWhitespaceCharacterCount": 431,
+        "newlineCount": 28
       }
     },
-    "02. PCs/01. Alive/Elias Mulch.md": {
+    "02. PCs/01. Alive/Orinoco.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 51,
+      "wordCount": 856,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.17,
-      "characterCount": 385,
-      "nonWhitespaceCharacterCount": 322,
-      "newlineCount": 21,
-      "readingTimeInMinutes": 0.19245283018867926,
-      "linkCount": 1,
+      "pageCount": 2.8533333333333335,
+      "characterCount": 7320,
+      "nonWhitespaceCharacterCount": 4997,
+      "newlineCount": 153,
+      "readingTimeInMinutes": 3.230188679245283,
+      "linkCount": 19,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783005517516,
-      "modifiedDate": 1783074937039,
-      "sizeInBytes": 385,
+      "modifiedDate": 1783868152883,
+      "sizeInBytes": 7323,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.17,
-        "wordCount": 51,
-        "characterCount": 385,
-        "nonWhitespaceCharacterCount": 322,
+        "pageCount": 2.8533333333333335,
+        "wordCount": 856,
+        "characterCount": 7320,
+        "nonWhitespaceCharacterCount": 4997,
+        "newlineCount": 153
+      }
+    },
+    "02. PCs/01. Alive/Milo.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 43,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.14333333333333334,
+      "characterCount": 397,
+      "nonWhitespaceCharacterCount": 340,
+      "newlineCount": 21,
+      "readingTimeInMinutes": 0.16226415094339622,
+      "linkCount": 1,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1783005517516,
+      "modifiedDate": 1783083213908,
+      "sizeInBytes": 397,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.14333333333333334,
+        "wordCount": 43,
+        "characterCount": 397,
+        "nonWhitespaceCharacterCount": 340,
         "newlineCount": 21
       }
     },
@@ -1964,14 +1915,41 @@
         "noteCount": 1,
         "pageCount": 0.31333333333333335,
         "wordCount": 94,
-        "characterCount": 654,
-        "nonWhitespaceCharacterCount": 547,
+        "characterCount": 645,
+        "nonWhitespaceCharacterCount": 538,
         "newlineCount": 22
       },
       "frontmatter": {
         "tags": [
           "PCs"
         ]
+      }
+    },
+    "02. PCs/01. Alive/Lilah.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 15,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.05,
+      "characterCount": 158,
+      "nonWhitespaceCharacterCount": 135,
+      "newlineCount": 13,
+      "readingTimeInMinutes": 0.05660377358490566,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517516,
+      "modifiedDate": 1783083224457,
+      "sizeInBytes": 158,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.05,
+        "wordCount": 15,
+        "characterCount": 158,
+        "nonWhitespaceCharacterCount": 135,
+        "newlineCount": 13
       }
     },
     "02. PCs/01. Alive/Galahad.md": {
@@ -2033,6 +2011,33 @@
         ]
       }
     },
+    "02. PCs/01. Alive/Elias Mulch.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 51,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.17,
+      "characterCount": 385,
+      "nonWhitespaceCharacterCount": 322,
+      "newlineCount": 21,
+      "readingTimeInMinutes": 0.19245283018867926,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517516,
+      "modifiedDate": 1783074937039,
+      "sizeInBytes": 385,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.17,
+        "wordCount": 51,
+        "characterCount": 385,
+        "nonWhitespaceCharacterCount": 322,
+        "newlineCount": 21
+      }
+    },
     "02. PCs/01. Alive/Cora.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2058,33 +2063,6 @@
         "characterCount": 298,
         "nonWhitespaceCharacterCount": 254,
         "newlineCount": 19
-      }
-    },
-    "02. PCs/01. Alive/Brick.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 31,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.10333333333333333,
-      "characterCount": 255,
-      "nonWhitespaceCharacterCount": 218,
-      "newlineCount": 14,
-      "readingTimeInMinutes": 0.1169811320754717,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517500,
-      "modifiedDate": 1783030744634,
-      "sizeInBytes": 255,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.10333333333333333,
-        "wordCount": 31,
-        "characterCount": 255,
-        "nonWhitespaceCharacterCount": 218,
-        "newlineCount": 14
       }
     },
     "02. PCs/01. Alive/Beetle.md": {
@@ -2114,6 +2092,33 @@
         "newlineCount": 28
       }
     },
+    "02. PCs/01. Alive/Brick.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 31,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.10333333333333333,
+      "characterCount": 255,
+      "nonWhitespaceCharacterCount": 218,
+      "newlineCount": 14,
+      "readingTimeInMinutes": 0.1169811320754717,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517500,
+      "modifiedDate": 1783030744634,
+      "sizeInBytes": 255,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.10333333333333333,
+        "wordCount": 31,
+        "characterCount": 255,
+        "nonWhitespaceCharacterCount": 218,
+        "newlineCount": 14
+      }
+    },
     "02. PCs/01. Alive/Abyssian.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2141,35 +2146,35 @@
         "newlineCount": 25
       }
     },
-    "00. READ ME FIRST/00. READ ME FIRST.md": {
+    "01. Sessions/02. Orinoco's Journals/The River and the Sea are One.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 256,
+      "wordCount": 731,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.8533333333333334,
-      "characterCount": 1428,
-      "nonWhitespaceCharacterCount": 1160,
-      "newlineCount": 14,
-      "readingTimeInMinutes": 0.9660377358490566,
+      "pageCount": 2.4366666666666665,
+      "characterCount": 3998,
+      "nonWhitespaceCharacterCount": 3256,
+      "newlineCount": 22,
+      "readingTimeInMinutes": 2.758490566037736,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1783673362377,
-      "modifiedDate": 1783695979982,
-      "sizeInBytes": 1451,
+      "createdDate": 1783799151127,
+      "modifiedDate": 1783804609181,
+      "sizeInBytes": 4024,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.8533333333333334,
-        "wordCount": 256,
-        "characterCount": 1428,
-        "nonWhitespaceCharacterCount": 1160,
-        "newlineCount": 14
+        "pageCount": 2.4366666666666665,
+        "wordCount": 731,
+        "characterCount": 3998,
+        "nonWhitespaceCharacterCount": 3256,
+        "newlineCount": 22
       },
       "frontmatter": {
         "tags": [
-          "Other"
+          "Journals"
         ]
       }
     },
@@ -2237,35 +2242,72 @@
         ]
       }
     },
-    "01. Sessions/02. Orinoco's Journals/The River and the Sea are One.md": {
+    "01. Sessions/01. Session Notes/0.1. Genesis (Prelude).md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 731,
+      "wordCount": 2385,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.4366666666666665,
-      "characterCount": 3998,
-      "nonWhitespaceCharacterCount": 3256,
-      "newlineCount": 22,
-      "readingTimeInMinutes": 2.758490566037736,
-      "linkCount": 0,
+      "pageCount": 7.95,
+      "characterCount": 14994,
+      "nonWhitespaceCharacterCount": 12513,
+      "newlineCount": 103,
+      "readingTimeInMinutes": 9,
+      "linkCount": 38,
       "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783799151127,
-      "modifiedDate": 1783804609181,
-      "sizeInBytes": 4024,
+      "aliases": [
+        "Genesis"
+      ],
+      "createdDate": 1783005517484,
+      "modifiedDate": 1783866959025,
+      "sizeInBytes": 15045,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 2.4366666666666665,
-        "wordCount": 731,
-        "characterCount": 3998,
-        "nonWhitespaceCharacterCount": 3256,
-        "newlineCount": 22
+        "pageCount": 7.95,
+        "wordCount": 2385,
+        "characterCount": 14994,
+        "nonWhitespaceCharacterCount": 12513,
+        "newlineCount": 103
       },
       "frontmatter": {
         "tags": [
-          "Journals"
+          "SessionNotes"
+        ],
+        "aliases": [
+          "Genesis"
+        ]
+      }
+    },
+    "01. Sessions/01. Session Notes/Session Notes Template.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 23,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 206,
+      "nonWhitespaceCharacterCount": 164,
+      "newlineCount": 26,
+      "readingTimeInMinutes": 0.08679245283018867,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783576666625,
+      "modifiedDate": 1783863827967,
+      "sizeInBytes": 236,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.07666666666666666,
+        "wordCount": 23,
+        "characterCount": 206,
+        "nonWhitespaceCharacterCount": 164,
+        "newlineCount": 26
+      },
+      "frontmatter": {
+        "tags": [
+          "SessionNotes"
         ]
       }
     },
@@ -2291,11 +2333,11 @@
       "sizeInBytes": 19341,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 10.753333333333334,
-        "wordCount": 3226,
-        "characterCount": 18916,
-        "nonWhitespaceCharacterCount": 15603,
-        "newlineCount": 95
+        "pageCount": 10.873333333333333,
+        "wordCount": 3262,
+        "characterCount": 19283,
+        "nonWhitespaceCharacterCount": 15917,
+        "newlineCount": 107
       },
       "frontmatter": {
         "tags": [
@@ -2303,112 +2345,6 @@
         ],
         "aliases": [
           "Anathema"
-        ]
-      }
-    },
-    "01. Sessions/01. Session Notes/0.1. Genesis (Prelude).md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2385,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 7.95,
-      "characterCount": 14994,
-      "nonWhitespaceCharacterCount": 12513,
-      "newlineCount": 103,
-      "readingTimeInMinutes": 9,
-      "linkCount": 38,
-      "embedCount": 0,
-      "aliases": [
-        "Genesis"
-      ],
-      "createdDate": 1783005517484,
-      "modifiedDate": 1783866959025,
-      "sizeInBytes": 15045,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 7.826666666666667,
-        "wordCount": 2348,
-        "characterCount": 14521,
-        "nonWhitespaceCharacterCount": 12094,
-        "newlineCount": 93
-      },
-      "frontmatter": {
-        "tags": [
-          "SessionNotes"
-        ],
-        "aliases": [
-          "Genesis"
-        ]
-      }
-    },
-    "01. Sessions/01. Session Notes/0.3 Initiation.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1743,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 5.81,
-      "characterCount": 10596,
-      "nonWhitespaceCharacterCount": 8770,
-      "newlineCount": 79,
-      "readingTimeInMinutes": 6.577358490566038,
-      "linkCount": 33,
-      "embedCount": 0,
-      "aliases": [
-        "Initiation"
-      ],
-      "createdDate": 1783005517500,
-      "modifiedDate": 1783867799274,
-      "sizeInBytes": 10652,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 5.723333333333334,
-        "wordCount": 1717,
-        "characterCount": 10302,
-        "nonWhitespaceCharacterCount": 8515,
-        "newlineCount": 71
-      },
-      "frontmatter": {
-        "tags": [
-          "SessionNotes"
-        ],
-        "aliases": [
-          "Initiation"
-        ]
-      }
-    },
-    "01. Sessions/01. Session Notes/Session Notes Template.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 23,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.07666666666666666,
-      "characterCount": 206,
-      "nonWhitespaceCharacterCount": 164,
-      "newlineCount": 26,
-      "readingTimeInMinutes": 0.08679245283018867,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783576666625,
-      "modifiedDate": 1783863827967,
-      "sizeInBytes": 236,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.05333333333333334,
-        "wordCount": 16,
-        "characterCount": 143,
-        "nonWhitespaceCharacterCount": 110,
-        "newlineCount": 22
-      },
-      "frontmatter": {
-        "tags": [
-          "SessionNotes"
         ]
       }
     },
@@ -2434,11 +2370,11 @@
       "sizeInBytes": 21122,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 11.686666666666667,
-        "wordCount": 3506,
-        "characterCount": 20924,
-        "nonWhitespaceCharacterCount": 17265,
-        "newlineCount": 158
+        "pageCount": 11.703333333333333,
+        "wordCount": 3511,
+        "characterCount": 21061,
+        "nonWhitespaceCharacterCount": 17406,
+        "newlineCount": 151
       },
       "frontmatter": {
         "tags": [
@@ -2449,31 +2385,73 @@
         ]
       }
     },
-    "Pasted image 20260712140650.png": {
-      "isCountable": false,
+    "01. Sessions/01. Session Notes/0.3 Initiation.md": {
+      "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 1743,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "wordGoal": null,
+      "pageCount": 5.81,
+      "characterCount": 10596,
+      "nonWhitespaceCharacterCount": 8770,
+      "newlineCount": 79,
+      "readingTimeInMinutes": 6.577358490566038,
+      "linkCount": 33,
+      "embedCount": 0,
+      "aliases": [
+        "Initiation"
+      ],
+      "createdDate": 1783005517500,
+      "modifiedDate": 1783867799274,
+      "sizeInBytes": 10652,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 5.81,
+        "wordCount": 1743,
+        "characterCount": 10596,
+        "nonWhitespaceCharacterCount": 8770,
+        "newlineCount": 79
+      },
+      "frontmatter": {
+        "tags": [
+          "SessionNotes"
+        ],
+        "aliases": [
+          "Initiation"
+        ]
+      }
+    },
+    "00. READ ME FIRST/00. READ ME FIRST.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 256,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.8533333333333334,
+      "characterCount": 1428,
+      "nonWhitespaceCharacterCount": 1160,
+      "newlineCount": 14,
+      "readingTimeInMinutes": 0.9660377358490566,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1783861610085,
-      "modifiedDate": 1783861610085,
-      "sizeInBytes": 7764,
+      "aliases": null,
+      "createdDate": 1783673362377,
+      "modifiedDate": 1783695979982,
+      "sizeInBytes": 1451,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "noteCount": 1,
+        "pageCount": 0.8533333333333334,
+        "wordCount": 256,
+        "characterCount": 1428,
+        "nonWhitespaceCharacterCount": 1160,
+        "newlineCount": 14
+      },
+      "frontmatter": {
+        "tags": [
+          "Other"
+        ]
       }
     }
   }

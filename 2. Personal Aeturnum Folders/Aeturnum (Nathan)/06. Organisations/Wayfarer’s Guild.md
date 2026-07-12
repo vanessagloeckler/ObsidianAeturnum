@@ -31,7 +31,7 @@ Known Active Members:
 - [[Scarlet]] - Commanding Officer - Possibly Gilli's avatar
 
 Known Inactive Members: 
-- [[Minor Wayfarer NPCs|Elaria]] (Deceased) - Scout - Killed by [[Haera's Forces|Malice]] during [[0.3 Initiation|Initiation]].
+- [[Minor Wayfarer NPCs#Elaria|Elaria]] (Deceased) - Scout - Killed by [[Haera's Forces#Malice (The Harlequin)|The Harlequin]] during [[0.3 Initiation|Initiation]].
 - [[Theolyn Esmond]] (Deceased) - Rank unknown, assumed Wayfarer - Died during the events of [[0.2 Requiem|Requiem]]
 # The Hunter's Council
 
@@ -48,9 +48,9 @@ Multiple colossal metal wagons, each one pulled by multiple horses, with heavy a
 - The Armoury (Near the back)
 ## The Armoury
 
-Where [[Technology|Hunter's Tools]] and other gear is procured. It is overseen by [[Astra]], and is covered in an array of arcane wards from mismatched cultures, even more so than the rest of the convoy.
+Where [[Technology#Hunter's Bracer and Hunter's Tools|Hunter's Tools]] and other gear is procured. It is overseen by [[Astra]], and is covered in an array of arcane wards from mismatched cultures, even more so than the rest of the convoy.
 
-The Armoury looks different to the rest of the convoy, more gothic in appearance, and featuring heavy large exhaust pipes from which smoke with an iridescent sheen pumps out. The inside is dark and gloomy, with all the curtains drawn, and a thick aroma of incense in the air. The wagon is filled with leatherbound books and scrolls, a variety of gear for exploration and combat, and further inside a workshop can be seen. While the entire convoy is covered in protective and anti-scrying runes, the runes and other magical artefacts in the armoury is much more diverse and obscure, featuring a bizarre mismatch of butchered magicks, including [[05. Glossary of Minor Terms|Valentian]] magic. It is as though the wagon has been stapled together from different cultures and languages. 
+The Armoury looks different to the rest of the convoy, more gothic in appearance, and featuring heavy large exhaust pipes from which smoke with an iridescent sheen pumps out. The inside is dark and gloomy, with all the curtains drawn, and a thick aroma of incense in the air. The wagon is filled with leatherbound books and scrolls, a variety of gear for exploration and combat, and further inside a workshop can be seen. While the entire convoy is covered in protective and anti-scrying runes, the runes and other magical artefacts in the armoury is much more diverse and obscure, featuring a bizarre mismatch of butchered magicks, including [[05. Glossary of Minor Terms#Valentia & the Imara Sea|Valentian]] magic. It is as though the wagon has been stapled together from different cultures and languages. 
 
 ## The Vanguard
 
