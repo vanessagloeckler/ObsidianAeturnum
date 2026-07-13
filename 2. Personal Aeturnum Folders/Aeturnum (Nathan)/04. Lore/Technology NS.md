@@ -47,7 +47,6 @@ An artificial sun, that generates natural sunlight in a range of ten miles, capa
 Created by the [[Adrestia NS#Typhon Foundry|Typhon Foundry]], and the brain child of [[Speakers NS#Vivian Anelin|Speaker Vivian]].
 
 Only one model is known to exist, which was carried on the Phospherian Five, the flagship airship of Adrestia, on the [[0.1. Genesis (Prelude) NS|Genesis Expedition]]. Both ship and sphere were destroyed by [[Haera Agelamorn NS]], who cast a bolt/cannon of blood powerful enough to cut through both, and the mountain behind. 
-
 # Energy Sources
 ## Etheric Cells
 

@@ -11,7 +11,7 @@ Welcome to the Aeturnum Shared Knowledge Base! This is a collection of notes fro
 The Obsidian is divided into two segments, the Shared Aeturnum Vault and the Personal Aeturnum Folders.
 ## Shared Aeturnum Vault
 
-This is where you will want to spend most of your time. It is the pooled knowledge of all contributors, with a focus on things that we know to be more or less true (e.g., "Scarlet is a red haired human"), while avoiding anything subjective or speculative (e.g., "Scarlet is a bit of a bit-ka"). If something is unconfirmed or speculative, but a common thought amongst players, we will do our best to indicate it as such.
+This is where you will want to spend most of your time. It is the pooled knowledge of all contributors, with a focus on things that we know to be more or less true (e.g., "Scarlet is a red haired human"), while avoiding anything subjective (e.g., "Scarlet is a bit of a bit-ka") or speculative ("Scarlet is actually the Hierophant"). If something is unconfirmed or speculative, but a common thought amongst players, we will do our best to indicate it as such.
 
 To avoid quest board spoilers, we will not upload any information to do with quest boards till after the final event date for the month's circulation has passed. 
 
@@ -26,11 +26,11 @@ These are the personal notes of some of the people who are contributing to the s
 
 **BE AWARE:** You are absolutely welcome to have a look around these folders, but know that they contain unmarked spoilers, including spoilers for the present months quest boards. There may be additional 'Read Me First' files in there to provide additional guidance, so keep an eye out for them if you go exploring.
 
-The owners of the currently attached vaults are:
+The owners of the currently attached folders are:
 - Nathan (NS) - Amelia Maizing in campaign 1, Orinoco in campaign 2
 - Vanessa (VEE) - Nyssa in campaign 1, Milo in campaign 2
 
-Every file in our personal folders will have our initials in the title, to make sure that they're clearly separate. (e.g., Nathan's file on Adrestia is called 'Adrestia NS', Vanessa's file is called 'Adrestia VEE', and the shared file is just called 'Adrestia') Please keep an eye out on the file titles to make sure that you haven't strayed into the wrong area. The page links should keep you within one area, but accidents can happen. 
+Every file in our personal folders will have our initials in the title, to make sure that they're clearly separate (e.g., Nathan's file on Adrestia is called 'Adrestia NS', Vanessa's file is called 'Adrestia VEE', and the shared file is just called 'Adrestia'). Please keep an eye out on the file titles to make sure that you haven't strayed into the wrong area. The links should keep you within one area, but accidents can happen. 
 
 **A note for editors:** If you have editing access, please only edit your own personal files and files in the Shared Aeturnum Vault, unless you have permission from that folder's owner. Everything is backed up and can be reverted to a prior save, but better safe than sorry!
 # Contributions
@@ -42,10 +42,10 @@ This vault was built by:
 With contributions from:
 - **Andy** - Zerxus in campaign 1
 - **Arnand** - Klump the Flumpf in campaign 1, Brick in campaign 2
-- **Luke** - Gizmo/Igor in campaign 1, Beetle in campaign 2
-- **Nathan** - Nut in campaign 1, Aphaéa in campaign 2
-- **Gaia** - Clank in campaign 1, Cora in campaign 2
 - **Charles** - Scrud in campaign 1, Cogwin in campaign 2
+- **Luke** - Gizmo/Igor in campaign 1, Beetle in campaign 2
+- **Gaia** - Clank in campaign 1, Cora in campaign 2
+- **Nathan** - Nut in campaign 1, Aphaéa in campaign 2
 - **Sky** - Vardy the Pirate in campaign 1, Scapula in campaign 2
 # Formatting
 
@@ -78,18 +78,20 @@ To create headers, you input a hash for the level of header you want. E.g., one 
 
 To create a link from one page to another, put the name of the file within two square brackets, \[[ ]]. For example;
 
-\[[Wayfarer NPCs]]
+\[\[Wayfarer NPCs]]
 
 Becomes:
 
 [[Wayfarer NPCs]]
 
 If you hold your mouse over a link and press the CTRL key, you'll get a pop up preview of the contents of that file without having to load it. 
+
+**IMPORTANT NOTE:** When linking files, make sure you are linking to the correct file. For example, if you're creating a link to Adrestia, make sure you are linking to the 'Adrestia' file that exists within the Shared Aeturnum Vault, not the 'Adrestia NS' file that exists within Nathan's personal folder.
 ### Nicknaming Links
 
 You can also give a link a nickname by dividing the file name from the desired name with a | symbol. This will allow you to write anything you like and have it appear in the text, while the link will still take you to the correct file. For example;
 
-\[[Wayfarer NPCs|Scarlet]]
+\[\[Wayfarer NPCs|Scarlet]]
 
 Becomes:
 
@@ -102,7 +104,7 @@ By using links in combination with headers, you can create a link that goes to a
 
 To link to a specific location within a file, open the double brackets, type the name of the file, then add a hash. After the hash, type the name of the heading that you want to link to. For example;
 
-\[[Wayfarer NPCs#Scarlet]]
+\[\[Wayfarer NPCs#Scarlet]]
 
 Becomes: 
 
@@ -110,7 +112,7 @@ Becomes:
 
 This looks a little messy, so you can also make use of the Nicknames functionality by adding a | and alternative text after the header name. For example;
 
-\[[Wayfarer NPCs#Scarlet|Scarlet]]
+\[\[Wayfarer NPCs#Scarlet|Scarlet]]
 
 Becomes:
 
@@ -122,7 +124,7 @@ This link will take you straight to Scarlet's section of 'Wayfarer NPCs' page. I
 
 To create a table of contents, or other link that will go to something within the same file, start with double square brackets and add a hash, then write the name of the header you want the link to go to. For example;
 
-\[[#Guide to the Folders]]
+\[\[#Guide to the Folders]]
 
 Becomes:
 

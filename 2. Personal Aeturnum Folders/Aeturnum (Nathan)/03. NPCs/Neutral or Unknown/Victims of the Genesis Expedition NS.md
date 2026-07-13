@@ -1,6 +1,6 @@
 Tags: #NPCs
 
-The following people were dispatched to [[Tisis NS#Aernoc Palace|Aernoc Palace]] to fight [[Haera Agelamorn NS]] and close the [[Worldwound NS]]. 
+The following people were dispatched to [[Tisis NS#Aernoc Palace|Aernoc Palace]] to fight [[Haera Agelamorn NS|Haera]] and close the [[Worldwound NS|Worldwound]]. 
 
 They were completely wiped out by Haera, and converted into thralls. Five became the [[Five Lieutenants NS|lieutenants of Haera's forces/court]]. 
 
@@ -25,7 +25,7 @@ They were completely wiped out by Haera, and converted into thralls. Five became
 - Unknown
 
 NPCs:
-- [[Eris Pentaghast NS]] - Still alive, but imprisoned and tortured to insanity by Haera.
+- [[Eris Pentaghast NS|Eris Pentaghast]] - Still alive, but imprisoned and tortured to insanity by Haera.
 
 # Table 1
 
@@ -35,7 +35,7 @@ Human Oath of the Ancients Paladin
 
 Sir Gregor Gestalt, AKA The Greenhorn, was a powerful paladin, in service of the ancient forces of nature. He was regularly accompanied by his elk steed, Chad. He made a name for himself during the riots following the death of Elias Jassen and the silence of The Nine, when he stood out of the forest and used his powers to cover parts of Adrestia in dense foliage, restraining rioters without harming them till they were able to calm themselves or be apprehended. Speaker Zarissa complained about the cost of clean up from these magics.
 
-Noteworthy items: Helmet with green elk horns and adrestian text that read 'Minuet'. Moss covered shield with Adrestian text that read 'Nature does not hurry, yet everything is accomplished'. Moss covered sword.
+Noteworthy items: Helmet with green elk horns and Adrestian text that read 'Minuet'. Moss covered shield with Adrestian text that read 'Nature does not hurry, yet everything is accomplished'. Moss covered sword.
 
 He was killed by an enthralled Mayday and Elowen. 
 ## Karmen Berana

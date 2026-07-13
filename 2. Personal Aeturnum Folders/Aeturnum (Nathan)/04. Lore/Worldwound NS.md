@@ -1,16 +1,14 @@
 Tags: #Lore 
 
-An unknown phenomenon occurring above [[Tisis NS]], and expanding. If not stopped, it will engulf all of creation, rendering the world to an endless void.
+An unknown phenomenon occurring above [[Tisis NS|Tisis]], and expanding. If not stopped, it will engulf all of creation, rendering the world to an endless void.
 
 Effects of the Worldwound:
-- The [[Curseblood Plague NS]] (Though this may be from Haera)
-- The [[Petrification Curse NS]]
+- The [[Curseblood Plague NS|Curseblood Plague]] (Though this may be from Haera)
+- The [[Petrification Curse NS|Petrification Curse]]
 - The corruption of [[Technology NS#Lyria|Lyria]]. 
-
 # Creation
 
 30 years ago, [[Haera Agelamorn NS]] was performing some sort of ritual in Aernoc Palace, while surrounded by her courtiers. This resulted in the Worldwound opening, and immediately turning the vampire courtiers to stone, all bar Haera herself. It is unknown whether this was Haera's intent, but all the courtiers were frozen with happy, peaceful, or excited expressions, meaning they either expected it to happen or it happened instantly.
-
 # Appearance
 
 A large void in the sky, surrounded by red and purple energies. As of [[0.3 Initiation NS|Initiation]], from [[Adrestia NS]], the wound seems to cover about 1/5th of the sky. The epicentre of the wound is assumedly above [[Tisis NS#Aernoc Palace|Aernoc Palace]], which is on the opposite side of the Red Isles to Adrestia. (Description given by Rory)
@@ -22,7 +20,6 @@ It is unknown whether Haera meant to open the Worldwound or if she has any direc
 # Player Interactions
 
 [[Abyssian NS]]'s singular memory is of looking into the Worldwound, and discovering his power there.
-
 # Official Sources
 
 From the [[001. Initial Post NS|initial post]]; It drains the world below of light, trapping what remains of humanity in an inevitable march towards extinction. Year by year the breach expands, turning the survivors below to stone; their agony preserved for all eternity, as the flame of creation itself is extinguished.

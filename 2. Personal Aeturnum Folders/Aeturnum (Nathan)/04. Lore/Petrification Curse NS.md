@@ -1,6 +1,6 @@
 Tags: #Lore 
 
-A curse related to the [[Worldwound NS]], that causes people to slowly turn to stone. 
+A curse related to the [[Worldwound NS|Worldwound]], that causes people to slowly turn to stone. 
 
 During the events of [[0.1. Genesis (Prelude) NS|Genesis]], [[Victims of the Genesis Expedition NS#Mayday|Mayday]] discovered that statues found at [[Tisis NS#Aernoc Palace|Aernoc Palace]] contained still organic, still living material contained within the statues, and hypnotized that the purpose of the curse was to essentially create 'lunchboxes' of blood for the vampires.
 

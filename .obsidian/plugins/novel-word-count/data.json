@@ -95,6 +95,271 @@
         "newlineCount": 0
       }
     },
+    "1. Shared Aeturnum Vault/READ ME FIRST.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1625,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.416666666666667,
+      "characterCount": 9639,
+      "nonWhitespaceCharacterCount": 7873,
+      "newlineCount": 152,
+      "readingTimeInMinutes": 6.132075471698113,
+      "linkCount": 18,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783949647980,
+      "modifiedDate": 1783973934102,
+      "sizeInBytes": 9640,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 5.236666666666666,
+        "wordCount": 1571,
+        "characterCount": 9297,
+        "nonWhitespaceCharacterCount": 7586,
+        "newlineCount": 150
+      }
+    },
+    "1. Shared Aeturnum Vault/Campaign 2 Nocturne/Quest Boards & Narratives/02. Hell Itself.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 16,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.05333333333333334,
+      "characterCount": 103,
+      "nonWhitespaceCharacterCount": 87,
+      "newlineCount": 1,
+      "readingTimeInMinutes": 0.06037735849056604,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783876314508,
+      "modifiedDate": 1783876358982,
+      "sizeInBytes": 103,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.05333333333333334,
+        "wordCount": 16,
+        "characterCount": 103,
+        "nonWhitespaceCharacterCount": 87,
+        "newlineCount": 1
+      }
+    },
+    "1. Shared Aeturnum Vault/Campaign 2 Nocturne/Quest Boards & Narratives/00. Prelude, Prologue, Primer.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 249,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.83,
+      "characterCount": 1550,
+      "nonWhitespaceCharacterCount": 1283,
+      "newlineCount": 24,
+      "readingTimeInMinutes": 0.939622641509434,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783884625617,
+      "modifiedDate": 1783973758284,
+      "sizeInBytes": 1550,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.83,
+        "wordCount": 249,
+        "characterCount": 1551,
+        "nonWhitespaceCharacterCount": 1284,
+        "newlineCount": 24
+      }
+    },
+    "1. Shared Aeturnum Vault/Campaign 2 Nocturne/Quest Boards & Narratives/01. Adrestia (July 2026).md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 119,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.39666666666666667,
+      "characterCount": 794,
+      "nonWhitespaceCharacterCount": 663,
+      "newlineCount": 15,
+      "readingTimeInMinutes": 0.4490566037735849,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783876249538,
+      "modifiedDate": 1783876299616,
+      "sizeInBytes": 796,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.39666666666666667,
+        "wordCount": 119,
+        "characterCount": 794,
+        "nonWhitespaceCharacterCount": 663,
+        "newlineCount": 15
+      }
+    },
+    "1. Shared Aeturnum Vault/Campaign 2 Nocturne/NPCs/The Speakers of Adrestia.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 113,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.37666666666666665,
+      "characterCount": 891,
+      "nonWhitespaceCharacterCount": 766,
+      "newlineCount": 35,
+      "readingTimeInMinutes": 0.42641509433962266,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783876403946,
+      "modifiedDate": 1783884353739,
+      "sizeInBytes": 891,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.37666666666666665,
+        "wordCount": 113,
+        "characterCount": 891,
+        "nonWhitespaceCharacterCount": 766,
+        "newlineCount": 35
+      }
+    },
+    "1. Shared Aeturnum Vault/Campaign 2 Nocturne/NPCs/Wayfarer NPCs.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 230,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7666666666666667,
+      "characterCount": 1899,
+      "nonWhitespaceCharacterCount": 1637,
+      "newlineCount": 71,
+      "readingTimeInMinutes": 0.8679245283018868,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783874502010,
+      "modifiedDate": 1783875274185,
+      "sizeInBytes": 1921,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.7666666666666667,
+        "wordCount": 230,
+        "characterCount": 1899,
+        "nonWhitespaceCharacterCount": 1637,
+        "newlineCount": 71
+      },
+      "frontmatter": {
+        "tags": [
+          "NPCs"
+        ]
+      }
+    },
+    "1. Shared Aeturnum Vault/Campaign 2 Nocturne/NPCs/Antagonists.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 343,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.1433333333333333,
+      "characterCount": 2407,
+      "nonWhitespaceCharacterCount": 2017,
+      "newlineCount": 54,
+      "readingTimeInMinutes": 1.2943396226415094,
+      "linkCount": 11,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783885521054,
+      "modifiedDate": 1783886626808,
+      "sizeInBytes": 2429,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.1433333333333333,
+        "wordCount": 343,
+        "characterCount": 2407,
+        "nonWhitespaceCharacterCount": 2017,
+        "newlineCount": 54
+      },
+      "frontmatter": {
+        "tags": [
+          "NPCs"
+        ]
+      }
+    },
+    "1. Shared Aeturnum Vault/Campaign 2 Nocturne/Locations/Adrestia.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 584,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.9466666666666668,
+      "characterCount": 4108,
+      "nonWhitespaceCharacterCount": 3428,
+      "newlineCount": 93,
+      "readingTimeInMinutes": 2.2037735849056603,
+      "linkCount": 26,
+      "embedCount": 0,
+      "aliases": [
+        "The City of Adrestia",
+        "The origin point of the Wayfarers"
+      ],
+      "createdDate": 1783956618493,
+      "modifiedDate": 1783976732340,
+      "sizeInBytes": 4207,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.11333333333333333,
+        "wordCount": 34,
+        "characterCount": 180,
+        "nonWhitespaceCharacterCount": 144,
+        "newlineCount": 4
+      },
+      "frontmatter": {
+        "aliases": [
+          "The City of Adrestia",
+          "The origin point of the Wayfarers"
+        ],
+        "tags": [
+          "Locations"
+        ]
+      }
+    },
+    "1. Shared Aeturnum Vault/Campaign 1 - Bloodtide & Masquerade/Untitled.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517453,
+      "modifiedDate": 1783005517453,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/The outlands/Shrine to the Blood God VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -119,6 +384,33 @@
         "wordCount": 31,
         "characterCount": 186,
         "nonWhitespaceCharacterCount": 156,
+        "newlineCount": 1
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/The outlands/The Watering Hole VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 12,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.04,
+      "characterCount": 72,
+      "nonWhitespaceCharacterCount": 61,
+      "newlineCount": 1,
+      "readingTimeInMinutes": 0.045283018867924525,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005518135,
+      "modifiedDate": 1783948392895,
+      "sizeInBytes": 72,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.04,
+        "wordCount": 12,
+        "characterCount": 72,
+        "nonWhitespaceCharacterCount": 61,
         "newlineCount": 1
       }
     },
@@ -149,33 +441,6 @@
         "newlineCount": 3
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/The outlands/The Watering Hole VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 12,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.04,
-      "characterCount": 72,
-      "nonWhitespaceCharacterCount": 61,
-      "newlineCount": 1,
-      "readingTimeInMinutes": 0.045283018867924525,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005518135,
-      "modifiedDate": 1783948392895,
-      "sizeInBytes": 72,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.04,
-        "wordCount": 12,
-        "characterCount": 72,
-        "nonWhitespaceCharacterCount": 61,
-        "newlineCount": 1
-      }
-    },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/The outlands/Outlands VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -201,33 +466,6 @@
         "characterCount": 69,
         "nonWhitespaceCharacterCount": 59,
         "newlineCount": 2
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/The outlands/Joanna VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 27,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.09,
-      "characterCount": 174,
-      "nonWhitespaceCharacterCount": 143,
-      "newlineCount": 3,
-      "readingTimeInMinutes": 0.1018867924528302,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005518135,
-      "modifiedDate": 1783948407352,
-      "sizeInBytes": 174,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.09,
-        "wordCount": 27,
-        "characterCount": 174,
-        "nonWhitespaceCharacterCount": 143,
-        "newlineCount": 3
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/The outlands/Hemlock Coast VEE.md": {
@@ -284,6 +522,33 @@
         "newlineCount": 4
       }
     },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/The outlands/Joanna VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 27,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09,
+      "characterCount": 174,
+      "nonWhitespaceCharacterCount": 143,
+      "newlineCount": 3,
+      "readingTimeInMinutes": 0.1018867924528302,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005518135,
+      "modifiedDate": 1783948407352,
+      "sizeInBytes": 174,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.09,
+        "wordCount": 27,
+        "characterCount": 174,
+        "nonWhitespaceCharacterCount": 143,
+        "newlineCount": 3
+      }
+    },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/The outlands/Chaharakail VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -309,33 +574,6 @@
         "characterCount": 152,
         "nonWhitespaceCharacterCount": 129,
         "newlineCount": 1
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/The outlands/Bryn VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 11,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.03666666666666667,
-      "characterCount": 72,
-      "nonWhitespaceCharacterCount": 60,
-      "newlineCount": 2,
-      "readingTimeInMinutes": 0.04150943396226415,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005518116,
-      "modifiedDate": 1783948389019,
-      "sizeInBytes": 72,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.03666666666666667,
-        "wordCount": 11,
-        "characterCount": 72,
-        "nonWhitespaceCharacterCount": 60,
-        "newlineCount": 2
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/The outlands/Alvorn VEE.md": {
@@ -365,34 +603,34 @@
         "newlineCount": 6
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Quest/Quest VEE.md": {
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/The outlands/Bryn VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 11,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 72,
+      "nonWhitespaceCharacterCount": 60,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0.04150943396226415,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783005518116,
-      "modifiedDate": 1783005518116,
-      "sizeInBytes": 0,
+      "modifiedDate": 1783948389019,
+      "sizeInBytes": 72,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "pageCount": 0.03666666666666667,
+        "wordCount": 11,
+        "characterCount": 72,
+        "nonWhitespaceCharacterCount": 60,
+        "newlineCount": 2
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Quest/Lumian Knights VEE.md": {
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Quest/Quest VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -444,6 +682,33 @@
         "characterCount": 35,
         "nonWhitespaceCharacterCount": 28,
         "newlineCount": 1
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Quest/Lumian Knights VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005518116,
+      "modifiedDate": 1783005518116,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Quest/Hemwick Ladies VEE.md": {
@@ -500,33 +765,6 @@
         "newlineCount": 0
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Quest/Argent Dawn (ship) VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 14,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.04666666666666667,
-      "characterCount": 112,
-      "nonWhitespaceCharacterCount": 94,
-      "newlineCount": 5,
-      "readingTimeInMinutes": 0.052830188679245285,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005518100,
-      "modifiedDate": 1783948370202,
-      "sizeInBytes": 112,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.04666666666666667,
-        "wordCount": 14,
-        "characterCount": 112,
-        "nonWhitespaceCharacterCount": 94,
-        "newlineCount": 5
-      }
-    },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Quest/Acassius VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -581,85 +819,31 @@
         "newlineCount": 3
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/The Nine VEE.md": {
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Quest/Argent Dawn (ship) VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 42,
+      "wordCount": 14,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.14,
-      "characterCount": 299,
-      "nonWhitespaceCharacterCount": 250,
-      "newlineCount": 9,
-      "readingTimeInMinutes": 0.15849056603773584,
-      "linkCount": 4,
+      "pageCount": 0.04666666666666667,
+      "characterCount": 112,
+      "nonWhitespaceCharacterCount": 94,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.052830188679245285,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783005518100,
-      "modifiedDate": 1783948364439,
-      "sizeInBytes": 299,
+      "modifiedDate": 1783948370202,
+      "sizeInBytes": 112,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.14,
-        "wordCount": 42,
-        "characterCount": 299,
-        "nonWhitespaceCharacterCount": 250,
-        "newlineCount": 9
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/The contract VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005518100,
-      "modifiedDate": 1783005518100,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/The Attendant VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 30,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.1,
-      "characterCount": 191,
-      "nonWhitespaceCharacterCount": 158,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0.11320754716981132,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005518100,
-      "modifiedDate": 1783948357955,
-      "sizeInBytes": 191,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.1,
-        "wordCount": 30,
-        "characterCount": 191,
-        "nonWhitespaceCharacterCount": 158,
-        "newlineCount": 4
+        "pageCount": 0.04666666666666667,
+        "wordCount": 14,
+        "characterCount": 112,
+        "nonWhitespaceCharacterCount": 94,
+        "newlineCount": 5
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/Sovereign (Currency) VEE.md": {
@@ -716,6 +900,87 @@
         "newlineCount": 1
       }
     },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/The Attendant VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 30,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.1,
+      "characterCount": 191,
+      "nonWhitespaceCharacterCount": 158,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.11320754716981132,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005518100,
+      "modifiedDate": 1783948357955,
+      "sizeInBytes": 191,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.1,
+        "wordCount": 30,
+        "characterCount": 191,
+        "nonWhitespaceCharacterCount": 158,
+        "newlineCount": 4
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/The Nine VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 42,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.14,
+      "characterCount": 299,
+      "nonWhitespaceCharacterCount": 250,
+      "newlineCount": 9,
+      "readingTimeInMinutes": 0.15849056603773584,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005518100,
+      "modifiedDate": 1783948364439,
+      "sizeInBytes": 299,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.14,
+        "wordCount": 42,
+        "characterCount": 299,
+        "nonWhitespaceCharacterCount": 250,
+        "newlineCount": 9
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/The contract VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005518100,
+      "modifiedDate": 1783005518100,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/Navigators Guild VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -741,6 +1006,33 @@
         "characterCount": 87,
         "nonWhitespaceCharacterCount": 72,
         "newlineCount": 2
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/Mechanist Guild VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 10,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 86,
+      "nonWhitespaceCharacterCount": 74,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.03773584905660377,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005518084,
+      "modifiedDate": 1783948351460,
+      "sizeInBytes": 86,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.03333333333333333,
+        "wordCount": 10,
+        "characterCount": 86,
+        "nonWhitespaceCharacterCount": 74,
+        "newlineCount": 4
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/Occultist Guild VEE.md": {
@@ -770,58 +1062,85 @@
         "newlineCount": 5
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/Andrea Tharanis (Mechanists) VEE.md": {
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/Justicar Guild VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.0033333333333333335,
-      "characterCount": 7,
-      "nonWhitespaceCharacterCount": 6,
-      "newlineCount": 2,
-      "readingTimeInMinutes": 0.0037735849056603774,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1783005518069,
-      "modifiedDate": 1783948326487,
-      "sizeInBytes": 7,
+      "createdDate": 1783005518084,
+      "modifiedDate": 1783005518084,
+      "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.0033333333333333335,
-        "wordCount": 1,
-        "characterCount": 7,
-        "nonWhitespaceCharacterCount": 6,
-        "newlineCount": 2
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/Mechanist Guild VEE.md": {
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/Head of Navigators Guild VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 10,
+      "wordCount": 29,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.03333333333333333,
-      "characterCount": 86,
-      "nonWhitespaceCharacterCount": 74,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0.03773584905660377,
-      "linkCount": 2,
+      "pageCount": 0.09666666666666666,
+      "characterCount": 193,
+      "nonWhitespaceCharacterCount": 165,
+      "newlineCount": 1,
+      "readingTimeInMinutes": 0.10943396226415095,
+      "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783005518084,
-      "modifiedDate": 1783948351460,
-      "sizeInBytes": 86,
+      "modifiedDate": 1783948364060,
+      "sizeInBytes": 193,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.03333333333333333,
-        "wordCount": 10,
-        "characterCount": 86,
-        "nonWhitespaceCharacterCount": 74,
-        "newlineCount": 4
+        "pageCount": 0.09666666666666666,
+        "wordCount": 29,
+        "characterCount": 193,
+        "nonWhitespaceCharacterCount": 165,
+        "newlineCount": 1
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/Kahdaj Kandera (Occultist leader) VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 32,
+      "nonWhitespaceCharacterCount": 28,
+      "newlineCount": 1,
+      "readingTimeInMinutes": 0.01509433962264151,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005518084,
+      "modifiedDate": 1783948354893,
+      "sizeInBytes": 32,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.013333333333333334,
+        "wordCount": 4,
+        "characterCount": 32,
+        "nonWhitespaceCharacterCount": 28,
+        "newlineCount": 1
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/Madame Zugrava VEE.md": {
@@ -878,61 +1197,7 @@
         "newlineCount": 2
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/Kahdaj Kandera (Occultist leader) VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 4,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.013333333333333334,
-      "characterCount": 32,
-      "nonWhitespaceCharacterCount": 28,
-      "newlineCount": 1,
-      "readingTimeInMinutes": 0.01509433962264151,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005518084,
-      "modifiedDate": 1783948354893,
-      "sizeInBytes": 32,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.013333333333333334,
-        "wordCount": 4,
-        "characterCount": 32,
-        "nonWhitespaceCharacterCount": 28,
-        "newlineCount": 1
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/Head of Navigators Guild VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 29,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.09666666666666666,
-      "characterCount": 193,
-      "nonWhitespaceCharacterCount": 165,
-      "newlineCount": 1,
-      "readingTimeInMinutes": 0.10943396226415095,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005518084,
-      "modifiedDate": 1783948364060,
-      "sizeInBytes": 193,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.09666666666666666,
-        "wordCount": 29,
-        "characterCount": 193,
-        "nonWhitespaceCharacterCount": 165,
-        "newlineCount": 1
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/Justicar Guild VEE.md": {
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/Guilds VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -986,31 +1251,31 @@
         "newlineCount": 2
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/Guilds VEE.md": {
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/Coroner Sibuse VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 1,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 7,
+      "nonWhitespaceCharacterCount": 6,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0.0037735849056603774,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1783005518084,
-      "modifiedDate": 1783005518084,
-      "sizeInBytes": 0,
+      "createdDate": 1783005518069,
+      "modifiedDate": 1783948335210,
+      "sizeInBytes": 7,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "pageCount": 0.0033333333333333335,
+        "wordCount": 1,
+        "characterCount": 7,
+        "nonWhitespaceCharacterCount": 6,
+        "newlineCount": 2
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/Cogitator Janus Mechanists VEE.md": {
@@ -1038,33 +1303,6 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/Coroner Sibuse VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.0033333333333333335,
-      "characterCount": 7,
-      "nonWhitespaceCharacterCount": 6,
-      "newlineCount": 2,
-      "readingTimeInMinutes": 0.0037735849056603774,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005518069,
-      "modifiedDate": 1783948335210,
-      "sizeInBytes": 7,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.0033333333333333335,
-        "wordCount": 1,
-        "characterCount": 7,
-        "nonWhitespaceCharacterCount": 6,
-        "newlineCount": 2
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/Captain Alabasta VEE.md": {
@@ -1121,31 +1359,31 @@
         "newlineCount": 4
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/Aldwych Academy VEE.md": {
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/Andrea Tharanis (Mechanists) VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 36,
+      "wordCount": 1,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.12,
-      "characterCount": 242,
-      "nonWhitespaceCharacterCount": 201,
-      "newlineCount": 6,
-      "readingTimeInMinutes": 0.13584905660377358,
-      "linkCount": 6,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 7,
+      "nonWhitespaceCharacterCount": 6,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0.0037735849056603774,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783005518069,
-      "modifiedDate": 1783948366790,
-      "sizeInBytes": 242,
+      "modifiedDate": 1783948326487,
+      "sizeInBytes": 7,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.12,
-        "wordCount": 36,
-        "characterCount": 242,
-        "nonWhitespaceCharacterCount": 201,
-        "newlineCount": 6
+        "pageCount": 0.0033333333333333335,
+        "wordCount": 1,
+        "characterCount": 7,
+        "nonWhitespaceCharacterCount": 6,
+        "newlineCount": 2
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/Agnes (Librarian) VEE.md": {
@@ -1175,6 +1413,33 @@
         "newlineCount": 4
       }
     },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/Aldwych Academy VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 36,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.12,
+      "characterCount": 242,
+      "nonWhitespaceCharacterCount": 201,
+      "newlineCount": 6,
+      "readingTimeInMinutes": 0.13584905660377358,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005518069,
+      "modifiedDate": 1783948366790,
+      "sizeInBytes": 242,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.12,
+        "wordCount": 36,
+        "characterCount": 242,
+        "nonWhitespaceCharacterCount": 201,
+        "newlineCount": 6
+      }
+    },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/AEGIS VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1200,6 +1465,33 @@
         "characterCount": 212,
         "nonWhitespaceCharacterCount": 183,
         "newlineCount": 6
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Volis VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 9,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03,
+      "characterCount": 64,
+      "nonWhitespaceCharacterCount": 54,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0.033962264150943396,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005518053,
+      "modifiedDate": 1783948311876,
+      "sizeInBytes": 64,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.03,
+        "wordCount": 9,
+        "characterCount": 64,
+        "nonWhitespaceCharacterCount": 54,
+        "newlineCount": 2
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Whitecliff VEE.md": {
@@ -1256,60 +1548,6 @@
         "newlineCount": 6
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Volis VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 9,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.03,
-      "characterCount": 64,
-      "nonWhitespaceCharacterCount": 54,
-      "newlineCount": 2,
-      "readingTimeInMinutes": 0.033962264150943396,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005518053,
-      "modifiedDate": 1783948311876,
-      "sizeInBytes": 64,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.03,
-        "wordCount": 9,
-        "characterCount": 64,
-        "nonWhitespaceCharacterCount": 54,
-        "newlineCount": 2
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Vendrik VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.006666666666666667,
-      "characterCount": 17,
-      "nonWhitespaceCharacterCount": 15,
-      "newlineCount": 1,
-      "readingTimeInMinutes": 0.007547169811320755,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005518053,
-      "modifiedDate": 1783005518053,
-      "sizeInBytes": 17,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.006666666666666667,
-        "wordCount": 2,
-        "characterCount": 17,
-        "nonWhitespaceCharacterCount": 15,
-        "newlineCount": 1
-      }
-    },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Velstadt VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1335,60 +1573,6 @@
         "characterCount": 144,
         "nonWhitespaceCharacterCount": 121,
         "newlineCount": 6
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Tybar Syndicate VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 12,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.04,
-      "characterCount": 94,
-      "nonWhitespaceCharacterCount": 81,
-      "newlineCount": 2,
-      "readingTimeInMinutes": 0.045283018867924525,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005518038,
-      "modifiedDate": 1783948299981,
-      "sizeInBytes": 94,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.04,
-        "wordCount": 12,
-        "characterCount": 94,
-        "nonWhitespaceCharacterCount": 81,
-        "newlineCount": 2
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Velisara (God) VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.006666666666666667,
-      "characterCount": 13,
-      "nonWhitespaceCharacterCount": 11,
-      "newlineCount": 1,
-      "readingTimeInMinutes": 0.007547169811320755,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005518053,
-      "modifiedDate": 1783005518053,
-      "sizeInBytes": 13,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.006666666666666667,
-        "wordCount": 2,
-        "characterCount": 13,
-        "nonWhitespaceCharacterCount": 11,
-        "newlineCount": 1
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Valentian Crusade VEE.md": {
@@ -1442,6 +1626,87 @@
         "wordCount": 5,
         "characterCount": 43,
         "nonWhitespaceCharacterCount": 37,
+        "newlineCount": 2
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Vendrik VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 17,
+      "nonWhitespaceCharacterCount": 15,
+      "newlineCount": 1,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005518053,
+      "modifiedDate": 1783005518053,
+      "sizeInBytes": 17,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.006666666666666667,
+        "wordCount": 2,
+        "characterCount": 17,
+        "nonWhitespaceCharacterCount": 15,
+        "newlineCount": 1
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Velisara (God) VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 13,
+      "nonWhitespaceCharacterCount": 11,
+      "newlineCount": 1,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005518053,
+      "modifiedDate": 1783005518053,
+      "sizeInBytes": 13,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.006666666666666667,
+        "wordCount": 2,
+        "characterCount": 13,
+        "nonWhitespaceCharacterCount": 11,
+        "newlineCount": 1
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Tybar Syndicate VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 12,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.04,
+      "characterCount": 94,
+      "nonWhitespaceCharacterCount": 81,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0.045283018867924525,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005518038,
+      "modifiedDate": 1783948299981,
+      "sizeInBytes": 94,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.04,
+        "wordCount": 12,
+        "characterCount": 94,
+        "nonWhitespaceCharacterCount": 81,
         "newlineCount": 2
       }
     },
@@ -1526,33 +1791,6 @@
         "newlineCount": 7
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/The infection VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 26,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.08666666666666667,
-      "characterCount": 165,
-      "nonWhitespaceCharacterCount": 138,
-      "newlineCount": 3,
-      "readingTimeInMinutes": 0.09811320754716982,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005518038,
-      "modifiedDate": 1783948290395,
-      "sizeInBytes": 165,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.08666666666666667,
-        "wordCount": 26,
-        "characterCount": 165,
-        "nonWhitespaceCharacterCount": 138,
-        "newlineCount": 3
-      }
-    },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/The Gothic Cathedral VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1578,6 +1816,33 @@
         "characterCount": 95,
         "nonWhitespaceCharacterCount": 80,
         "newlineCount": 2
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/The infection VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 26,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08666666666666667,
+      "characterCount": 165,
+      "nonWhitespaceCharacterCount": 138,
+      "newlineCount": 3,
+      "readingTimeInMinutes": 0.09811320754716982,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005518038,
+      "modifiedDate": 1783948290395,
+      "sizeInBytes": 165,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.08666666666666667,
+        "wordCount": 26,
+        "characterCount": 165,
+        "nonWhitespaceCharacterCount": 138,
+        "newlineCount": 3
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/The Exile VEE.md": {
@@ -1661,6 +1926,33 @@
         "newlineCount": 3
       }
     },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/The Apartment VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 25,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 176,
+      "nonWhitespaceCharacterCount": 149,
+      "newlineCount": 3,
+      "readingTimeInMinutes": 0.09433962264150944,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005518028,
+      "modifiedDate": 1783948276537,
+      "sizeInBytes": 176,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.08333333333333333,
+        "wordCount": 25,
+        "characterCount": 176,
+        "nonWhitespaceCharacterCount": 149,
+        "newlineCount": 3
+      }
+    },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/The Boundary VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1686,33 +1978,6 @@
         "characterCount": 44,
         "nonWhitespaceCharacterCount": 38,
         "newlineCount": 1
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Tavern VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 32,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.10666666666666667,
-      "characterCount": 206,
-      "nonWhitespaceCharacterCount": 170,
-      "newlineCount": 6,
-      "readingTimeInMinutes": 0.12075471698113208,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005518026,
-      "modifiedDate": 1783948274331,
-      "sizeInBytes": 206,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.10666666666666667,
-        "wordCount": 32,
-        "characterCount": 206,
-        "nonWhitespaceCharacterCount": 170,
-        "newlineCount": 6
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/The Archives VEE.md": {
@@ -1742,31 +2007,31 @@
         "newlineCount": 2
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/The Apartment VEE.md": {
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Tavern VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 25,
+      "wordCount": 32,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.08333333333333333,
-      "characterCount": 176,
-      "nonWhitespaceCharacterCount": 149,
-      "newlineCount": 3,
-      "readingTimeInMinutes": 0.09433962264150944,
-      "linkCount": 4,
+      "pageCount": 0.10666666666666667,
+      "characterCount": 206,
+      "nonWhitespaceCharacterCount": 170,
+      "newlineCount": 6,
+      "readingTimeInMinutes": 0.12075471698113208,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1783005518028,
-      "modifiedDate": 1783948276537,
-      "sizeInBytes": 176,
+      "createdDate": 1783005518026,
+      "modifiedDate": 1783948274331,
+      "sizeInBytes": 206,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.08333333333333333,
-        "wordCount": 25,
-        "characterCount": 176,
-        "nonWhitespaceCharacterCount": 149,
-        "newlineCount": 3
+        "pageCount": 0.10666666666666667,
+        "wordCount": 32,
+        "characterCount": 206,
+        "nonWhitespaceCharacterCount": 170,
+        "newlineCount": 6
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Tallis VEE.md": {
@@ -1850,31 +2115,31 @@
         "newlineCount": 3
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Statue (Astral Corridor) VEE.md": {
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Surge VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 7,
+      "wordCount": 39,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.023333333333333334,
-      "characterCount": 44,
-      "nonWhitespaceCharacterCount": 35,
-      "newlineCount": 3,
-      "readingTimeInMinutes": 0.026415094339622643,
-      "linkCount": 0,
+      "pageCount": 0.13,
+      "characterCount": 273,
+      "nonWhitespaceCharacterCount": 230,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.1471698113207547,
+      "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1783005518006,
-      "modifiedDate": 1783948264061,
-      "sizeInBytes": 44,
+      "createdDate": 1783005518018,
+      "modifiedDate": 1783948299871,
+      "sizeInBytes": 273,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.023333333333333334,
-        "wordCount": 7,
-        "characterCount": 44,
-        "nonWhitespaceCharacterCount": 35,
-        "newlineCount": 3
+        "pageCount": 0.13,
+        "wordCount": 39,
+        "characterCount": 273,
+        "nonWhitespaceCharacterCount": 230,
+        "newlineCount": 5
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Sulia (dead) VEE.md": {
@@ -1904,31 +2169,31 @@
         "newlineCount": 2
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Surge VEE.md": {
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Sierra VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 39,
+      "wordCount": 13,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.13,
-      "characterCount": 273,
-      "nonWhitespaceCharacterCount": 230,
-      "newlineCount": 5,
-      "readingTimeInMinutes": 0.1471698113207547,
+      "pageCount": 0.043333333333333335,
+      "characterCount": 99,
+      "nonWhitespaceCharacterCount": 85,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0.04905660377358491,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1783005518018,
-      "modifiedDate": 1783948299871,
-      "sizeInBytes": 273,
+      "createdDate": 1783005518006,
+      "modifiedDate": 1783948261996,
+      "sizeInBytes": 99,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.13,
-        "wordCount": 39,
-        "characterCount": 273,
-        "nonWhitespaceCharacterCount": 230,
-        "newlineCount": 5
+        "pageCount": 0.043333333333333335,
+        "wordCount": 13,
+        "characterCount": 99,
+        "nonWhitespaceCharacterCount": 85,
+        "newlineCount": 2
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Severance VEE.md": {
@@ -1958,34 +2223,7 @@
         "newlineCount": 1
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Sierra VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 13,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.043333333333333335,
-      "characterCount": 99,
-      "nonWhitespaceCharacterCount": 85,
-      "newlineCount": 2,
-      "readingTimeInMinutes": 0.04905660377358491,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005518006,
-      "modifiedDate": 1783948261996,
-      "sizeInBytes": 99,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.043333333333333335,
-        "wordCount": 13,
-        "characterCount": 99,
-        "nonWhitespaceCharacterCount": 85,
-        "newlineCount": 2
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Serran VEE.md": {
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Statue (Astral Corridor) VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -1993,23 +2231,50 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.023333333333333334,
-      "characterCount": 46,
-      "nonWhitespaceCharacterCount": 39,
-      "newlineCount": 1,
+      "characterCount": 44,
+      "nonWhitespaceCharacterCount": 35,
+      "newlineCount": 3,
       "readingTimeInMinutes": 0.026415094339622643,
-      "linkCount": 2,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783005518006,
-      "modifiedDate": 1783947993799,
-      "sizeInBytes": 46,
+      "modifiedDate": 1783948264061,
+      "sizeInBytes": 44,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.023333333333333334,
         "wordCount": 7,
-        "characterCount": 46,
-        "nonWhitespaceCharacterCount": 39,
-        "newlineCount": 1
+        "characterCount": 44,
+        "nonWhitespaceCharacterCount": 35,
+        "newlineCount": 3
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Saint Moira VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 22,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 161,
+      "nonWhitespaceCharacterCount": 136,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.0830188679245283,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005518001,
+      "modifiedDate": 1783948245705,
+      "sizeInBytes": 161,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.07333333333333333,
+        "wordCount": 22,
+        "characterCount": 161,
+        "nonWhitespaceCharacterCount": 136,
+        "newlineCount": 4
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Scribe Novitate Astra VEE.md": {
@@ -2066,31 +2331,31 @@
         "newlineCount": 2
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Saint Moira VEE.md": {
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Serran VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 22,
+      "wordCount": 7,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.07333333333333333,
-      "characterCount": 161,
-      "nonWhitespaceCharacterCount": 136,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0.0830188679245283,
-      "linkCount": 5,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 46,
+      "nonWhitespaceCharacterCount": 39,
+      "newlineCount": 1,
+      "readingTimeInMinutes": 0.026415094339622643,
+      "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1783005518001,
-      "modifiedDate": 1783948245705,
-      "sizeInBytes": 161,
+      "createdDate": 1783005518006,
+      "modifiedDate": 1783947993799,
+      "sizeInBytes": 46,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.07333333333333333,
-        "wordCount": 22,
-        "characterCount": 161,
-        "nonWhitespaceCharacterCount": 136,
-        "newlineCount": 4
+        "pageCount": 0.023333333333333334,
+        "wordCount": 7,
+        "characterCount": 46,
+        "nonWhitespaceCharacterCount": 39,
+        "newlineCount": 1
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Rosaria VEE.md": {
@@ -2174,33 +2439,6 @@
         "newlineCount": 1
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Reality Engines VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 18,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.06,
-      "characterCount": 145,
-      "nonWhitespaceCharacterCount": 124,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0.06792452830188679,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517990,
-      "modifiedDate": 1783948308385,
-      "sizeInBytes": 145,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.06,
-        "wordCount": 18,
-        "characterCount": 145,
-        "nonWhitespaceCharacterCount": 124,
-        "newlineCount": 4
-      }
-    },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Red Isles VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2226,6 +2464,33 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Reality Engines VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 18,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06,
+      "characterCount": 145,
+      "nonWhitespaceCharacterCount": 124,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.06792452830188679,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517990,
+      "modifiedDate": 1783948308385,
+      "sizeInBytes": 145,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.06,
+        "wordCount": 18,
+        "characterCount": 145,
+        "nonWhitespaceCharacterCount": 124,
+        "newlineCount": 4
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/README VEE.md": {
@@ -2255,31 +2520,58 @@
         "newlineCount": 3
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Professor Iksander VEE.md": {
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Pentinent Cradle VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 3,
+      "wordCount": 41,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.01,
-      "characterCount": 25,
-      "nonWhitespaceCharacterCount": 22,
-      "newlineCount": 1,
-      "readingTimeInMinutes": 0.011320754716981131,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 292,
+      "nonWhitespaceCharacterCount": 247,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.15471698113207547,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517974,
+      "modifiedDate": 1783948320304,
+      "sizeInBytes": 292,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.13666666666666666,
+        "wordCount": 41,
+        "characterCount": 292,
+        "nonWhitespaceCharacterCount": 247,
+        "newlineCount": 4
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Paracelsus (Mechanist Guild) VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 44,
+      "nonWhitespaceCharacterCount": 38,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0.018867924528301886,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1783005517985,
-      "modifiedDate": 1783948354822,
-      "sizeInBytes": 25,
+      "createdDate": 1783005517974,
+      "modifiedDate": 1783948351454,
+      "sizeInBytes": 44,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.01,
-        "wordCount": 3,
-        "characterCount": 25,
-        "nonWhitespaceCharacterCount": 22,
-        "newlineCount": 1
+        "pageCount": 0.016666666666666666,
+        "wordCount": 5,
+        "characterCount": 44,
+        "nonWhitespaceCharacterCount": 38,
+        "newlineCount": 2
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Quintus VEE.md": {
@@ -2309,31 +2601,31 @@
         "newlineCount": 6
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Pentinent Cradle VEE.md": {
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Professor Iksander VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 41,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.13666666666666666,
-      "characterCount": 292,
-      "nonWhitespaceCharacterCount": 247,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0.15471698113207547,
-      "linkCount": 6,
+      "pageCount": 0.01,
+      "characterCount": 25,
+      "nonWhitespaceCharacterCount": 22,
+      "newlineCount": 1,
+      "readingTimeInMinutes": 0.011320754716981131,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1783005517974,
-      "modifiedDate": 1783948320304,
-      "sizeInBytes": 292,
+      "createdDate": 1783005517985,
+      "modifiedDate": 1783948354822,
+      "sizeInBytes": 25,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.13666666666666666,
-        "wordCount": 41,
-        "characterCount": 292,
-        "nonWhitespaceCharacterCount": 247,
-        "newlineCount": 4
+        "pageCount": 0.01,
+        "wordCount": 3,
+        "characterCount": 25,
+        "nonWhitespaceCharacterCount": 22,
+        "newlineCount": 1
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Pendanant Cradle VEE.md": {
@@ -2363,31 +2655,58 @@
         "newlineCount": 0
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Paracelsus (Mechanist Guild) VEE.md": {
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Paladin of Morwyn VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 5,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 44,
-      "nonWhitespaceCharacterCount": 38,
-      "newlineCount": 2,
-      "readingTimeInMinutes": 0.018867924528301886,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517972,
+      "modifiedDate": 1783005517972,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Numerian machinery VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 18,
+      "nonWhitespaceCharacterCount": 16,
+      "newlineCount": 1,
+      "readingTimeInMinutes": 0.007547169811320755,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1783005517974,
-      "modifiedDate": 1783948351454,
-      "sizeInBytes": 44,
+      "createdDate": 1783005517965,
+      "modifiedDate": 1783948308364,
+      "sizeInBytes": 18,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.016666666666666666,
-        "wordCount": 5,
-        "characterCount": 44,
-        "nonWhitespaceCharacterCount": 38,
-        "newlineCount": 2
+        "pageCount": 0.006666666666666667,
+        "wordCount": 2,
+        "characterCount": 18,
+        "nonWhitespaceCharacterCount": 16,
+        "newlineCount": 1
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Pale Woods VEE.md": {
@@ -2471,33 +2790,6 @@
         "newlineCount": 0
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Paladin of Morwyn VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517972,
-      "modifiedDate": 1783005517972,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Outer God of Blood VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2525,31 +2817,31 @@
         "newlineCount": 5
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Numerian machinery VEE.md": {
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Murals VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 2,
+      "wordCount": 25,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.006666666666666667,
-      "characterCount": 18,
-      "nonWhitespaceCharacterCount": 16,
-      "newlineCount": 1,
-      "readingTimeInMinutes": 0.007547169811320755,
-      "linkCount": 1,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 160,
+      "nonWhitespaceCharacterCount": 132,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.09433962264150944,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1783005517965,
-      "modifiedDate": 1783948308364,
-      "sizeInBytes": 18,
+      "createdDate": 1783005517959,
+      "modifiedDate": 1783948366726,
+      "sizeInBytes": 160,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.006666666666666667,
-        "wordCount": 2,
-        "characterCount": 18,
-        "nonWhitespaceCharacterCount": 16,
-        "newlineCount": 1
+        "pageCount": 0.08333333333333333,
+        "wordCount": 25,
+        "characterCount": 160,
+        "nonWhitespaceCharacterCount": 132,
+        "newlineCount": 4
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Myria (Peninsula) VEE.md": {
@@ -2577,33 +2869,6 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Murals VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 25,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.08333333333333333,
-      "characterCount": 160,
-      "nonWhitespaceCharacterCount": 132,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0.09433962264150944,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517959,
-      "modifiedDate": 1783948366726,
-      "sizeInBytes": 160,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.08333333333333333,
-        "wordCount": 25,
-        "characterCount": 160,
-        "nonWhitespaceCharacterCount": 132,
-        "newlineCount": 4
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Morwyn (god) VEE.md": {
@@ -2660,6 +2925,33 @@
         "newlineCount": 4
       }
     },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/MIDNIGHT Event VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517936,
+      "modifiedDate": 1783005517936,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Misasma VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2714,33 +3006,6 @@
         "newlineCount": 6
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/MIDNIGHT Event VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517936,
-      "modifiedDate": 1783005517936,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Meteorite VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2768,87 +3033,6 @@
         "newlineCount": 5
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Mattias VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 10,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.03333333333333333,
-      "characterCount": 87,
-      "nonWhitespaceCharacterCount": 75,
-      "newlineCount": 3,
-      "readingTimeInMinutes": 0.03773584905660377,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517943,
-      "modifiedDate": 1783948184269,
-      "sizeInBytes": 87,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.03333333333333333,
-        "wordCount": 10,
-        "characterCount": 87,
-        "nonWhitespaceCharacterCount": 75,
-        "newlineCount": 3
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Mary-Beth VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 17,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.056666666666666664,
-      "characterCount": 127,
-      "nonWhitespaceCharacterCount": 107,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0.06415094339622641,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517943,
-      "modifiedDate": 1783948182427,
-      "sizeInBytes": 127,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.056666666666666664,
-        "wordCount": 17,
-        "characterCount": 127,
-        "nonWhitespaceCharacterCount": 107,
-        "newlineCount": 4
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Manus VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 7,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.023333333333333334,
-      "characterCount": 46,
-      "nonWhitespaceCharacterCount": 39,
-      "newlineCount": 1,
-      "readingTimeInMinutes": 0.026415094339622643,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517936,
-      "modifiedDate": 1783947993709,
-      "sizeInBytes": 46,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.023333333333333334,
-        "wordCount": 7,
-        "characterCount": 46,
-        "nonWhitespaceCharacterCount": 39,
-        "newlineCount": 1
-      }
-    },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Madamme Zugrava VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2874,6 +3058,33 @@
         "characterCount": 176,
         "nonWhitespaceCharacterCount": 149,
         "newlineCount": 4
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Mattias VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 10,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 87,
+      "nonWhitespaceCharacterCount": 75,
+      "newlineCount": 3,
+      "readingTimeInMinutes": 0.03773584905660377,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517943,
+      "modifiedDate": 1783948184269,
+      "sizeInBytes": 87,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.03333333333333333,
+        "wordCount": 10,
+        "characterCount": 87,
+        "nonWhitespaceCharacterCount": 75,
+        "newlineCount": 3
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Lyria VEE.md": {
@@ -2930,6 +3141,60 @@
         "newlineCount": 4
       }
     },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Mary-Beth VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 17,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 127,
+      "nonWhitespaceCharacterCount": 107,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.06415094339622641,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517943,
+      "modifiedDate": 1783948182427,
+      "sizeInBytes": 127,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.056666666666666664,
+        "wordCount": 17,
+        "characterCount": 127,
+        "nonWhitespaceCharacterCount": 107,
+        "newlineCount": 4
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Manus VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 7,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 46,
+      "nonWhitespaceCharacterCount": 39,
+      "newlineCount": 1,
+      "readingTimeInMinutes": 0.026415094339622643,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517936,
+      "modifiedDate": 1783947993709,
+      "sizeInBytes": 46,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.023333333333333334,
+        "wordCount": 7,
+        "characterCount": 46,
+        "nonWhitespaceCharacterCount": 39,
+        "newlineCount": 1
+      }
+    },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Lycia (location) VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2955,33 +3220,6 @@
         "characterCount": 33,
         "nonWhitespaceCharacterCount": 29,
         "newlineCount": 2
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Lumian Knights VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517927,
-      "modifiedDate": 1783005517927,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Lumeria (location) VEE.md": {
@@ -3038,60 +3276,6 @@
         "newlineCount": 9
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Lorn - God of Harvest VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 58,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.19333333333333333,
-      "characterCount": 367,
-      "nonWhitespaceCharacterCount": 305,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0.2188679245283019,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517922,
-      "modifiedDate": 1783948194147,
-      "sizeInBytes": 367,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.19333333333333333,
-        "wordCount": 58,
-        "characterCount": 367,
-        "nonWhitespaceCharacterCount": 305,
-        "newlineCount": 4
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Leander VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 8,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 66,
-      "nonWhitespaceCharacterCount": 56,
-      "newlineCount": 3,
-      "readingTimeInMinutes": 0.03018867924528302,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517920,
-      "modifiedDate": 1783948158578,
-      "sizeInBytes": 66,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.02666666666666667,
-        "wordCount": 8,
-        "characterCount": 66,
-        "nonWhitespaceCharacterCount": 56,
-        "newlineCount": 3
-      }
-    },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Lamprow (location) VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3119,6 +3303,60 @@
         "newlineCount": 5
       }
     },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Lumian Knights VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517927,
+      "modifiedDate": 1783005517927,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Lorn - God of Harvest VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 58,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.19333333333333333,
+      "characterCount": 367,
+      "nonWhitespaceCharacterCount": 305,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.2188679245283019,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517922,
+      "modifiedDate": 1783948194147,
+      "sizeInBytes": 367,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.19333333333333333,
+        "wordCount": 58,
+        "characterCount": 367,
+        "nonWhitespaceCharacterCount": 305,
+        "newlineCount": 4
+      }
+    },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Laboratory VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3144,6 +3382,33 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Leander VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 66,
+      "nonWhitespaceCharacterCount": 56,
+      "newlineCount": 3,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517920,
+      "modifiedDate": 1783948158578,
+      "sizeInBytes": 66,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.02666666666666667,
+        "wordCount": 8,
+        "characterCount": 66,
+        "nonWhitespaceCharacterCount": 56,
+        "newlineCount": 3
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Killdelver Lodge VEE.md": {
@@ -3200,33 +3465,6 @@
         "newlineCount": 8
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Katja VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 7,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.023333333333333334,
-      "characterCount": 42,
-      "nonWhitespaceCharacterCount": 35,
-      "newlineCount": 1,
-      "readingTimeInMinutes": 0.026415094339622643,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517901,
-      "modifiedDate": 1783948066302,
-      "sizeInBytes": 42,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.023333333333333334,
-        "wordCount": 7,
-        "characterCount": 42,
-        "nonWhitespaceCharacterCount": 35,
-        "newlineCount": 1
-      }
-    },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Kastia Tal'Shen VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3252,33 +3490,6 @@
         "characterCount": 343,
         "nonWhitespaceCharacterCount": 287,
         "newlineCount": 7
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Kasanova VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 30,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.1,
-      "characterCount": 229,
-      "nonWhitespaceCharacterCount": 194,
-      "newlineCount": 5,
-      "readingTimeInMinutes": 0.11320754716981132,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517901,
-      "modifiedDate": 1783948320287,
-      "sizeInBytes": 229,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.1,
-        "wordCount": 30,
-        "characterCount": 229,
-        "nonWhitespaceCharacterCount": 194,
-        "newlineCount": 5
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Julius Thornton VEE.md": {
@@ -3308,6 +3519,60 @@
         "newlineCount": 3
       }
     },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Katja VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 7,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 42,
+      "nonWhitespaceCharacterCount": 35,
+      "newlineCount": 1,
+      "readingTimeInMinutes": 0.026415094339622643,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517901,
+      "modifiedDate": 1783948066302,
+      "sizeInBytes": 42,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.023333333333333334,
+        "wordCount": 7,
+        "characterCount": 42,
+        "nonWhitespaceCharacterCount": 35,
+        "newlineCount": 1
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Kasanova VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 30,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.1,
+      "characterCount": 229,
+      "nonWhitespaceCharacterCount": 194,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.11320754716981132,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517901,
+      "modifiedDate": 1783948320287,
+      "sizeInBytes": 229,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.1,
+        "wordCount": 30,
+        "characterCount": 229,
+        "nonWhitespaceCharacterCount": 194,
+        "newlineCount": 5
+      }
+    },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Juliana Thorton (mayor) VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3333,33 +3598,6 @@
         "characterCount": 365,
         "nonWhitespaceCharacterCount": 302,
         "newlineCount": 6
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Institute for Paracausal Research VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.006666666666666667,
-      "characterCount": 15,
-      "nonWhitespaceCharacterCount": 13,
-      "newlineCount": 1,
-      "readingTimeInMinutes": 0.007547169811320755,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517880,
-      "modifiedDate": 1783948320273,
-      "sizeInBytes": 15,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.006666666666666667,
-        "wordCount": 2,
-        "characterCount": 15,
-        "nonWhitespaceCharacterCount": 13,
-        "newlineCount": 1
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Imara sea VEE.md": {
@@ -3389,6 +3627,33 @@
         "newlineCount": 1
       }
     },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Institute for Paracausal Research VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 15,
+      "nonWhitespaceCharacterCount": 13,
+      "newlineCount": 1,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517880,
+      "modifiedDate": 1783948320273,
+      "sizeInBytes": 15,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.006666666666666667,
+        "wordCount": 2,
+        "characterCount": 15,
+        "nonWhitespaceCharacterCount": 13,
+        "newlineCount": 1
+      }
+    },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/High Exalt Lathriel VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3414,6 +3679,33 @@
         "characterCount": 241,
         "nonWhitespaceCharacterCount": 204,
         "newlineCount": 4
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Great Chasm VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 17,
+      "nonWhitespaceCharacterCount": 14,
+      "newlineCount": 1,
+      "readingTimeInMinutes": 0.011320754716981131,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517880,
+      "modifiedDate": 1783005517880,
+      "sizeInBytes": 17,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.01,
+        "wordCount": 3,
+        "characterCount": 17,
+        "nonWhitespaceCharacterCount": 14,
+        "newlineCount": 1
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Hermeia VEE.md": {
@@ -3470,60 +3762,6 @@
         "newlineCount": 0
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Green Stuff VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.0033333333333333335,
-      "characterCount": 8,
-      "nonWhitespaceCharacterCount": 7,
-      "newlineCount": 1,
-      "readingTimeInMinutes": 0.0037735849056603774,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517880,
-      "modifiedDate": 1783005517880,
-      "sizeInBytes": 8,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.0033333333333333335,
-        "wordCount": 1,
-        "characterCount": 8,
-        "nonWhitespaceCharacterCount": 7,
-        "newlineCount": 1
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Great Chasm VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 3,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.01,
-      "characterCount": 17,
-      "nonWhitespaceCharacterCount": 14,
-      "newlineCount": 1,
-      "readingTimeInMinutes": 0.011320754716981131,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517880,
-      "modifiedDate": 1783005517880,
-      "sizeInBytes": 17,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.01,
-        "wordCount": 3,
-        "characterCount": 17,
-        "nonWhitespaceCharacterCount": 14,
-        "newlineCount": 1
-      }
-    },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Golems VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3551,31 +3789,31 @@
         "newlineCount": 0
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Godvessel VEE.md": {
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Green Stuff VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 11,
+      "wordCount": 1,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.03666666666666667,
-      "characterCount": 82,
-      "nonWhitespaceCharacterCount": 70,
-      "newlineCount": 2,
-      "readingTimeInMinutes": 0.04150943396226415,
-      "linkCount": 2,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 7,
+      "newlineCount": 1,
+      "readingTimeInMinutes": 0.0037735849056603774,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783005517880,
-      "modifiedDate": 1783948190393,
-      "sizeInBytes": 82,
+      "modifiedDate": 1783005517880,
+      "sizeInBytes": 8,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.03666666666666667,
-        "wordCount": 11,
-        "characterCount": 82,
-        "nonWhitespaceCharacterCount": 70,
-        "newlineCount": 2
+        "pageCount": 0.0033333333333333335,
+        "wordCount": 1,
+        "characterCount": 8,
+        "nonWhitespaceCharacterCount": 7,
+        "newlineCount": 1
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Godflesh VEE.md": {
@@ -3632,6 +3870,33 @@
         "newlineCount": 1
       }
     },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Godvessel VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 11,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 82,
+      "nonWhitespaceCharacterCount": 70,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0.04150943396226415,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517880,
+      "modifiedDate": 1783948190393,
+      "sizeInBytes": 82,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.03666666666666667,
+        "wordCount": 11,
+        "characterCount": 82,
+        "nonWhitespaceCharacterCount": 70,
+        "newlineCount": 2
+      }
+    },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Framed Photo VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3657,33 +3922,6 @@
         "characterCount": 92,
         "nonWhitespaceCharacterCount": 79,
         "newlineCount": 2
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Fox Masked people VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 4,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.013333333333333334,
-      "characterCount": 28,
-      "nonWhitespaceCharacterCount": 24,
-      "newlineCount": 1,
-      "readingTimeInMinutes": 0.01509433962264151,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517871,
-      "modifiedDate": 1783005517871,
-      "sizeInBytes": 28,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.013333333333333334,
-        "wordCount": 4,
-        "characterCount": 28,
-        "nonWhitespaceCharacterCount": 24,
-        "newlineCount": 1
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Four rules of magic VEE.md": {
@@ -3740,6 +3978,33 @@
         "newlineCount": 0
       }
     },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Fox Masked people VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 28,
+      "nonWhitespaceCharacterCount": 24,
+      "newlineCount": 1,
+      "readingTimeInMinutes": 0.01509433962264151,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517871,
+      "modifiedDate": 1783005517871,
+      "sizeInBytes": 28,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.013333333333333334,
+        "wordCount": 4,
+        "characterCount": 28,
+        "nonWhitespaceCharacterCount": 24,
+        "newlineCount": 1
+      }
+    },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/First Shield Nyssa VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3794,33 +4059,6 @@
         "newlineCount": 3
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Eyeblights VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 5,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 46,
-      "nonWhitespaceCharacterCount": 39,
-      "newlineCount": 3,
-      "readingTimeInMinutes": 0.018867924528301886,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517848,
-      "modifiedDate": 1783948099741,
-      "sizeInBytes": 46,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.016666666666666666,
-        "wordCount": 5,
-        "characterCount": 46,
-        "nonWhitespaceCharacterCount": 39,
-        "newlineCount": 3
-      }
-    },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Ex Libris Deiru VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3846,6 +4084,33 @@
         "characterCount": 110,
         "nonWhitespaceCharacterCount": 89,
         "newlineCount": 4
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Eyeblights VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 46,
+      "nonWhitespaceCharacterCount": 39,
+      "newlineCount": 3,
+      "readingTimeInMinutes": 0.018867924528301886,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517848,
+      "modifiedDate": 1783948099741,
+      "sizeInBytes": 46,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.016666666666666666,
+        "wordCount": 5,
+        "characterCount": 46,
+        "nonWhitespaceCharacterCount": 39,
+        "newlineCount": 3
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Erisia (location) VEE.md": {
@@ -3929,6 +4194,33 @@
         "newlineCount": 1
       }
     },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Dr. Soraya VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 15,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.05,
+      "characterCount": 98,
+      "nonWhitespaceCharacterCount": 82,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0.05660377358490566,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517833,
+      "modifiedDate": 1783948320241,
+      "sizeInBytes": 98,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.05,
+        "wordCount": 15,
+        "characterCount": 98,
+        "nonWhitespaceCharacterCount": 82,
+        "newlineCount": 2
+      }
+    },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Elisa VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4010,31 +4302,31 @@
         "newlineCount": 2
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Dr. Soraya VEE.md": {
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Cult of the Formless Mind VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 15,
+      "wordCount": 25,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.05,
-      "characterCount": 98,
-      "nonWhitespaceCharacterCount": 82,
-      "newlineCount": 2,
-      "readingTimeInMinutes": 0.05660377358490566,
-      "linkCount": 4,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 188,
+      "nonWhitespaceCharacterCount": 159,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.09433962264150944,
+      "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783005517833,
-      "modifiedDate": 1783948320241,
-      "sizeInBytes": 98,
+      "modifiedDate": 1783948402909,
+      "sizeInBytes": 188,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.05,
-        "wordCount": 15,
-        "characterCount": 98,
-        "nonWhitespaceCharacterCount": 82,
-        "newlineCount": 2
+        "pageCount": 0.08333333333333333,
+        "wordCount": 25,
+        "characterCount": 188,
+        "nonWhitespaceCharacterCount": 159,
+        "newlineCount": 5
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Dr. Minerva VEE.md": {
@@ -4091,31 +4383,58 @@
         "newlineCount": 1
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Cult of the Formless Mind VEE.md": {
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Cognizant VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 25,
+      "wordCount": 4,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.08333333333333333,
-      "characterCount": 188,
-      "nonWhitespaceCharacterCount": 159,
-      "newlineCount": 5,
-      "readingTimeInMinutes": 0.09433962264150944,
-      "linkCount": 5,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 33,
+      "nonWhitespaceCharacterCount": 29,
+      "newlineCount": 1,
+      "readingTimeInMinutes": 0.01509433962264151,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783005517833,
-      "modifiedDate": 1783948402909,
-      "sizeInBytes": 188,
+      "modifiedDate": 1783005517833,
+      "sizeInBytes": 33,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.08333333333333333,
-        "wordCount": 25,
-        "characterCount": 188,
-        "nonWhitespaceCharacterCount": 159,
-        "newlineCount": 5
+        "pageCount": 0.013333333333333334,
+        "wordCount": 4,
+        "characterCount": 33,
+        "nonWhitespaceCharacterCount": 29,
+        "newlineCount": 1
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Circle of the Fundament VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 14,
+      "nonWhitespaceCharacterCount": 12,
+      "newlineCount": 1,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517833,
+      "modifiedDate": 1783005517833,
+      "sizeInBytes": 14,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.006666666666666667,
+        "wordCount": 2,
+        "characterCount": 14,
+        "nonWhitespaceCharacterCount": 12,
+        "newlineCount": 1
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Crystaline Matrix VEE.md": {
@@ -4172,58 +4491,31 @@
         "newlineCount": 1
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Circle of the Fundament VEE.md": {
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Cassandra (Justicar Leader) VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 2,
+      "wordCount": 14,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.006666666666666667,
-      "characterCount": 14,
-      "nonWhitespaceCharacterCount": 12,
-      "newlineCount": 1,
-      "readingTimeInMinutes": 0.007547169811320755,
-      "linkCount": 0,
+      "pageCount": 0.04666666666666667,
+      "characterCount": 86,
+      "nonWhitespaceCharacterCount": 70,
+      "newlineCount": 3,
+      "readingTimeInMinutes": 0.052830188679245285,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1783005517833,
-      "modifiedDate": 1783005517833,
-      "sizeInBytes": 14,
+      "createdDate": 1783005517817,
+      "modifiedDate": 1783948343469,
+      "sizeInBytes": 86,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.006666666666666667,
-        "wordCount": 2,
-        "characterCount": 14,
-        "nonWhitespaceCharacterCount": 12,
-        "newlineCount": 1
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Cognizant VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 4,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.013333333333333334,
-      "characterCount": 33,
-      "nonWhitespaceCharacterCount": 29,
-      "newlineCount": 1,
-      "readingTimeInMinutes": 0.01509433962264151,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517833,
-      "modifiedDate": 1783005517833,
-      "sizeInBytes": 33,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.013333333333333334,
-        "wordCount": 4,
-        "characterCount": 33,
-        "nonWhitespaceCharacterCount": 29,
-        "newlineCount": 1
+        "pageCount": 0.04666666666666667,
+        "wordCount": 14,
+        "characterCount": 86,
+        "nonWhitespaceCharacterCount": 70,
+        "newlineCount": 3
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Century Nine Lander VEE.md": {
@@ -4280,7 +4572,7 @@
         "newlineCount": 2
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Cassandra (Justicar Leader) VEE.md": {
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Bloodkin Hive VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -4288,23 +4580,23 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.04666666666666667,
-      "characterCount": 86,
-      "nonWhitespaceCharacterCount": 70,
-      "newlineCount": 3,
+      "characterCount": 103,
+      "nonWhitespaceCharacterCount": 86,
+      "newlineCount": 4,
       "readingTimeInMinutes": 0.052830188679245285,
-      "linkCount": 1,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783005517817,
-      "modifiedDate": 1783948343469,
-      "sizeInBytes": 86,
+      "modifiedDate": 1783948308310,
+      "sizeInBytes": 103,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.04666666666666667,
         "wordCount": 14,
-        "characterCount": 86,
-        "nonWhitespaceCharacterCount": 70,
-        "newlineCount": 3
+        "characterCount": 103,
+        "nonWhitespaceCharacterCount": 86,
+        "newlineCount": 4
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Borok VEE.md": {
@@ -4388,60 +4680,6 @@
         "newlineCount": 20
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Bloodkin Hive VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 14,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.04666666666666667,
-      "characterCount": 103,
-      "nonWhitespaceCharacterCount": 86,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0.052830188679245285,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517817,
-      "modifiedDate": 1783948308310,
-      "sizeInBytes": 103,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.04666666666666667,
-        "wordCount": 14,
-        "characterCount": 103,
-        "nonWhitespaceCharacterCount": 86,
-        "newlineCount": 4
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Black Door VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 19,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.06333333333333334,
-      "characterCount": 140,
-      "nonWhitespaceCharacterCount": 118,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0.07169811320754717,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517801,
-      "modifiedDate": 1783948003286,
-      "sizeInBytes": 140,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.06333333333333334,
-        "wordCount": 19,
-        "characterCount": 140,
-        "nonWhitespaceCharacterCount": 118,
-        "newlineCount": 4
-      }
-    },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Blake (Geneticist) VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4523,6 +4761,33 @@
         "newlineCount": 0
       }
     },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Black Door VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 19,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06333333333333334,
+      "characterCount": 140,
+      "nonWhitespaceCharacterCount": 118,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.07169811320754717,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517801,
+      "modifiedDate": 1783948003286,
+      "sizeInBytes": 140,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.06333333333333334,
+        "wordCount": 19,
+        "characterCount": 140,
+        "nonWhitespaceCharacterCount": 118,
+        "newlineCount": 4
+      }
+    },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Black Church VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4548,33 +4813,6 @@
         "characterCount": 355,
         "nonWhitespaceCharacterCount": 297,
         "newlineCount": 7
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Aurora VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 40,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.13333333333333333,
-      "characterCount": 298,
-      "nonWhitespaceCharacterCount": 251,
-      "newlineCount": 6,
-      "readingTimeInMinutes": 0.1509433962264151,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517801,
-      "modifiedDate": 1783948175881,
-      "sizeInBytes": 298,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.13333333333333333,
-        "wordCount": 40,
-        "characterCount": 298,
-        "nonWhitespaceCharacterCount": 251,
-        "newlineCount": 6
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Big Jac VEE.md": {
@@ -4604,33 +4842,6 @@
         "newlineCount": 3
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Antimatter Lance VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 37,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.12333333333333334,
-      "characterCount": 245,
-      "nonWhitespaceCharacterCount": 204,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0.13962264150943396,
-      "linkCount": 6,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517785,
-      "modifiedDate": 1783948366619,
-      "sizeInBytes": 245,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.12333333333333334,
-        "wordCount": 37,
-        "characterCount": 245,
-        "nonWhitespaceCharacterCount": 204,
-        "newlineCount": 4
-      }
-    },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Asdel (The Exile) VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4658,58 +4869,58 @@
         "newlineCount": 9
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Archdragon Medea VEE.md": {
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Aurora VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 27,
+      "wordCount": 40,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.09,
-      "characterCount": 206,
-      "nonWhitespaceCharacterCount": 175,
-      "newlineCount": 5,
-      "readingTimeInMinutes": 0.1018867924528302,
-      "linkCount": 4,
+      "pageCount": 0.13333333333333333,
+      "characterCount": 298,
+      "nonWhitespaceCharacterCount": 251,
+      "newlineCount": 6,
+      "readingTimeInMinutes": 0.1509433962264151,
+      "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783005517801,
-      "modifiedDate": 1783948308286,
-      "sizeInBytes": 206,
+      "modifiedDate": 1783948175881,
+      "sizeInBytes": 298,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.09,
-        "wordCount": 27,
-        "characterCount": 206,
-        "nonWhitespaceCharacterCount": 175,
-        "newlineCount": 5
+        "pageCount": 0.13333333333333333,
+        "wordCount": 40,
+        "characterCount": 298,
+        "nonWhitespaceCharacterCount": 251,
+        "newlineCount": 6
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Arcanotech VEE.md": {
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Antimatter Lance VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 6,
+      "wordCount": 37,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.02,
-      "characterCount": 62,
-      "nonWhitespaceCharacterCount": 54,
-      "newlineCount": 3,
-      "readingTimeInMinutes": 0.022641509433962263,
-      "linkCount": 1,
+      "pageCount": 0.12333333333333334,
+      "characterCount": 245,
+      "nonWhitespaceCharacterCount": 204,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.13962264150943396,
+      "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1783005517801,
-      "modifiedDate": 1783947988490,
-      "sizeInBytes": 62,
+      "createdDate": 1783005517785,
+      "modifiedDate": 1783948366619,
+      "sizeInBytes": 245,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.02,
-        "wordCount": 6,
-        "characterCount": 62,
-        "nonWhitespaceCharacterCount": 54,
-        "newlineCount": 3
+        "pageCount": 0.12333333333333334,
+        "wordCount": 37,
+        "characterCount": 245,
+        "nonWhitespaceCharacterCount": 204,
+        "newlineCount": 4
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Almire Academy VEE.md": {
@@ -4739,6 +4950,33 @@
         "newlineCount": 3
       }
     },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Archdragon Medea VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 27,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09,
+      "characterCount": 206,
+      "nonWhitespaceCharacterCount": 175,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.1018867924528302,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517801,
+      "modifiedDate": 1783948308286,
+      "sizeInBytes": 206,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.09,
+        "wordCount": 27,
+        "characterCount": 206,
+        "nonWhitespaceCharacterCount": 175,
+        "newlineCount": 5
+      }
+    },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Alexander Carvelle VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4764,6 +5002,33 @@
         "characterCount": 28,
         "nonWhitespaceCharacterCount": 23,
         "newlineCount": 1
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Arcanotech VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 62,
+      "nonWhitespaceCharacterCount": 54,
+      "newlineCount": 3,
+      "readingTimeInMinutes": 0.022641509433962263,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517801,
+      "modifiedDate": 1783947988490,
+      "sizeInBytes": 62,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.02,
+        "wordCount": 6,
+        "characterCount": 62,
+        "nonWhitespaceCharacterCount": 54,
+        "newlineCount": 3
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Aldwich Academy VEE.md": {
@@ -4845,6 +5110,33 @@
         "characterCount": 83,
         "nonWhitespaceCharacterCount": 72,
         "newlineCount": 3
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/32nd recon division VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 25,
+      "nonWhitespaceCharacterCount": 22,
+      "newlineCount": 1,
+      "readingTimeInMinutes": 0.011320754716981131,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517769,
+      "modifiedDate": 1783948351345,
+      "sizeInBytes": 25,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.01,
+        "wordCount": 3,
+        "characterCount": 25,
+        "nonWhitespaceCharacterCount": 22,
+        "newlineCount": 1
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Agent 776 VEE.md": {
@@ -4955,33 +5247,6 @@
         "newlineCount": 7
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/32nd recon division VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 3,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.01,
-      "characterCount": 25,
-      "nonWhitespaceCharacterCount": 22,
-      "newlineCount": 1,
-      "readingTimeInMinutes": 0.011320754716981131,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517769,
-      "modifiedDate": 1783948351345,
-      "sizeInBytes": 25,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.01,
-        "wordCount": 3,
-        "characterCount": 25,
-        "nonWhitespaceCharacterCount": 22,
-        "newlineCount": 1
-      }
-    },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/(Project) Ember VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5007,6 +5272,33 @@
         "characterCount": 897,
         "nonWhitespaceCharacterCount": 734,
         "newlineCount": 25
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Astral Corridor/Harmonic Stabilizer VEE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517763,
+      "modifiedDate": 1783005517763,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Astral Corridor/The Witness VEE.md": {
@@ -5117,33 +5409,6 @@
         "newlineCount": 8
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Astral Corridor/Harmonic Stabilizer VEE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517763,
-      "modifiedDate": 1783005517763,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Astral Corridor/Eventide (sword) VEE.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5223,6 +5488,65 @@
         "characterCount": 448,
         "nonWhitespaceCharacterCount": 383,
         "newlineCount": 13
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/08. Other/99. The Riftborn NS.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4091,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 13.636666666666667,
+      "characterCount": 24504,
+      "nonWhitespaceCharacterCount": 20062,
+      "newlineCount": 541,
+      "readingTimeInMinutes": 15.437735849056605,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783673143608,
+      "modifiedDate": 1783889167609,
+      "sizeInBytes": 24531,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 13.636666666666667,
+        "wordCount": 4091,
+        "characterCount": 24504,
+        "nonWhitespaceCharacterCount": 20062,
+        "newlineCount": 541
+      },
+      "frontmatter": {
+        "Tags": [
+          "Other"
+        ]
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/08. Other/05. Glossary of Minor Terms NS.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1552,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.173333333333333,
+      "characterCount": 9866,
+      "nonWhitespaceCharacterCount": 8079,
+      "newlineCount": 156,
+      "readingTimeInMinutes": 5.856603773584905,
+      "linkCount": 35,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517626,
+      "modifiedDate": 1783975533710,
+      "sizeInBytes": 9872,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 5.173333333333333,
+        "wordCount": 1552,
+        "characterCount": 9872,
+        "nonWhitespaceCharacterCount": 8073,
+        "newlineCount": 168
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/08. Other/Images/Pasted image 20260703132959.png": {
@@ -5360,33 +5684,6 @@
         "newlineCount": 0
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/08. Other/Images/Pasted image 20260611085745.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1783005517642,
-      "modifiedDate": 1783005517642,
-      "sizeInBytes": 628586,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/08. Other/Images/Pasted image 20260617180007.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -5414,36 +5711,31 @@
         "newlineCount": 0
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/08. Other/99. The Riftborn NS.md": {
-      "isCountable": true,
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/08. Other/Images/Pasted image 20260611085745.png": {
+      "isCountable": false,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 4091,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 13.636666666666667,
-      "characterCount": 24504,
-      "nonWhitespaceCharacterCount": 20062,
-      "newlineCount": 541,
-      "readingTimeInMinutes": 15.437735849056605,
-      "linkCount": 3,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783673143608,
-      "modifiedDate": 1783889167609,
-      "sizeInBytes": 24531,
+      "aliases": [],
+      "createdDate": 1783005517642,
+      "modifiedDate": 1783005517642,
+      "sizeInBytes": 628586,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 13.636666666666667,
-        "wordCount": 4091,
-        "characterCount": 24504,
-        "nonWhitespaceCharacterCount": 20062,
-        "newlineCount": 541
-      },
-      "frontmatter": {
-        "Tags": [
-          "Other"
-        ]
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/08. Other/07. Differences Between Tables NS.md": {
@@ -5471,87 +5763,6 @@
         "characterCount": 1144,
         "nonWhitespaceCharacterCount": 943,
         "newlineCount": 33
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/08. Other/06. Timeline NS.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 91,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.30333333333333334,
-      "characterCount": 634,
-      "nonWhitespaceCharacterCount": 527,
-      "newlineCount": 22,
-      "readingTimeInMinutes": 0.3433962264150943,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517626,
-      "modifiedDate": 1783889167501,
-      "sizeInBytes": 634,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.30333333333333334,
-        "wordCount": 91,
-        "characterCount": 634,
-        "nonWhitespaceCharacterCount": 527,
-        "newlineCount": 22
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/08. Other/05. Glossary of Minor Terms NS.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1552,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 5.173333333333333,
-      "characterCount": 9872,
-      "nonWhitespaceCharacterCount": 8073,
-      "newlineCount": 168,
-      "readingTimeInMinutes": 5.856603773584905,
-      "linkCount": 35,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517626,
-      "modifiedDate": 1783889167417,
-      "sizeInBytes": 9878,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 5.173333333333333,
-        "wordCount": 1552,
-        "characterCount": 9872,
-        "nonWhitespaceCharacterCount": 8073,
-        "newlineCount": 168
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/08. Other/04. Game Mechanics NS.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 474,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.58,
-      "characterCount": 3766,
-      "nonWhitespaceCharacterCount": 2477,
-      "newlineCount": 58,
-      "readingTimeInMinutes": 1.788679245283019,
-      "linkCount": 8,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517626,
-      "modifiedDate": 1783889152360,
-      "sizeInBytes": 3766,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.58,
-        "wordCount": 474,
-        "characterCount": 3766,
-        "nonWhitespaceCharacterCount": 2477,
-        "newlineCount": 58
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/08. Other/03. Elements from Aeturnum 1 NS.md": {
@@ -5591,6 +5802,33 @@
           "Events of Aeturnum 1",
           "Aeturnum 1"
         ]
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/08. Other/06. Timeline NS.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 91,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.30333333333333334,
+      "characterCount": 634,
+      "nonWhitespaceCharacterCount": 527,
+      "newlineCount": 22,
+      "readingTimeInMinutes": 0.3433962264150943,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517626,
+      "modifiedDate": 1783889167501,
+      "sizeInBytes": 634,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.30333333333333334,
+        "wordCount": 91,
+        "characterCount": 634,
+        "nonWhitespaceCharacterCount": 527,
+        "newlineCount": 22
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/08. Other/02. Mysteries NS.md": {
@@ -5645,6 +5883,33 @@
         "characterCount": 4256,
         "nonWhitespaceCharacterCount": 3512,
         "newlineCount": 76
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/08. Other/04. Game Mechanics NS.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 474,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.58,
+      "characterCount": 3766,
+      "nonWhitespaceCharacterCount": 2477,
+      "newlineCount": 58,
+      "readingTimeInMinutes": 1.788679245283019,
+      "linkCount": 8,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517626,
+      "modifiedDate": 1783889152360,
+      "sizeInBytes": 3766,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.58,
+        "wordCount": 474,
+        "characterCount": 3766,
+        "nonWhitespaceCharacterCount": 2477,
+        "newlineCount": 58
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/07. Official Media/005. Aeturnum II - Patch Notes 1.1 (Launch) NS.md": {
@@ -5943,38 +6208,6 @@
         "newlineCount": 49
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/05. Locations/Esos/Esos NS.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 33,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.11,
-      "characterCount": 207,
-      "nonWhitespaceCharacterCount": 171,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0.12452830188679245,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517595,
-      "modifiedDate": 1783889172411,
-      "sizeInBytes": 234,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.11,
-        "wordCount": 33,
-        "characterCount": 207,
-        "nonWhitespaceCharacterCount": 171,
-        "newlineCount": 4
-      },
-      "frontmatter": {
-        "tags": [
-          "Locations"
-        ]
-      }
-    },
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/05. Locations/Esos/Adrestia NS.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -6007,24 +6240,83 @@
         ]
       }
     },
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/05. Locations/Esos/Esos NS.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 33,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.11,
+      "characterCount": 207,
+      "nonWhitespaceCharacterCount": 171,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.12452830188679245,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517595,
+      "modifiedDate": 1783889172411,
+      "sizeInBytes": 234,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.11,
+        "wordCount": 33,
+        "characterCount": 207,
+        "nonWhitespaceCharacterCount": 171,
+        "newlineCount": 4
+      },
+      "frontmatter": {
+        "tags": [
+          "Locations"
+        ]
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/04. Lore/The Outer God of Blood NS.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 63,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.21,
+      "characterCount": 458,
+      "nonWhitespaceCharacterCount": 388,
+      "newlineCount": 10,
+      "readingTimeInMinutes": 0.23773584905660378,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517579,
+      "modifiedDate": 1783975376648,
+      "sizeInBytes": 458,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.16333333333333333,
+        "wordCount": 49,
+        "characterCount": 352,
+        "nonWhitespaceCharacterCount": 297,
+        "newlineCount": 9
+      }
+    },
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/04. Lore/Worldwound NS.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 441,
+      "wordCount": 443,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.47,
-      "characterCount": 2755,
-      "nonWhitespaceCharacterCount": 2290,
-      "newlineCount": 30,
-      "readingTimeInMinutes": 1.6641509433962265,
+      "pageCount": 1.4766666666666666,
+      "characterCount": 2796,
+      "nonWhitespaceCharacterCount": 2332,
+      "newlineCount": 27,
+      "readingTimeInMinutes": 1.6716981132075472,
       "linkCount": 12,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783005517579,
-      "modifiedDate": 1783889148764,
-      "sizeInBytes": 2755,
+      "modifiedDate": 1783975098689,
+      "sizeInBytes": 2796,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.47,
@@ -6066,33 +6358,6 @@
         ]
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/04. Lore/The Outer God of Blood NS.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 49,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.16333333333333333,
-      "characterCount": 352,
-      "nonWhitespaceCharacterCount": 297,
-      "newlineCount": 9,
-      "readingTimeInMinutes": 0.18490566037735848,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517579,
-      "modifiedDate": 1783889167867,
-      "sizeInBytes": 352,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.16333333333333333,
-        "wordCount": 49,
-        "characterCount": 352,
-        "nonWhitespaceCharacterCount": 297,
-        "newlineCount": 9
-      }
-    },
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/04. Lore/Technology NS.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -6101,9 +6366,9 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 2.216666666666667,
-      "characterCount": 4551,
+      "characterCount": 4550,
       "nonWhitespaceCharacterCount": 3817,
-      "newlineCount": 70,
+      "newlineCount": 69,
       "readingTimeInMinutes": 2.509433962264151,
       "linkCount": 30,
       "embedCount": 0,
@@ -6116,8 +6381,8 @@
         "Teleportation Gates"
       ],
       "createdDate": 1783005517579,
-      "modifiedDate": 1783889172148,
-      "sizeInBytes": 4677,
+      "modifiedDate": 1783975959290,
+      "sizeInBytes": 4676,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 2.216666666666667,
@@ -6148,16 +6413,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.5033333333333333,
-      "characterCount": 996,
-      "nonWhitespaceCharacterCount": 838,
+      "characterCount": 1007,
+      "nonWhitespaceCharacterCount": 849,
       "newlineCount": 9,
       "readingTimeInMinutes": 0.569811320754717,
       "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783005517579,
-      "modifiedDate": 1783889133406,
-      "sizeInBytes": 996,
+      "modifiedDate": 1783974876532,
+      "sizeInBytes": 1007,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.5033333333333333,
@@ -6165,6 +6430,38 @@
         "characterCount": 996,
         "nonWhitespaceCharacterCount": 838,
         "newlineCount": 9
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/04. Lore/Curseblood Plague NS.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 126,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.42,
+      "characterCount": 893,
+      "nonWhitespaceCharacterCount": 757,
+      "newlineCount": 14,
+      "readingTimeInMinutes": 0.47547169811320755,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517563,
+      "modifiedDate": 1783974343724,
+      "sizeInBytes": 917,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.41,
+        "wordCount": 123,
+        "characterCount": 840,
+        "nonWhitespaceCharacterCount": 707,
+        "newlineCount": 14
+      },
+      "frontmatter": {
+        "tags": [
+          "Lore"
+        ]
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/04. Lore/Memory Loss NS.md": {
@@ -6192,38 +6489,6 @@
         "characterCount": 1770,
         "nonWhitespaceCharacterCount": 1456,
         "newlineCount": 25
-      },
-      "frontmatter": {
-        "tags": [
-          "Lore"
-        ]
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/04. Lore/Curseblood Plague NS.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 123,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.41,
-      "characterCount": 840,
-      "nonWhitespaceCharacterCount": 707,
-      "newlineCount": 14,
-      "readingTimeInMinutes": 0.4641509433962264,
-      "linkCount": 7,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517563,
-      "modifiedDate": 1783889141776,
-      "sizeInBytes": 864,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.41,
-        "wordCount": 123,
-        "characterCount": 840,
-        "nonWhitespaceCharacterCount": 707,
-        "newlineCount": 14
       },
       "frontmatter": {
         "tags": [
@@ -6267,20 +6532,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 876,
+      "wordCount": 877,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.92,
-      "characterCount": 5525,
-      "nonWhitespaceCharacterCount": 4582,
+      "pageCount": 2.9233333333333333,
+      "characterCount": 5558,
+      "nonWhitespaceCharacterCount": 4614,
       "newlineCount": 87,
-      "readingTimeInMinutes": 3.3056603773584907,
+      "readingTimeInMinutes": 3.309433962264151,
       "linkCount": 18,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783005517563,
-      "modifiedDate": 1783889133366,
-      "sizeInBytes": 5525,
+      "modifiedDate": 1783974255603,
+      "sizeInBytes": 5558,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 2.92,
@@ -6321,20 +6586,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 19,
+      "wordCount": 20,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.06333333333333334,
-      "characterCount": 141,
-      "nonWhitespaceCharacterCount": 122,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 166,
+      "nonWhitespaceCharacterCount": 146,
       "newlineCount": 2,
-      "readingTimeInMinutes": 0.07169811320754717,
-      "linkCount": 2,
+      "readingTimeInMinutes": 0.07547169811320754,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783005517563,
-      "modifiedDate": 1783889165137,
-      "sizeInBytes": 163,
+      "modifiedDate": 1783974045708,
+      "sizeInBytes": 188,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.06333333333333334,
@@ -6388,31 +6653,227 @@
         ]
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/03. NPCs/Antagonists/Haera's Forces NS.md": {
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/03. NPCs/Allies/Wayfarers/Scarlet NS.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 644,
+      "wordCount": 211,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.1466666666666665,
-      "characterCount": 4653,
-      "nonWhitespaceCharacterCount": 3938,
-      "newlineCount": 87,
-      "readingTimeInMinutes": 2.430188679245283,
-      "linkCount": 32,
+      "pageCount": 0.7033333333333334,
+      "characterCount": 1350,
+      "nonWhitespaceCharacterCount": 1116,
+      "newlineCount": 32,
+      "readingTimeInMinutes": 0.7962264150943397,
+      "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783005517547,
-      "modifiedDate": 1783889170592,
-      "sizeInBytes": 4653,
+      "modifiedDate": 1783889141726,
+      "sizeInBytes": 1352,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 2.1466666666666665,
-        "wordCount": 644,
-        "characterCount": 4653,
-        "nonWhitespaceCharacterCount": 3938,
-        "newlineCount": 87
+        "pageCount": 0.7033333333333334,
+        "wordCount": 211,
+        "characterCount": 1350,
+        "nonWhitespaceCharacterCount": 1116,
+        "newlineCount": 32
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/03. NPCs/Allies/Wayfarers/Silas Reiner NS.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 101,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.33666666666666667,
+      "characterCount": 700,
+      "nonWhitespaceCharacterCount": 581,
+      "newlineCount": 26,
+      "readingTimeInMinutes": 0.38113207547169814,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783579989277,
+      "modifiedDate": 1783889141744,
+      "sizeInBytes": 724,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.33666666666666667,
+        "wordCount": 101,
+        "characterCount": 700,
+        "nonWhitespaceCharacterCount": 581,
+        "newlineCount": 26
+      },
+      "frontmatter": {
+        "tags": [
+          "NPCs"
+        ]
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/03. NPCs/Allies/Wayfarers/Henrietta NS.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 189,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.63,
+      "characterCount": 1378,
+      "nonWhitespaceCharacterCount": 1163,
+      "newlineCount": 35,
+      "readingTimeInMinutes": 0.7132075471698113,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517547,
+      "modifiedDate": 1783889141709,
+      "sizeInBytes": 1402,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.63,
+        "wordCount": 189,
+        "characterCount": 1378,
+        "nonWhitespaceCharacterCount": 1163,
+        "newlineCount": 35
+      },
+      "frontmatter": {
+        "tags": [
+          "NPCs"
+        ]
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/03. NPCs/Allies/Wayfarers/Minor Wayfarer NPCs NS.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 53,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.17666666666666667,
+      "characterCount": 461,
+      "nonWhitespaceCharacterCount": 397,
+      "newlineCount": 21,
+      "readingTimeInMinutes": 0.2,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": [
+        "Elaria"
+      ],
+      "createdDate": 1783070572582,
+      "modifiedDate": 1783889125810,
+      "sizeInBytes": 503,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.17666666666666667,
+        "wordCount": 53,
+        "characterCount": 461,
+        "nonWhitespaceCharacterCount": 397,
+        "newlineCount": 21
+      },
+      "frontmatter": {
+        "tags": [
+          "NPCs"
+        ],
+        "aliases": [
+          "Elaria"
+        ]
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/03. NPCs/Allies/Wayfarers/Astra NS.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 47,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.15666666666666668,
+      "characterCount": 368,
+      "nonWhitespaceCharacterCount": 310,
+      "newlineCount": 16,
+      "readingTimeInMinutes": 0.17735849056603772,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783066379521,
+      "modifiedDate": 1783067162507,
+      "sizeInBytes": 368,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.15666666666666668,
+        "wordCount": 47,
+        "characterCount": 368,
+        "nonWhitespaceCharacterCount": 310,
+        "newlineCount": 16
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/03. NPCs/Allies/Wayfarers/Elaric Valent NS.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 691,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.3033333333333332,
+      "characterCount": 4519,
+      "nonWhitespaceCharacterCount": 3792,
+      "newlineCount": 44,
+      "readingTimeInMinutes": 2.607547169811321,
+      "linkCount": 16,
+      "embedCount": 0,
+      "aliases": [
+        "Elaric",
+        "The Guild Master",
+        "Guild Master"
+      ],
+      "createdDate": 1783005517544,
+      "modifiedDate": 1783889167683,
+      "sizeInBytes": 4600,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.3033333333333332,
+        "wordCount": 691,
+        "characterCount": 4519,
+        "nonWhitespaceCharacterCount": 3792,
+        "newlineCount": 44
+      },
+      "frontmatter": {
+        "tags": [
+          "PCs"
+        ],
+        "aliases": [
+          "Elaric",
+          "The Guild Master",
+          "Guild Master"
+        ]
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/03. NPCs/Allies/Deceased/Theolyn Esmond NS.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 230,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7666666666666667,
+      "characterCount": 1484,
+      "nonWhitespaceCharacterCount": 1233,
+      "newlineCount": 28,
+      "readingTimeInMinutes": 0.8679245283018868,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517544,
+      "modifiedDate": 1783889163287,
+      "sizeInBytes": 1486,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.7666666666666667,
+        "wordCount": 230,
+        "characterCount": 1484,
+        "nonWhitespaceCharacterCount": 1233,
+        "newlineCount": 28
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/03. NPCs/Antagonists/Haera Agelamorn NS.md": {
@@ -6454,6 +6915,33 @@
           "Agelamorn",
           "The Queen of Tisis"
         ]
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/03. NPCs/Antagonists/Haera's Forces NS.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 644,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.1466666666666665,
+      "characterCount": 4653,
+      "nonWhitespaceCharacterCount": 3938,
+      "newlineCount": 87,
+      "readingTimeInMinutes": 2.430188679245283,
+      "linkCount": 32,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517547,
+      "modifiedDate": 1783889170592,
+      "sizeInBytes": 4653,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.1466666666666665,
+        "wordCount": 644,
+        "characterCount": 4653,
+        "nonWhitespaceCharacterCount": 3938,
+        "newlineCount": 87
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/03. NPCs/Antagonists/Five Lieutenants NS.md": {
@@ -6510,229 +6998,6 @@
         "newlineCount": 13
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/03. NPCs/Allies/Wayfarers/Silas Reiner NS.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 101,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.33666666666666667,
-      "characterCount": 700,
-      "nonWhitespaceCharacterCount": 581,
-      "newlineCount": 26,
-      "readingTimeInMinutes": 0.38113207547169814,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783579989277,
-      "modifiedDate": 1783889141744,
-      "sizeInBytes": 724,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.33666666666666667,
-        "wordCount": 101,
-        "characterCount": 700,
-        "nonWhitespaceCharacterCount": 581,
-        "newlineCount": 26
-      },
-      "frontmatter": {
-        "tags": [
-          "NPCs"
-        ]
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/03. NPCs/Allies/Wayfarers/Scarlet NS.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 211,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.7033333333333334,
-      "characterCount": 1350,
-      "nonWhitespaceCharacterCount": 1116,
-      "newlineCount": 32,
-      "readingTimeInMinutes": 0.7962264150943397,
-      "linkCount": 7,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517547,
-      "modifiedDate": 1783889141726,
-      "sizeInBytes": 1352,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.7033333333333334,
-        "wordCount": 211,
-        "characterCount": 1350,
-        "nonWhitespaceCharacterCount": 1116,
-        "newlineCount": 32
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/03. NPCs/Allies/Wayfarers/Minor Wayfarer NPCs NS.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 53,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.17666666666666667,
-      "characterCount": 461,
-      "nonWhitespaceCharacterCount": 397,
-      "newlineCount": 21,
-      "readingTimeInMinutes": 0.2,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": [
-        "Elaria"
-      ],
-      "createdDate": 1783070572582,
-      "modifiedDate": 1783889125810,
-      "sizeInBytes": 503,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.17666666666666667,
-        "wordCount": 53,
-        "characterCount": 461,
-        "nonWhitespaceCharacterCount": 397,
-        "newlineCount": 21
-      },
-      "frontmatter": {
-        "tags": [
-          "NPCs"
-        ],
-        "aliases": [
-          "Elaria"
-        ]
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/03. NPCs/Allies/Wayfarers/Henrietta NS.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 189,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.63,
-      "characterCount": 1378,
-      "nonWhitespaceCharacterCount": 1163,
-      "newlineCount": 35,
-      "readingTimeInMinutes": 0.7132075471698113,
-      "linkCount": 7,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517547,
-      "modifiedDate": 1783889141709,
-      "sizeInBytes": 1402,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.63,
-        "wordCount": 189,
-        "characterCount": 1378,
-        "nonWhitespaceCharacterCount": 1163,
-        "newlineCount": 35
-      },
-      "frontmatter": {
-        "tags": [
-          "NPCs"
-        ]
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/03. NPCs/Allies/Wayfarers/Elaric Valent NS.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 691,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.3033333333333332,
-      "characterCount": 4519,
-      "nonWhitespaceCharacterCount": 3792,
-      "newlineCount": 44,
-      "readingTimeInMinutes": 2.607547169811321,
-      "linkCount": 16,
-      "embedCount": 0,
-      "aliases": [
-        "Elaric",
-        "The Guild Master",
-        "Guild Master"
-      ],
-      "createdDate": 1783005517544,
-      "modifiedDate": 1783889167683,
-      "sizeInBytes": 4600,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.3033333333333332,
-        "wordCount": 691,
-        "characterCount": 4519,
-        "nonWhitespaceCharacterCount": 3792,
-        "newlineCount": 44
-      },
-      "frontmatter": {
-        "tags": [
-          "PCs"
-        ],
-        "aliases": [
-          "Elaric",
-          "The Guild Master",
-          "Guild Master"
-        ]
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/03. NPCs/Allies/Wayfarers/Astra NS.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 47,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.15666666666666668,
-      "characterCount": 368,
-      "nonWhitespaceCharacterCount": 310,
-      "newlineCount": 16,
-      "readingTimeInMinutes": 0.17735849056603772,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783066379521,
-      "modifiedDate": 1783067162507,
-      "sizeInBytes": 368,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.15666666666666668,
-        "wordCount": 47,
-        "characterCount": 368,
-        "nonWhitespaceCharacterCount": 310,
-        "newlineCount": 16
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/03. NPCs/Allies/Deceased/Theolyn Esmond NS.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 230,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.7666666666666667,
-      "characterCount": 1484,
-      "nonWhitespaceCharacterCount": 1233,
-      "newlineCount": 28,
-      "readingTimeInMinutes": 0.8679245283018868,
-      "linkCount": 7,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517544,
-      "modifiedDate": 1783889163287,
-      "sizeInBytes": 1486,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.7666666666666667,
-        "wordCount": 230,
-        "characterCount": 1484,
-        "nonWhitespaceCharacterCount": 1233,
-        "newlineCount": 28
-      }
-    },
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/02. PCs/PC Template NS.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -6765,6 +7030,60 @@
         ]
       }
     },
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/02. PCs/01. Alive/Valkath NS.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 66,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.22,
+      "characterCount": 508,
+      "nonWhitespaceCharacterCount": 436,
+      "newlineCount": 16,
+      "readingTimeInMinutes": 0.2490566037735849,
+      "linkCount": 1,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1783005517532,
+      "modifiedDate": 1783888910834,
+      "sizeInBytes": 508,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.22,
+        "wordCount": 66,
+        "characterCount": 508,
+        "nonWhitespaceCharacterCount": 436,
+        "newlineCount": 16
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/02. PCs/01. Alive/Wally NS.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 51,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.17,
+      "characterCount": 394,
+      "nonWhitespaceCharacterCount": 332,
+      "newlineCount": 20,
+      "readingTimeInMinutes": 0.19245283018867926,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517538,
+      "modifiedDate": 1783888910859,
+      "sizeInBytes": 394,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.17,
+        "wordCount": 51,
+        "characterCount": 394,
+        "nonWhitespaceCharacterCount": 332,
+        "newlineCount": 20
+      }
+    },
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/02. PCs/01. Alive/Zanya NS.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -6795,60 +7114,6 @@
         "tags": [
           "PCs"
         ]
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/02. PCs/01. Alive/Wally NS.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 51,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.17,
-      "characterCount": 394,
-      "nonWhitespaceCharacterCount": 332,
-      "newlineCount": 20,
-      "readingTimeInMinutes": 0.19245283018867926,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517538,
-      "modifiedDate": 1783888910859,
-      "sizeInBytes": 394,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.17,
-        "wordCount": 51,
-        "characterCount": 394,
-        "nonWhitespaceCharacterCount": 332,
-        "newlineCount": 20
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/02. PCs/01. Alive/Valkath NS.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 66,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.22,
-      "characterCount": 508,
-      "nonWhitespaceCharacterCount": 436,
-      "newlineCount": 16,
-      "readingTimeInMinutes": 0.2490566037735849,
-      "linkCount": 1,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1783005517532,
-      "modifiedDate": 1783888910834,
-      "sizeInBytes": 508,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.22,
-        "wordCount": 66,
-        "characterCount": 508,
-        "nonWhitespaceCharacterCount": 436,
-        "newlineCount": 16
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/02. PCs/01. Alive/Trystane NS.md": {
@@ -6910,6 +7175,87 @@
         ]
       }
     },
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/02. PCs/01. Alive/Orinoco NS.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 863,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.8766666666666665,
+      "characterCount": 7356,
+      "nonWhitespaceCharacterCount": 5021,
+      "newlineCount": 153,
+      "readingTimeInMinutes": 3.2566037735849056,
+      "linkCount": 19,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517516,
+      "modifiedDate": 1783889124109,
+      "sizeInBytes": 7359,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.8766666666666665,
+        "wordCount": 863,
+        "characterCount": 7356,
+        "nonWhitespaceCharacterCount": 5021,
+        "newlineCount": 153
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/02. PCs/01. Alive/Marcello Gangrene NS.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 51,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.17,
+      "characterCount": 378,
+      "nonWhitespaceCharacterCount": 321,
+      "newlineCount": 14,
+      "readingTimeInMinutes": 0.19245283018867926,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517516,
+      "modifiedDate": 1783888910779,
+      "sizeInBytes": 378,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.17,
+        "wordCount": 51,
+        "characterCount": 378,
+        "nonWhitespaceCharacterCount": 321,
+        "newlineCount": 14
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/02. PCs/01. Alive/Milo NS.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 44,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.14666666666666667,
+      "characterCount": 400,
+      "nonWhitespaceCharacterCount": 342,
+      "newlineCount": 21,
+      "readingTimeInMinutes": 0.1660377358490566,
+      "linkCount": 1,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1783005517516,
+      "modifiedDate": 1783888910802,
+      "sizeInBytes": 400,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.14666666666666667,
+        "wordCount": 44,
+        "characterCount": 400,
+        "nonWhitespaceCharacterCount": 342,
+        "newlineCount": 21
+      }
+    },
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/02. PCs/01. Alive/Shade NS.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -6942,85 +7288,58 @@
         ]
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/02. PCs/01. Alive/Orinoco NS.md": {
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/02. PCs/01. Alive/Lilah NS.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 863,
+      "wordCount": 15,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.8766666666666665,
-      "characterCount": 7356,
-      "nonWhitespaceCharacterCount": 5021,
-      "newlineCount": 153,
-      "readingTimeInMinutes": 3.2566037735849056,
-      "linkCount": 19,
+      "pageCount": 0.05,
+      "characterCount": 158,
+      "nonWhitespaceCharacterCount": 135,
+      "newlineCount": 13,
+      "readingTimeInMinutes": 0.05660377358490566,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783005517516,
-      "modifiedDate": 1783889124109,
-      "sizeInBytes": 7359,
+      "modifiedDate": 1783083224457,
+      "sizeInBytes": 158,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 2.8766666666666665,
-        "wordCount": 863,
-        "characterCount": 7356,
-        "nonWhitespaceCharacterCount": 5021,
-        "newlineCount": 153
+        "pageCount": 0.05,
+        "wordCount": 15,
+        "characterCount": 158,
+        "nonWhitespaceCharacterCount": 135,
+        "newlineCount": 13
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/02. PCs/01. Alive/Milo NS.md": {
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/02. PCs/01. Alive/Loup Garou NS.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 44,
+      "wordCount": 66,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.14666666666666667,
-      "characterCount": 400,
-      "nonWhitespaceCharacterCount": 342,
-      "newlineCount": 21,
-      "readingTimeInMinutes": 0.1660377358490566,
-      "linkCount": 1,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1783005517516,
-      "modifiedDate": 1783888910802,
-      "sizeInBytes": 400,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.14666666666666667,
-        "wordCount": 44,
-        "characterCount": 400,
-        "nonWhitespaceCharacterCount": 342,
-        "newlineCount": 21
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/02. PCs/01. Alive/Marcello Gangrene NS.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 51,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.17,
-      "characterCount": 378,
-      "nonWhitespaceCharacterCount": 321,
-      "newlineCount": 14,
-      "readingTimeInMinutes": 0.19245283018867926,
-      "linkCount": 1,
+      "pageCount": 0.22,
+      "characterCount": 518,
+      "nonWhitespaceCharacterCount": 435,
+      "newlineCount": 28,
+      "readingTimeInMinutes": 0.2490566037735849,
+      "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783005517516,
-      "modifiedDate": 1783888910779,
-      "sizeInBytes": 378,
+      "modifiedDate": 1783889101008,
+      "sizeInBytes": 518,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.17,
-        "wordCount": 51,
-        "characterCount": 378,
-        "nonWhitespaceCharacterCount": 321,
-        "newlineCount": 14
+        "pageCount": 0.22,
+        "wordCount": 66,
+        "characterCount": 518,
+        "nonWhitespaceCharacterCount": 435,
+        "newlineCount": 28
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/02. PCs/01. Alive/Lugos NS.md": {
@@ -7055,58 +7374,31 @@
         ]
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/02. PCs/01. Alive/Loup Garou NS.md": {
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/02. PCs/01. Alive/Elias Mulch NS.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 66,
+      "wordCount": 52,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.22,
-      "characterCount": 518,
-      "nonWhitespaceCharacterCount": 435,
-      "newlineCount": 28,
-      "readingTimeInMinutes": 0.2490566037735849,
-      "linkCount": 2,
+      "pageCount": 0.17333333333333334,
+      "characterCount": 388,
+      "nonWhitespaceCharacterCount": 324,
+      "newlineCount": 21,
+      "readingTimeInMinutes": 0.19622641509433963,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783005517516,
-      "modifiedDate": 1783889101008,
-      "sizeInBytes": 518,
+      "modifiedDate": 1783888979123,
+      "sizeInBytes": 388,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.22,
-        "wordCount": 66,
-        "characterCount": 518,
-        "nonWhitespaceCharacterCount": 435,
-        "newlineCount": 28
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/02. PCs/01. Alive/Lilah NS.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 15,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.05,
-      "characterCount": 158,
-      "nonWhitespaceCharacterCount": 135,
-      "newlineCount": 13,
-      "readingTimeInMinutes": 0.05660377358490566,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517516,
-      "modifiedDate": 1783083224457,
-      "sizeInBytes": 158,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.05,
-        "wordCount": 15,
-        "characterCount": 158,
-        "nonWhitespaceCharacterCount": 135,
-        "newlineCount": 13
+        "pageCount": 0.17333333333333334,
+        "wordCount": 52,
+        "characterCount": 388,
+        "nonWhitespaceCharacterCount": 324,
+        "newlineCount": 21
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/02. PCs/01. Alive/Galahad NS.md": {
@@ -7134,6 +7426,33 @@
         "characterCount": 413,
         "nonWhitespaceCharacterCount": 346,
         "newlineCount": 13
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/02. PCs/01. Alive/Brick NS.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 32,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.10666666666666667,
+      "characterCount": 258,
+      "nonWhitespaceCharacterCount": 220,
+      "newlineCount": 14,
+      "readingTimeInMinutes": 0.12075471698113208,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783005517500,
+      "modifiedDate": 1783888979003,
+      "sizeInBytes": 258,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.10666666666666667,
+        "wordCount": 32,
+        "characterCount": 258,
+        "nonWhitespaceCharacterCount": 220,
+        "newlineCount": 14
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/02. PCs/01. Alive/Ember NS.md": {
@@ -7168,33 +7487,6 @@
         ]
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/02. PCs/01. Alive/Elias Mulch NS.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 52,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.17333333333333334,
-      "characterCount": 388,
-      "nonWhitespaceCharacterCount": 324,
-      "newlineCount": 21,
-      "readingTimeInMinutes": 0.19622641509433963,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517516,
-      "modifiedDate": 1783888979123,
-      "sizeInBytes": 388,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.17333333333333334,
-        "wordCount": 52,
-        "characterCount": 388,
-        "nonWhitespaceCharacterCount": 324,
-        "newlineCount": 21
-      }
-    },
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/02. PCs/01. Alive/Cora NS.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -7220,33 +7512,6 @@
         "characterCount": 298,
         "nonWhitespaceCharacterCount": 254,
         "newlineCount": 19
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/02. PCs/01. Alive/Brick NS.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 32,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.10666666666666667,
-      "characterCount": 258,
-      "nonWhitespaceCharacterCount": 220,
-      "newlineCount": 14,
-      "readingTimeInMinutes": 0.12075471698113208,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517500,
-      "modifiedDate": 1783888979003,
-      "sizeInBytes": 258,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.10666666666666667,
-        "wordCount": 32,
-        "characterCount": 258,
-        "nonWhitespaceCharacterCount": 220,
-        "newlineCount": 14
       }
     },
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/02. PCs/01. Alive/Beetle NS.md": {
@@ -7335,38 +7600,6 @@
         ]
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/01. Sessions/02. Orinoco's Journals/The River and the Sea are One NS.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 730,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.433333333333333,
-      "characterCount": 3998,
-      "nonWhitespaceCharacterCount": 3256,
-      "newlineCount": 22,
-      "readingTimeInMinutes": 2.7547169811320753,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783799151127,
-      "modifiedDate": 1783804609181,
-      "sizeInBytes": 4024,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.433333333333333,
-        "wordCount": 730,
-        "characterCount": 3998,
-        "nonWhitespaceCharacterCount": 3256,
-        "newlineCount": 22
-      },
-      "frontmatter": {
-        "tags": [
-          "Journals"
-        ]
-      }
-    },
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/01. Sessions/02. Orinoco's Journals/Mock a Crocodile NS.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -7399,109 +7632,35 @@
         ]
       }
     },
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/01. Sessions/01. Session Notes/Session Notes Template NS.md": {
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/01. Sessions/02. Orinoco's Journals/The River and the Sea are One NS.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 23,
+      "wordCount": 730,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.07666666666666666,
-      "characterCount": 206,
-      "nonWhitespaceCharacterCount": 164,
-      "newlineCount": 26,
-      "readingTimeInMinutes": 0.08679245283018867,
-      "linkCount": 5,
+      "pageCount": 2.433333333333333,
+      "characterCount": 3998,
+      "nonWhitespaceCharacterCount": 3256,
+      "newlineCount": 22,
+      "readingTimeInMinutes": 2.7547169811320753,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1783576666625,
-      "modifiedDate": 1783863827967,
-      "sizeInBytes": 236,
+      "createdDate": 1783799151127,
+      "modifiedDate": 1783804609181,
+      "sizeInBytes": 4024,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.07666666666666666,
-        "wordCount": 23,
-        "characterCount": 206,
-        "nonWhitespaceCharacterCount": 164,
-        "newlineCount": 26
+        "pageCount": 2.433333333333333,
+        "wordCount": 730,
+        "characterCount": 3998,
+        "nonWhitespaceCharacterCount": 3256,
+        "newlineCount": 22
       },
       "frontmatter": {
         "tags": [
-          "SessionNotes"
-        ]
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/01. Sessions/01. Session Notes/1.4 Anathema NS.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 3276,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 10.92,
-      "characterCount": 19349,
-      "nonWhitespaceCharacterCount": 15961,
-      "newlineCount": 107,
-      "readingTimeInMinutes": 12.362264150943396,
-      "linkCount": 31,
-      "embedCount": 0,
-      "aliases": [
-        "Anathema"
-      ],
-      "createdDate": 1783576788331,
-      "modifiedDate": 1783889141630,
-      "sizeInBytes": 19407,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 10.92,
-        "wordCount": 3276,
-        "characterCount": 19349,
-        "nonWhitespaceCharacterCount": 15961,
-        "newlineCount": 107
-      },
-      "frontmatter": {
-        "tags": [
-          "SessionNotes"
-        ],
-        "aliases": [
-          "Anathema"
-        ]
-      }
-    },
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/01. Sessions/01. Session Notes/0.3 Initiation NS.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1759,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 5.863333333333333,
-      "characterCount": 10665,
-      "nonWhitespaceCharacterCount": 8816,
-      "newlineCount": 79,
-      "readingTimeInMinutes": 6.637735849056604,
-      "linkCount": 33,
-      "embedCount": 0,
-      "aliases": [
-        "Initiation"
-      ],
-      "createdDate": 1783005517500,
-      "modifiedDate": 1783889172053,
-      "sizeInBytes": 10721,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 5.863333333333333,
-        "wordCount": 1759,
-        "characterCount": 10665,
-        "nonWhitespaceCharacterCount": 8816,
-        "newlineCount": 79
-      },
-      "frontmatter": {
-        "tags": [
-          "SessionNotes"
-        ],
-        "aliases": [
-          "Initiation"
+          "Journals"
         ]
       }
     },
@@ -7542,6 +7701,75 @@
         ]
       }
     },
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/01. Sessions/01. Session Notes/0.3 Initiation NS.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1759,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.863333333333333,
+      "characterCount": 10665,
+      "nonWhitespaceCharacterCount": 8816,
+      "newlineCount": 79,
+      "readingTimeInMinutes": 6.637735849056604,
+      "linkCount": 33,
+      "embedCount": 0,
+      "aliases": [
+        "Initiation"
+      ],
+      "createdDate": 1783005517500,
+      "modifiedDate": 1783889172053,
+      "sizeInBytes": 10721,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 5.863333333333333,
+        "wordCount": 1759,
+        "characterCount": 10665,
+        "nonWhitespaceCharacterCount": 8816,
+        "newlineCount": 79
+      },
+      "frontmatter": {
+        "tags": [
+          "SessionNotes"
+        ],
+        "aliases": [
+          "Initiation"
+        ]
+      }
+    },
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/01. Sessions/01. Session Notes/Session Notes Template NS.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 23,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 206,
+      "nonWhitespaceCharacterCount": 164,
+      "newlineCount": 26,
+      "readingTimeInMinutes": 0.08679245283018867,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783576666625,
+      "modifiedDate": 1783863827967,
+      "sizeInBytes": 236,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.07666666666666666,
+        "wordCount": 23,
+        "characterCount": 206,
+        "nonWhitespaceCharacterCount": 164,
+        "newlineCount": 26
+      },
+      "frontmatter": {
+        "tags": [
+          "SessionNotes"
+        ]
+      }
+    },
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/01. Sessions/01. Session Notes/0.1. Genesis (Prelude) NS.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -7579,6 +7807,43 @@
         ]
       }
     },
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/01. Sessions/01. Session Notes/1.4 Anathema NS.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3276,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 10.92,
+      "characterCount": 19349,
+      "nonWhitespaceCharacterCount": 15961,
+      "newlineCount": 107,
+      "readingTimeInMinutes": 12.362264150943396,
+      "linkCount": 31,
+      "embedCount": 0,
+      "aliases": [
+        "Anathema"
+      ],
+      "createdDate": 1783576788331,
+      "modifiedDate": 1783889141630,
+      "sizeInBytes": 19407,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 10.92,
+        "wordCount": 3276,
+        "characterCount": 19349,
+        "nonWhitespaceCharacterCount": 15961,
+        "newlineCount": 107
+      },
+      "frontmatter": {
+        "tags": [
+          "SessionNotes"
+        ],
+        "aliases": [
+          "Anathema"
+        ]
+      }
+    },
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/00. READ ME FIRST/00. READ ME FIRST NS.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -7611,225 +7876,26 @@
         ]
       }
     },
-    "1. Shared Aeturnum Vault/READ ME FIRST.md": {
+    "1. Shared Aeturnum Vault/Campaign 2 Nocturne/NPCs/Other NPCs.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1571,
+      "wordCount": 83,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 5.236666666666666,
-      "characterCount": 9292,
-      "nonWhitespaceCharacterCount": 7581,
-      "newlineCount": 150,
-      "readingTimeInMinutes": 5.928301886792453,
-      "linkCount": 18,
+      "pageCount": 0.27666666666666667,
+      "characterCount": 636,
+      "nonWhitespaceCharacterCount": 548,
+      "newlineCount": 17,
+      "readingTimeInMinutes": 0.3132075471698113,
+      "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1783949647980,
-      "modifiedDate": 1783956909550,
-      "sizeInBytes": 9293,
+      "createdDate": 1783973609039,
+      "modifiedDate": 1783973952689,
+      "sizeInBytes": 636,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.72,
-        "wordCount": 816,
-        "characterCount": 4749,
-        "nonWhitespaceCharacterCount": 3884,
-        "newlineCount": 56
-      }
-    },
-    "1. Shared Aeturnum Vault/Campaign 2 Nocturne/Quest Boards & Narratives/02. Hell Itself.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 16,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.05333333333333334,
-      "characterCount": 103,
-      "nonWhitespaceCharacterCount": 87,
-      "newlineCount": 1,
-      "readingTimeInMinutes": 0.06037735849056604,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783876314508,
-      "modifiedDate": 1783876358982,
-      "sizeInBytes": 103,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.05333333333333334,
-        "wordCount": 16,
-        "characterCount": 103,
-        "nonWhitespaceCharacterCount": 87,
-        "newlineCount": 1
-      }
-    },
-    "1. Shared Aeturnum Vault/Campaign 2 Nocturne/Quest Boards & Narratives/01. Adrestia (July 2026).md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 119,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.39666666666666667,
-      "characterCount": 794,
-      "nonWhitespaceCharacterCount": 663,
-      "newlineCount": 15,
-      "readingTimeInMinutes": 0.4490566037735849,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783876249538,
-      "modifiedDate": 1783876299616,
-      "sizeInBytes": 796,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.39666666666666667,
-        "wordCount": 119,
-        "characterCount": 794,
-        "nonWhitespaceCharacterCount": 663,
-        "newlineCount": 15
-      }
-    },
-    "1. Shared Aeturnum Vault/Campaign 2 Nocturne/Quest Boards & Narratives/00. Prelude, Prologue, Primer.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 249,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.83,
-      "characterCount": 1551,
-      "nonWhitespaceCharacterCount": 1284,
-      "newlineCount": 24,
-      "readingTimeInMinutes": 0.939622641509434,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783884625617,
-      "modifiedDate": 1783885419792,
-      "sizeInBytes": 1551,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.83,
-        "wordCount": 249,
-        "characterCount": 1551,
-        "nonWhitespaceCharacterCount": 1284,
-        "newlineCount": 24
-      }
-    },
-    "1. Shared Aeturnum Vault/Campaign 2 Nocturne/NPCs/Wayfarer NPCs.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 230,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.7666666666666667,
-      "characterCount": 1899,
-      "nonWhitespaceCharacterCount": 1637,
-      "newlineCount": 71,
-      "readingTimeInMinutes": 0.8679245283018868,
-      "linkCount": 7,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783874502010,
-      "modifiedDate": 1783875274185,
-      "sizeInBytes": 1921,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.7666666666666667,
-        "wordCount": 230,
-        "characterCount": 1899,
-        "nonWhitespaceCharacterCount": 1637,
-        "newlineCount": 71
-      },
-      "frontmatter": {
-        "tags": [
-          "NPCs"
-        ]
-      }
-    },
-    "1. Shared Aeturnum Vault/Campaign 2 Nocturne/NPCs/The Speakers of Adrestia.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 113,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.37666666666666665,
-      "characterCount": 891,
-      "nonWhitespaceCharacterCount": 766,
-      "newlineCount": 35,
-      "readingTimeInMinutes": 0.42641509433962266,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783876403946,
-      "modifiedDate": 1783884353739,
-      "sizeInBytes": 891,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.37666666666666665,
-        "wordCount": 113,
-        "characterCount": 891,
-        "nonWhitespaceCharacterCount": 766,
-        "newlineCount": 35
-      }
-    },
-    "1. Shared Aeturnum Vault/Campaign 2 Nocturne/NPCs/Antagonists.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 343,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.1433333333333333,
-      "characterCount": 2407,
-      "nonWhitespaceCharacterCount": 2017,
-      "newlineCount": 54,
-      "readingTimeInMinutes": 1.2943396226415094,
-      "linkCount": 11,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783885521054,
-      "modifiedDate": 1783886626808,
-      "sizeInBytes": 2429,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.1433333333333333,
-        "wordCount": 343,
-        "characterCount": 2407,
-        "nonWhitespaceCharacterCount": 2017,
-        "newlineCount": 54
-      },
-      "frontmatter": {
-        "tags": [
-          "NPCs"
-        ]
-      }
-    },
-    "1. Shared Aeturnum Vault/Campaign 1 - Bloodtide & Masquerade/Untitled.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783005517453,
-      "modifiedDate": 1783005517453,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
+        "noteCount": 0,
         "pageCount": 0,
         "wordCount": 0,
         "characterCount": 0,
@@ -7837,27 +7903,24 @@
         "newlineCount": 0
       }
     },
-    "1. Shared Aeturnum Vault/Campaign 2 Nocturne/Locations/Adrestia.md": {
+    "1. Shared Aeturnum Vault/Campaign 2 Nocturne/Lore/Lore.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 34,
+      "wordCount": 298,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.11333333333333333,
-      "characterCount": 180,
-      "nonWhitespaceCharacterCount": 144,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0.12830188679245283,
-      "linkCount": 0,
+      "pageCount": 0.9933333333333333,
+      "characterCount": 1935,
+      "nonWhitespaceCharacterCount": 1610,
+      "newlineCount": 33,
+      "readingTimeInMinutes": 1.1245283018867924,
+      "linkCount": 13,
       "embedCount": 0,
-      "aliases": [
-        "The City of Adrestia",
-        "The origin point of the Wayfarers"
-      ],
-      "createdDate": 1783956618493,
-      "modifiedDate": 1783956714230,
-      "sizeInBytes": 279,
+      "aliases": null,
+      "createdDate": 1783974295526,
+      "modifiedDate": 1783975257605,
+      "sizeInBytes": 1957,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7867,10 +7930,70 @@
         "newlineCount": 0
       },
       "frontmatter": {
-        "aliases": [
-          "The City of Adrestia",
-          "The origin point of the Wayfarers"
-        ],
+        "tags": [
+          "Lore"
+        ]
+      }
+    },
+    "1. Shared Aeturnum Vault/Campaign 2 Nocturne/Lore/Technology.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 394,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.3133333333333332,
+      "characterCount": 2736,
+      "nonWhitespaceCharacterCount": 2298,
+      "newlineCount": 46,
+      "readingTimeInMinutes": 1.4867924528301886,
+      "linkCount": 15,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783975556742,
+      "modifiedDate": 1783976185597,
+      "sizeInBytes": 2758,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "tags": [
+          "Lore"
+        ]
+      }
+    },
+    "1. Shared Aeturnum Vault/Campaign 2 Nocturne/Locations/Tisis.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 75,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.25,
+      "characterCount": 536,
+      "nonWhitespaceCharacterCount": 446,
+      "newlineCount": 14,
+      "readingTimeInMinutes": 0.2830188679245283,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783976744851,
+      "modifiedDate": 1783976956196,
+      "sizeInBytes": 563,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
         "tags": [
           "Locations"
         ]

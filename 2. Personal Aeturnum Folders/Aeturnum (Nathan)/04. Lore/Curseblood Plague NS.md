@@ -2,13 +2,13 @@
 tags:
   - Lore
 ---
-The Curseblood Plague is a vampiric infection created by [[Haera Agelamorn NS]]. She uses it to convert humanoid creatures into [[Haera's Forces NS|thralls, vampires, and bloodkin]]. 
+The Curseblood Plague is a vampiric infection created by [[Haera Agelamorn NS|Haera Agelamorn]]. She uses it to convert humanoid creatures into [[Haera's Forces NS|thralls, vampires, and bloodkin]]. 
 
-All PC members of the [[Wayfarer’s Guild NS]] became infected with it after being submerged in the [[Technology NS#Coffin-like Tanks|coffin-like tanks]] during the events of [[0.2 Requiem NS|Requiem]].
+All PC members of the [[Wayfarer’s Guild NS|Wayfarer's Guild]] became infected with it after being submerged in the [[Technology NS#Coffin-like Tanks|coffin-like tanks]] during the events of [[0.2 Requiem NS|Requiem]].
 
 The effects of the plague can be slowed with a [[Technology NS#Dark Serum|Dark Serum]]
 
-It may be linked to/the same thing as the [[Petrification Curse NS]].
+It may be linked to/the same thing as the [[Petrification Curse NS|Petrification Curse]].
 # Known Effects
 - Causes the afflicted to slowly turn into the thralls of Haera.
 - Causes the afflicted to vomit black blood.
