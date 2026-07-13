@@ -36,20 +36,115 @@ Every file in our personal folders will have our initials in the title, to make 
 # Contributions
 
 This vault was built by:
-- Vanessa (Nyssa in campaign 1, Milo in campaign 2)
-- Nathan (Amelia Maizing in campaign 1, Orinoco in campaign 2)
+- **Vanessa** (Nyssa in campaign 1, Milo in campaign 2)
+- **Nathan** (Amelia Maizing in campaign 1, Orinoco in campaign 2)
 
 With contributions from:
-- Andy (Zerxus in campaign 1)
-- Arnand (Klump the Flumpf in campaign 1, Brick in campaign 2)
-- Luke (Gizmo/Igor in campaign 1, Beetle in campaign 2)
-- Nathan (Nut in campaign 1, Aphaéa in campaign 2)
-- Gaia (Clank in campaign 1, Cora in campaign 2)
-- Charles (Scrud in campaign 1, Cogwin in campaign 2)
-- Sky (Scapula in campaign 2)
+- **Andy** - Zerxus in campaign 1
+- **Arnand** - Klump the Flumpf in campaign 1, Brick in campaign 2
+- **Luke** - Gizmo/Igor in campaign 1, Beetle in campaign 2
+- **Nathan** - Nut in campaign 1, Aphaéa in campaign 2
+- **Gaia** - Clank in campaign 1, Cora in campaign 2
+- **Charles** - Scrud in campaign 1, Cogwin in campaign 2
+- **Sky** - Vardy the Pirate in campaign 1, Scapula in campaign 2
 # Formatting
 
 Everything below is a guide on how to format a file in Obsidian to make it easy to navigate. It's just for the reference of editors, but feel free to read if you're interested in how Obsidian files work. 
 
+For the most complete information, be sure to check [Obsidian's own resources](https://obsidian.md/help/syntax). Below is just what we've learned while building this.
 
+**Contents**
+- [[#Basic Formatting]]
+- [[#Headers]]
+- [[#Internal Links]]
+- [[#Combining Headers and Links]]
+- [[#Creating a Table of Contents]]
+- [[#Properties]]
+## Basic Formatting
 
+For basic formatting, use the following;
+- Bullet points - Start the paragraph with a - symbol
+- *Italics* - surround the text you want to bold with one asterisk on each side
+- **BOLD** - surround the text you want to bold with two asterisks on each side
+- <u>Underline</u> - Place the text you want underlined between \<u> and \</u>
+- ~~Strikethrough~~ - Surround the text you want struck through with two ~ on either side
+- ==Highlight== - Surround the text you want highlighted with two = on either side
+## Headers
+
+To create headers, you input a hash for the level of header you want. E.g., one # is Header 1, ## is Header 2, and so on. 
+## Internal Links
+
+### Basic Links
+
+To create a link from one page to another, put the name of the file within two square brackets, \[[ ]]. For example;
+
+\[[Wayfarer NPCs]]
+
+Becomes:
+
+[[Wayfarer NPCs]]
+
+If you hold your mouse over a link and press the CTRL key, you'll get a pop up preview of the contents of that file without having to load it. 
+### Nicknaming Links
+
+You can also give a link a nickname by dividing the file name from the desired name with a | symbol. This will allow you to write anything you like and have it appear in the text, while the link will still take you to the correct file. For example;
+
+\[[Wayfarer NPCs|Scarlet]]
+
+Becomes:
+
+[[Wayfarer NPCs|Scarlet]]
+
+If you click the link, it will still take you to the Wayfarer NPCs file.
+## Combining Headers and Links
+
+By using links in combination with headers, you can create a link that goes to a specific location within another file. To do this, you can use a # within a link. 
+
+To link to a specific location within a file, open the double brackets, type the name of the file, then add a hash. After the hash, type the name of the heading that you want to link to. For example;
+
+\[[Wayfarer NPCs#Scarlet]]
+
+Becomes: 
+
+[[Wayfarer NPCs#Scarlet]]
+
+This looks a little messy, so you can also make use of the Nicknames functionality by adding a | and alternative text after the header name. For example;
+
+\[[Wayfarer NPCs#Scarlet|Scarlet]]
+
+Becomes:
+
+[[Wayfarer NPCs#Scarlet|Scarlet]]
+
+This link will take you straight to Scarlet's section of 'Wayfarer NPCs' page. It will also highlight all relevant text - click once to dismiss the highlight. If you mouse over a link and click the CTRL key, it will give you a pop up of that specific section of the page. 
+
+## Creating a Table of Contents
+
+To create a table of contents, or other link that will go to something within the same file, start with double square brackets and add a hash, then write the name of the header you want the link to go to. For example;
+
+\[[#Guide to the Folders]]
+
+Becomes:
+
+[[#Guide to the Folders]]
+
+It will take you to that part of the page and highlight the relevant segment of text. Click once to dismiss the highlight. 
+## Properties
+
+At the very top of a file, put three dashes (---). This will create a properties section where you can add metadata to a file, including tags and aliases. 
+### Tags
+
+Key words that allow you to find specific types of file, e.g., NPCs, Locations, Lore, etc..
+
+You can also create them outside of the properties section by typing a hash then writing the tag name without a space. For example, #Meta, which is what this file is. 
+
+Tags determine the colour of nodes in the Graph View. E.g., all NPCs are set to appear as red, all locations are set to appear as green, and so on. 
+### Aliases
+
+Setting an alias for a specific file is useful when you know that you'll refer to a single file by more than one name. For example, Adrestia may be referred to as 'Adrestia' or 'The City of Adrestia' or 'The origin point of the Wayfarers'. In which case, you would name the file by the most commonly used name, then set the other names as aliases. See the [[Adrestia]] file for an example of this. 
+
+Once you have set up an alias, it becomes easier to create internal links for that file. If you type the alias name while writing a link, Obsidian will automatically create the correct link for you. For example;
+
+[[Adrestia]]
+[[Adrestia|The City of Adrestia]]
+[[Adrestia|The origin point of the Wayfarers]]
