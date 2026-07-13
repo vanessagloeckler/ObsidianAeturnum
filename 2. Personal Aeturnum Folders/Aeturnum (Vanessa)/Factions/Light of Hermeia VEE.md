@@ -1,0 +1,2 @@
+- Powers a lighthouse near [[Aldwych Academy VEE]].
+- Might refer to a god?

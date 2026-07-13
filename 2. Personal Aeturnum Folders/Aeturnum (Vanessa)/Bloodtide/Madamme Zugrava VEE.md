@@ -1,0 +1,4 @@
+- From [[Tisis (location)]]
+- Medium
+- Smuggled into Adrestia by [[Occultist Guild VEE]]
+- Then wanted [[Kahdaj Kandera (Occultist leader) VEE]] to be executed and hid evidence

@@ -1,0 +1,1 @@
+Belongs to the [[Navigators Guild VEE]] that we signed [[The contract VEE]] with to reimburse the [[Sovereign (Currency) VEE]] costs of reinstatement after we died in the[[Astral corridor VEE]]

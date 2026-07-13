@@ -1,2 +1,0 @@
-- Hideout of [[Asdel (The Exile)]] and his [[Acolyte]]s
-- Crashed into [[2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Adrestia]]

@@ -1,0 +1,9 @@
+- Previously [[Black Church VEE]] priest
+- loved [[Miria (Godvessel) VEE]]
+- friend of [[Riven (Seeker Guild Leader) VEE]]
+- Dragonborn
+- Posed as [[Quintus VEE]] in [[Lamprow (location) VEE]]
+- caused the [[Bloodkin VEE]] Plague
+- Exiled after violent event
+- Turned 4 [[Acolyte VEE]]s into powerful creatures (and 5th secret one)
+- made a pact with the[[Outer God of Blood VEE]]

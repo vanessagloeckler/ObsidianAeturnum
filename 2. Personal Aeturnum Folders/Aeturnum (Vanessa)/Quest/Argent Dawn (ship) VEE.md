@@ -1,0 +1,5 @@
+- Ancient Ship ([[Numerian]]?)
+- now destroyed
+- Contained [[Acacius VEE]]
+- 1000 years old
+- [[AEGIS VEE]] ship

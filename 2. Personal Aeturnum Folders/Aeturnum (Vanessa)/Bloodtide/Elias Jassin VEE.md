@@ -1,0 +1,4 @@
+- [[The Chairman VEE]]
+- Head of the [[Aldwych Academy VEE]] and [[Navigators Guild VEE]]
+- The one that enslaved the [[Riftborn VEE]]
+- Member of [[The Nine VEE]]

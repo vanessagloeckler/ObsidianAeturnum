@@ -1,0 +1,2 @@
+- Lead by [[Elias Jassin VEE]]
+- Trained young to send into the [[Astral corridor VEE]]

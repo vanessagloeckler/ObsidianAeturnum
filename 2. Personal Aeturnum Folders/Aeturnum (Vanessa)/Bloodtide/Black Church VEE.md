@@ -1,0 +1,6 @@
+- Infiltrated by the [[Cult of the Formless Mind VEE]]
+- [[High Exalt Lathriel VEE]] is leader
+- Based in [[Valentia (location) VEE]]
+- Organisation of [[Archdragon Medea VEE]] and [[God Vessel VEE]] [[Myria]]
+- Where [[Asdel (The Exile) VEE]], [[Riven (Seeker Guild Leader) VEE]] and the [[Acolyte VEE]]s come from
+- Black Labs created [[Agent 776 VEE]]

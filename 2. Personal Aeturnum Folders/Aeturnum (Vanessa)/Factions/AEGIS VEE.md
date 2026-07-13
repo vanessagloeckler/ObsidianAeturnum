@@ -1,0 +1,6 @@
+- Institiute for Paracausal Research
+- Predated temporal calamity that fractured Theora
+- Studied Magic
+- Developed experimental weapons
+- Developed [[(Project) Ember VEE]]
+- Research Facility [[Themis XIII VEE]]

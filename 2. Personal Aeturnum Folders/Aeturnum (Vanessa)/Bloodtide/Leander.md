@@ -1,3 +1,0 @@
-- Seeker scout
-- Veteran
-- Rescued from [[Lamprow (location)]]

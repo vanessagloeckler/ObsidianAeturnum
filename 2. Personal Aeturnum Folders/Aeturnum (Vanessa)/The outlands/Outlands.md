@@ -1,2 +1,0 @@
-- Location in [[Red Isles]]
-- contains [[Hemlock (Location)]]

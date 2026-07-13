@@ -1,0 +1,2 @@
+- Hideout of [[Asdel (The Exile) VEE]] and his [[Acolyte VEE]]s
+- Crashed into [[Adrestia VEE]]

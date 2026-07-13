@@ -1,0 +1,7 @@
+- leader of the [[Seekers Guild VEE]]
+- former spymaster of [[Black Church VEE]] in [[Valentia (location) VEE]]
+- former friend of [[Asdel (The Exile) VEE]]
+- tried to kill [[Miria (Godvessel) VEE]]
+- Silver haired elf, wears eye patch
+- saw [[Miria (Godvessel) VEE]] end the world
+- former friend of [[Asdel (The Exile) VEE]]

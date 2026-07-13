@@ -1,0 +1,6 @@
+- [[Outlands VEE]] guide in [[Hemlock (Location) VEE]]. 
+- Colleague of [[Wilfry VEE]] and [[Joanna VEE]]. 
+- One of the guides that found the [[Shrine to the Blood God VEE]]
+- Elf
+- Drunk
+- Had awful visions which [[Joanna VEE]] repressed

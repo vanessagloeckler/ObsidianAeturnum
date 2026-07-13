@@ -1,0 +1,6 @@
+- [[Black Church VEE]]
+- [[Valentia (location) VEE]]
+- [[Godvessel VEE]]
+- Loved by [[Asdel (The Exile) VEE]]
+- Manipulated by [[High Exalt Lathriel VEE]]
+- Killed [[Riftborn VEE]] in [[Astral corridor VEE]] (Prologue)

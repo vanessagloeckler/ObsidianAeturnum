@@ -1,0 +1,3 @@
+- [[Outlands VEE]] guide in [[Hemlock (Location) VEE]]. 
+- Colleague of [[Alvorn VEE]] and [[Joanna VEE]]. 
+- One of the guides that found the [[Shrine to the Blood God VEE]]

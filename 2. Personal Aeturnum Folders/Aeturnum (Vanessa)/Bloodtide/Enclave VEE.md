@@ -1,0 +1,5 @@
+- Magic Police
+- Serving [[The Nine VEE]]
+- Bureaucratic arm of [[The Nine VEE]]
+- enforces control over magic
+- Interplanar bureaucracy

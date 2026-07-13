@@ -1,0 +1,3 @@
+- Town in the [[Outlands VEE]]
+- Where the [[Bloodshrine]] appeared
+- later terrorized by [[The Hierophant]]

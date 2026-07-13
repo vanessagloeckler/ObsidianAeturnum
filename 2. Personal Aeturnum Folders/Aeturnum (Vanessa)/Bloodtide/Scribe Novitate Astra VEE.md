@@ -1,0 +1,1 @@
+- Killed by Eckra (player) mistaking her for [[Quintus VEE]] in [[Lamprow (location) VEE]]

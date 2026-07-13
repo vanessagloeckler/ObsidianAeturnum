@@ -1,0 +1,4 @@
+- Used by [[The Nine VEE]] to destroy [[Lamprow (location) VEE]] to stop the [[Bloodkin VEE]] infection
+- left a mist behind mutating [[Bloodkin VEE]]
+- Possibly [[AEGIS VEE]] related
+- Limited number - unsure how many [[The Nine VEE]] have left

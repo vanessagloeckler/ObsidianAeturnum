@@ -1,0 +1,8 @@
+- posed as dead mercenary girl
+- Encountered on quest to retrieve [[Meteorite VEE]]
+- Assassin 776
+- created by [[Black Church VEE]] in [[Valentia (location) VEE]]
+- left note
+- Black blood/Ichors
+- turns out to be [[Rosaria VEE]] as well
+- [[High Exalt Lathriel VEE]] turned her in to dragon with a vial of blood from an [[Elisabeth J.]]

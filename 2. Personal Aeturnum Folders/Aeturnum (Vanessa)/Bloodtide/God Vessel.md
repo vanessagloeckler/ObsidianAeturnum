@@ -1,1 +1,0 @@
-Referring to [[(Project) Ember]] and [[Archdragon Medea]]

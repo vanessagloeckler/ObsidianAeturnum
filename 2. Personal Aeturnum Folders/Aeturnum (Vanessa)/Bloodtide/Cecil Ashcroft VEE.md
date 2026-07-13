@@ -1,0 +1,2 @@
+- Magus First Rank
+- Investigated old world ship mind [[Acacius VEE]] and found [[AEGIS VEE]] facility [[Themis XIII VEE]]

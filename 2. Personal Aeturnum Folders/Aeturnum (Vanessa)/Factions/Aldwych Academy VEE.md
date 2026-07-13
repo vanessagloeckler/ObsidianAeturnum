@@ -1,0 +1,6 @@
+- Lead by chairman [[Elias Jassin VEE]]
+- Students selected by [[The Nine VEE]]
+- [[Navigators Guild VEE]] is part of it
+- On island south of [[Adrestia VEE]]
+- Where [[Riftborn VEE]] are ressurrected
+- Holds relic from [[Justicar Guild VEE]]

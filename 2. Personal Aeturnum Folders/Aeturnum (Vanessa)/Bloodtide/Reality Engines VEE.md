@@ -1,0 +1,4 @@
+- Found in [[Velstadt VEE]]
+- siphoning energy from [[Astral corridor VEE]]
+- Simulating environments
+- based on [[Astral corridor VEE]] fissures

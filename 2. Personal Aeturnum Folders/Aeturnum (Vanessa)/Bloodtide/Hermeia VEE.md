@@ -1,0 +1,2 @@
+- connected to lighthouse near [[Aldwych Academy VEE]]
+- [[Light of Hermeia VEE]]

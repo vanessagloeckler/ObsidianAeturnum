@@ -1,3 +1,0 @@
-- Leader of the [[Justicar Guild]]
-- Red Hair
-- Arm replaced with a mechanical one

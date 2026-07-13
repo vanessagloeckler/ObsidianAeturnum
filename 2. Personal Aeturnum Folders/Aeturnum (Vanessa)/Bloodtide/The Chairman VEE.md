@@ -1,0 +1,3 @@
+- [[Elias Jassin VEE]]
+- Talked to [[Lucille Duras VEE]]
+- Chairman of [[Aldwych Academy VEE]]

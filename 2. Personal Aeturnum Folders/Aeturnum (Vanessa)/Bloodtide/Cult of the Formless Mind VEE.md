@@ -1,0 +1,5 @@
+- Connected to the [[Shrine to the Blood God VEE]]
+- Infiltrated [[Black Church VEE]]
+- Initially worshipped [[The Witness VEE]]
+- until [[The Hierophant]] took over
+- Created [[Dreamers]]

@@ -1,0 +1,3 @@
+- [[Lamprow (location) VEE]]'s alchemist
+- dead
+- killed before [[Bloodkin VEE]] attack

@@ -1,0 +1,1 @@
+- Fog left in [[Lamprow (location) VEE]] after [[Antimatter Lance VEE]]

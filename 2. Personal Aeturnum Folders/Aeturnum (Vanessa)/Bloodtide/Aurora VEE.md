@@ -1,0 +1,6 @@
+- popular singer Drow
+- has following
+- has removable tech eyes implanted in several PCs -> "[[mind killer]] condition"
+-  part (potentially) of a [[Lyria VEE]]/drug craze
+- she was investigating surge infections
+- drug to spread [[Bloodkin VEE]] infection at [[Paradise Club]] in the [[Undercity]]

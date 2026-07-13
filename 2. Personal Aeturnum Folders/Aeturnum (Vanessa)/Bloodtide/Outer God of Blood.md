@@ -1,5 +1,0 @@
-- Pale woman, white hair, red eyes
-- Appeared in Iron maiden
-- Struuck deal with [[Asdel (The Exile)]]
-- [[Bloodshrine]] found in [[Outlands]] near [[Hemlock (Location)]]
-- ' Lord of Crimson Tides'

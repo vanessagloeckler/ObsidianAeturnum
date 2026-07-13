@@ -1,3 +1,0 @@
-- Escaped [[Mechanist Guild]] mechanists
-- Ran from [[Foundry]]
-- [[Undercity]]

@@ -1,2 +1,0 @@
-- Mentioned by [[Lucille Duras]]
-- Mentioned on Forbidden site on the webpage

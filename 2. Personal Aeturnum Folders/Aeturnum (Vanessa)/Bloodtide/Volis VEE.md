@@ -1,0 +1,2 @@
+- [[Acolyte VEE]] of [[Asdel (The Exile) VEE]]
+- Shadow assassin

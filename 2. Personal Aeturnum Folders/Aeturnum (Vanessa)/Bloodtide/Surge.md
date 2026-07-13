@@ -1,5 +1,0 @@
-- Drug produced by [[Tybar Syndicate]]
-- from tainted [[Lamprow (location)]] blood
-- made in chem plant within Paradise chem parlour
-- Conspiracy with connections to highest levels of [[2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Adrestia]]n society
-- (nah it was just [[Ves Tal'Shen]] with sister issues)

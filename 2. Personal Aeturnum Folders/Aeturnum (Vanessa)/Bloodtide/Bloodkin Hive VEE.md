@@ -1,0 +1,4 @@
+- In [[Velstadt VEE]]
+- [[Bloodkin VEE]]
+- large heart and fleshy walls
+- Destroyed by [[Riftborn VEE]]

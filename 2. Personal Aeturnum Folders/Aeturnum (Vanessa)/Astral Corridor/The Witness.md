@@ -1,2 +1,0 @@
-- New god or at least known after [[Lucille Duras]] dissapeared
-- Who brings [[Riftborn]] back from death

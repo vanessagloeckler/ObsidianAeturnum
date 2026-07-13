@@ -1,3 +1,0 @@
-- last mayor of [[Lamprow (location)]]
-- Decendant of [[Juliana Thorton (mayor)]]
-- Knew about [[Bloodkin]] in the forest but kept it secret to avoid panic

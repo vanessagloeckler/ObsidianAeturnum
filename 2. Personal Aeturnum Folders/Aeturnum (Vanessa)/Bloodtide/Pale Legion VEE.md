@@ -1,0 +1,4 @@
+- contains 'Damned Third' Regiment
+- fended off [[Bloodkin VEE]] attack on [[Mortimer Hall VEE]] in [[Lamprow (location) VEE]]
+- Hommunculi psyconioically bound to [[The Nine VEE]] in order to keep peace
+- (not related to pale doctor)

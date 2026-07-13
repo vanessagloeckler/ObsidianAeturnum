@@ -1,0 +1,2 @@
+- Seargant at the entry to [[Hemlock (Location) VEE]]
+- Guards the entry

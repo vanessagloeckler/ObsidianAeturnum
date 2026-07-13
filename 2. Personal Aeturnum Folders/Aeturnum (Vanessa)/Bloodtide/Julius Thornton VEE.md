@@ -1,0 +1,3 @@
+- last mayor of [[Lamprow (location) VEE]]
+- Decendant of [[Juliana Thorton (mayor) VEE]]
+- Knew about [[Bloodkin VEE]] in the forest but kept it secret to avoid panic

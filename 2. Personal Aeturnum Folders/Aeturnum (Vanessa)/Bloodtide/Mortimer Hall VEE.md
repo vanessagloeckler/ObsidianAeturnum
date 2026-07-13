@@ -1,0 +1,4 @@
+- was in [[Lamprow (location) VEE]]
+- Base of operations for defense against [[Bloodkin VEE]]
+- Town center
+- Hidden ritual chamber inside archives where [[Lorn - God of Harvest VEE]] was kept

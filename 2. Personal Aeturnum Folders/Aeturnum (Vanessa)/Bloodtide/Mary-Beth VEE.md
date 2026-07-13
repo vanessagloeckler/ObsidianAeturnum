@@ -1,0 +1,4 @@
+- Orc farmer
+- kind, optimistic
+- Rescued in [[Lamprow (location) VEE]]
+- Infected with [[Bloodkin VEE]] virus by [[Elisa VEE]]

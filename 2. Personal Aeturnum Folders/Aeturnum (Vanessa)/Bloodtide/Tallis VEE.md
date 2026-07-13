@@ -1,0 +1,3 @@
+- Tiefling sellsword
+- Rescued by [[Justicar Guild VEE]] in [[Lamprow (location) VEE]]
+- pulverised by large [[Bloodkin VEE]] beast in [[Lamprow (location) VEE]]

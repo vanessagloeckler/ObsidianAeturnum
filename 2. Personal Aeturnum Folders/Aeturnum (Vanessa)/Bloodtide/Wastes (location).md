@@ -1,6 +1,0 @@
-- [[Red Isles]]
-- Near [[2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Adrestia]]
-- Seismic activity
-- Previously [[Lamprow (location)]] before nuked by [[2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/The Nine]] with [[Antimatter Lance]]
-- Temporal interference
-- Evershifting landscape

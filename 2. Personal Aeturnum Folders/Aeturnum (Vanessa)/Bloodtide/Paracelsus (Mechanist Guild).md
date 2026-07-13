@@ -1,2 +1,0 @@
-- [[Mechanist Guild]] leader
-- warforged

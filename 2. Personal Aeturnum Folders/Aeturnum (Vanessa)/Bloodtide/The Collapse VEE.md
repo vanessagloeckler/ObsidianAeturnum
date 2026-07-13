@@ -1,0 +1,3 @@
+- the event that fractured the world and the [[Red Isles VEE]]
+- temporal seals protected [[Themis XIII VEE]] from it
+- Brought different timelines together

@@ -1,6 +1,0 @@
-- Former mayor of [[Lamprow (location)]] 
-- Bound [[Lorn - God of Harvest]] and fed his regenerating flesh to [[Lamprow (location)]] citizens
-- Left a journal with the rituals used
-- created a temporal wound exploited by [[Asdel (The Exile)]] to create [[Bloodkin]]
-- Some pages made it to [[2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Adrestia]]  
-- [[Julius Thornton]]'s ancestor

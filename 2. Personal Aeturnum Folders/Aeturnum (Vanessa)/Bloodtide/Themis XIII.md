@@ -1,4 +1,0 @@
-- [[AEGIS]] research facility
-- Bloodtide III
-- contained [[(Project) Ember]]
-- protected from effects of [[The Collapse]] by temporal seals

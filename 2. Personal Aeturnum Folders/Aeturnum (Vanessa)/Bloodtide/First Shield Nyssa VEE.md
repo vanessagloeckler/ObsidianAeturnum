@@ -1,0 +1,4 @@
+- First Blade, Shield
+- [[Justicar Guild VEE]]
+- disappeared during recon mission 
+- Turned into grotesque transmitter to draw [[Riftborn VEE]] into trap

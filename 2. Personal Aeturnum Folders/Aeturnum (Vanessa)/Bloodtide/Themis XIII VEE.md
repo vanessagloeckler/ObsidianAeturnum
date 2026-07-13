@@ -1,0 +1,4 @@
+- [[AEGIS VEE]] research facility
+- Bloodtide III
+- contained [[(Project) Ember VEE]]
+- protected from effects of [[The Collapse VEE]] by temporal seals

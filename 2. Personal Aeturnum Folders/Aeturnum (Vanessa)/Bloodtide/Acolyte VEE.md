@@ -1,0 +1,8 @@
+- Acolytes to [[Asdel (The Exile) VEE]]
+- Now dead
+- 5 of them
+	- [[Ageron VEE]]
+	- [[Volis VEE]]
+	- [[Serran VEE]]
+	- [[Manus VEE]]
+	- [[Elisa VEE]]

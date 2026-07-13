@@ -1,6 +1,0 @@
-- Lead by chairman [[Elias Jassin]]
-- Students selected by [[2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/The Nine]]
-- [[Navigators Guild]] is part of it
-- On island south of [[2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Bloodtide/Adrestia]]
-- Where [[Riftborn]] are ressurrected
-- Holds relic from [[Justicar Guild]]

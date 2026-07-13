@@ -1,0 +1,3 @@
+- Leader of the [[Justicar Guild VEE]]
+- Red Hair
+- Arm replaced with a mechanical one

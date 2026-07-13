@@ -1,6 +1,0 @@
-- Main city we are in
-- Above multiversal nexus [[Astral corridor]]
-- Layers of [[Undercity]]
-- Deeper layers are more ancient
-- Ruled by [[2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/The Nine]]
-- In the [[Red Isles]]

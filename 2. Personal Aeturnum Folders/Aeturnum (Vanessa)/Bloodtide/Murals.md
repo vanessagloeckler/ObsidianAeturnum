@@ -1,4 +1,0 @@
-- In [[Astral corridor]]
-- Inverted Black Pyramids often a sign for [[2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/The Nine]]
-- Showing a ritual
-- Nine attendants to the [[The Witness]]' coffin

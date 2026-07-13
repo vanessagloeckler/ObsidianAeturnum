@@ -1,2 +1,0 @@
-- [[Acolyte]] of [[Asdel (The Exile)]]
-- Shadow assassin

@@ -1,0 +1,8 @@
+- Elven healer
+- Church of [[Velisara (God) VEE]]
+- forbidden to carry weapons
+- secret [[Outer God of Blood VEE]] cultist
+- Infecting people
+- Faithful disciple to [[Asdel (The Exile) VEE]] in disguise as [[Quintus VEE]]
+- Helped orchestrate the [[Bloodkin VEE]] outbreak
+- 5th secret [[Acolyte VEE]] 

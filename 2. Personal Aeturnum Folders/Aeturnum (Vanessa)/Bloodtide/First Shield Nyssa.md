@@ -1,4 +1,0 @@
-- First Blade, Shield
-- [[Justicar Guild]]
-- disappeared during recon mission 
-- Turned into grotesque transmitter to draw [[Riftborn]] into trap

@@ -1,5 +1,0 @@
-- Ancient Ship ([[Numerian]]?)
-- now destroyed
-- Contained [[Acacius]]
-- 1000 years old
-- [[AEGIS]] ship

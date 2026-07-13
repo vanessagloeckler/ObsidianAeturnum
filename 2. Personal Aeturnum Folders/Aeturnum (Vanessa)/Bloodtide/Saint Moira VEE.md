@@ -1,0 +1,4 @@
+- [[Lamprow (location) VEE]] noted figure
+- Discovered [[Old World]] [[Walker]]
+- Was buried in it
+- [[Walker]] was used in defense of [[Lamprow (location) VEE]]

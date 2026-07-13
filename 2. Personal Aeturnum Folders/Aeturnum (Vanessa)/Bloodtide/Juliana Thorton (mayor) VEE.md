@@ -1,0 +1,6 @@
+- Former mayor of [[Lamprow (location) VEE]] 
+- Bound [[Lorn - God of Harvest VEE]] and fed his regenerating flesh to [[Lamprow (location) VEE]] citizens
+- Left a journal with the rituals used
+- created a temporal wound exploited by [[Asdel (The Exile) VEE]] to create [[Bloodkin VEE]]
+- Some pages made it to [[Adrestia VEE]]  
+- [[Julius Thornton VEE]]'s ancestor

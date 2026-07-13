@@ -1,0 +1,3 @@
+- Geneticist (Chief)
+- [[AEGIS VEE]] employee
+- Cloned himself several times

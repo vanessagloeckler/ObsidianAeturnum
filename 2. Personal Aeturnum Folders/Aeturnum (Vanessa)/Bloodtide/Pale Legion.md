@@ -1,4 +1,0 @@
-- contains 'Damned Third' Regiment
-- fended off [[Bloodkin]] attack on [[Mortimer Hall]] in [[Lamprow (location)]]
-- Hommunculi psyconioically bound to [[2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/The Nine]] in order to keep peace
-- (not related to pale doctor)

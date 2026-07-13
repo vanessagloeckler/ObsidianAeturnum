@@ -1,1 +1,0 @@
-- Fog left in [[Lamprow (location)]] after [[Antimatter Lance]]

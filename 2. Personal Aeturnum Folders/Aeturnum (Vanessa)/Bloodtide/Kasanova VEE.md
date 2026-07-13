@@ -1,0 +1,5 @@
+- [[AEGIS VEE]] scientist
+- discarderd his humanity entirely
+-  [[Engram]] contained in clockwork body
+- Faded projection of his soul created by [[Pendanant Cradle VEE]] as means of eternal torture/punishment
+- Has several bodies

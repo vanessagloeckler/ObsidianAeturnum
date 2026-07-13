@@ -1,0 +1,4 @@
+- Librarian that is said to be the heart of the [[Occultist Guild VEE]]
+- Eldritch being?
+- Casts level 9 spells
+- Skeletal dog named [[Kahdaj Kandera (Occultist leader) VEE]] (also has tentacles)

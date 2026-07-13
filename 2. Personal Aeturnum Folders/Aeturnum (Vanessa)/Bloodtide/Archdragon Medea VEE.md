@@ -1,0 +1,5 @@
+- Archdragon
+- Fragments of Medea mentioned
+- Supposedly being eaten in [[Velstadt VEE]]
+- Supposedly related to [[Miria (Godvessel) VEE]]
+- Supposedly their [[Godflesh VEE]] is used by [[Black Church VEE]]

@@ -1,0 +1,2 @@
+- New god or at least known after [[Lucille Duras VEE]] dissapeared
+- Who brings [[Riftborn VEE]] back from death

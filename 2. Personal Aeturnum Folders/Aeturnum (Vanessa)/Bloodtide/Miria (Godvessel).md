@@ -1,6 +1,0 @@
-- [[Black Church]]
-- [[Valentia (location)]]
-- [[Godvessel]]
-- Loved by [[Asdel (The Exile)]]
-- Manipulated by [[High Exalt Lathriel]]
-- Killed [[Riftborn]] in [[Astral corridor]] (Prologue)

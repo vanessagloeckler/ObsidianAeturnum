@@ -1,0 +1,4 @@
+- In [[Astral corridor VEE]]
+- Inverted Black Pyramids often a sign for [[The Nine VEE]]
+- Showing a ritual
+- Nine attendants to the [[The Witness VEE]]' coffin

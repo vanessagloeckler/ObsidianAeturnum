@@ -1,0 +1,2 @@
+- Location in [[Red Isles VEE]]
+- contains [[Hemlock (Location) VEE]]

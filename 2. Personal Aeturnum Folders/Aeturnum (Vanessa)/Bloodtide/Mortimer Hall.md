@@ -1,4 +1,0 @@
-- was in [[Lamprow (location)]]
-- Base of operations for defense against [[Bloodkin]]
-- Town center
-- Hidden ritual chamber inside archives where [[Lorn - God of Harvest]] was kept

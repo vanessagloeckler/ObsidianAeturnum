@@ -1,0 +1,6 @@
+- [[Red Isles VEE]]
+- Near [[Adrestia VEE]]
+- Seismic activity
+- Previously [[Lamprow (location) VEE]] before nuked by [[The Nine VEE]] with [[Antimatter Lance VEE]]
+- Temporal interference
+- Evershifting landscape

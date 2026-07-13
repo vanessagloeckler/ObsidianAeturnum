@@ -1,3 +1,0 @@
-- Geneticist (Chief)
-- [[AEGIS]] employee
-- Cloned himself several times

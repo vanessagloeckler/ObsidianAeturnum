@@ -1,4 +1,0 @@
-- In [[Velstadt]]
-- [[Bloodkin]]
-- large heart and fleshy walls
-- Destroyed by [[Riftborn]]

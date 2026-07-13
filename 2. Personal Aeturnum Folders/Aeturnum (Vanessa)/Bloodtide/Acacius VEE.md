@@ -1,0 +1,7 @@
+- AI ship mind
+- Recovered from [[Argent Dawn (ship) VEE]]
+- Not nice! Don't trust them!
+- Old world [[Numerian]]
+- Created from fusion of organic and mechanical systems
+- Info on [[AEGIS VEE]]
+- vexxing

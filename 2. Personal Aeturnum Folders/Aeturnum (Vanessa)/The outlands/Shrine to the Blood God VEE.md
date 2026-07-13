@@ -1,0 +1,1 @@
+Appeared near [[Hemlock (Location) VEE]] dedicated to [[Outer God of Blood VEE]]. We were told it would peacefully dissapear again should we not "pick at the scab". Looking like a Cairn.

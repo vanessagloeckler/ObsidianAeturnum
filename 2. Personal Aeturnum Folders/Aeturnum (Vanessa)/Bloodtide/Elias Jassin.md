@@ -1,4 +1,0 @@
-- [[The Chairman]]
-- Head of the [[Aldwych Academy]] and [[Navigators Guild]]
-- The one that enslaved the [[Riftborn]]
-- Member of [[2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/The Nine]]

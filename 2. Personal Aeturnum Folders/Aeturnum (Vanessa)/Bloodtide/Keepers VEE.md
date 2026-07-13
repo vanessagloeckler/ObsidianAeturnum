@@ -1,0 +1,7 @@
+- Powerful mages with a gift to traverse the [[Astral corridor VEE]]
+- Assigned to specific cities
+- most went missing
+- [[Alexander Carvelle VEE]] (4th)
+- [[Elisabeth Hall VEE]] (7th)
+- [[Lucille Duras VEE]] (9th) (Apprentice)
+- Members of an ancient order

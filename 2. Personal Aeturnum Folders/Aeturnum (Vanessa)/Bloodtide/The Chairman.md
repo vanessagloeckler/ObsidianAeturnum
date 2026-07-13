@@ -1,3 +1,0 @@
-- [[Elias Jassin]]
-- Talked to [[Lucille Duras]]
-- Chairman of [[Aldwych Academy]]

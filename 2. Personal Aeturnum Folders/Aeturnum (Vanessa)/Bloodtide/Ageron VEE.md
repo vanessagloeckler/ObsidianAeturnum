@@ -1,0 +1,5 @@
+- [[Acolyte VEE]] of [[Asdel (The Exile) VEE]]
+- [[Blood Mage VEE]]
+- Used  a ritual at [[Lamprow (location) VEE]] to turn prisoners into [[Bloodkin VEE]]
+- used cursed blood vials
+- Stone circle north of [[Lamprow (location) VEE]]

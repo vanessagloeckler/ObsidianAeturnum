@@ -1,0 +1,4 @@
+- AI at the [[AEGIS VEE]] laboratory [[Themis XIII VEE]]
+- abominant Intelligence burried by [[The Collapse VEE]]
+- Wanted to keep [[Riftborn VEE]] from getting [[(Project) Ember VEE]]
+- Released rest of temporal seals at final attempt plummeting facility & [[Riftborn VEE]] to distant future

@@ -1,4 +1,0 @@
-- [[Kastia Tal'Shen]]' s partner
-- Arch-Cogitator of [[Mechanist Guild]]
-- Elf
-- Strong

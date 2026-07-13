@@ -1,0 +1,3 @@
+- Probably the flesh of [[Archdragon Medea VEE]]
+- Used by [[Black Church VEE]] in order to graft it onto Paladins like [[Miria (Godvessel) VEE]] and [[Asdel (The Exile) VEE]] as well as his [[Acolyte VEE]]s
+- Makes them immortal

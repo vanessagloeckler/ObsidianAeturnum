@@ -1,5 +1,0 @@
-- Magic Police
-- Serving [[2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/The Nine]]
-- Bureaucratic arm of [[2. Personal Aeturnum Folders/Aeturnum (Vanessa)/Factions/The Nine]]
-- enforces control over magic
-- Interplanar bureaucracy

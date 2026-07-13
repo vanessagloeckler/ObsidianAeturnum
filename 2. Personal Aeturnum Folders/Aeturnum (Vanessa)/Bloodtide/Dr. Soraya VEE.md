@@ -1,0 +1,2 @@
+- [[AEGIS VEE]] doctor on the [[Minerva Project]]
+- with [[Dr. Minerva VEE]] and [[Dr. Yulia VEE]]

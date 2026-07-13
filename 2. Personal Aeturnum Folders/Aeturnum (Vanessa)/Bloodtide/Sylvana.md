@@ -1,1 +1,0 @@
-- Druid of the [[Circle of the Fundament]]
