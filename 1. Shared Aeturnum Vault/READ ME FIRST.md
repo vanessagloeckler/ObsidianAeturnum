@@ -4,6 +4,7 @@ Welcome to the Aeturnum Shared Knowledge Base! This is a collection of notes fro
 
 **Page Contents**
 - [[#Guide to the Folders]]
+- [[#Recording Player Characters]]
 - [[#Contributions]]
 - [[#A Note on AI]]
 - [[#Formatting]]
@@ -34,6 +35,15 @@ The owners of the currently attached folders are:
 Every file in our personal folders will have our initials in the title, to make sure that they're clearly separate (e.g., Nathan's file on Adrestia is called 'Adrestia NS', Vanessa's file is called 'Adrestia VEE', and the shared file is just called 'Adrestia'). Please keep an eye out on the file titles to make sure that you haven't strayed into the wrong area. The links should keep you within one area, but accidents can happen. 
 
 **A note for editors:** If you have editing access, please only edit your own personal files and files in the Shared Aeturnum Vault, unless you have permission from that folder's owner. Everything is backed up and can be reverted to a prior save, but better safe than sorry!
+# Recording Player Characters
+
+We would like to create a record of all the player characters (PC) that have graced Aeturnum. We are collecting your stories and compiling them into two files; [[The Riftborn, Remembered]] for Campaign 1, and [[Wayfarers Worldwide]] for Campaign 2. Here you can find details on every PC that we've recorded so far. If you would like to contribute details about your character, or other characters you can remember vividly, please send us a message and we'll add your details. 
+
+For the sake of privacy, we will not include the names or details of any player. 
+
+When it comes to the events of a quest board or narrative, we will avoid recording the actions of a specific PC. This is because different tables might make different decisions, which would create narrative/temporal confusion. For example, if on the first week of Luna's quest board, the party chooses to ally themselves with an NPC, then the next week, a different party chooses to kill that same NPC, it creates a distortion in the narrative. While one or two distortions can be overlooked, the more they build up, the more confusing it gets. This is why we'll only record the confirmable details of a quest board across multiple tables. 
+
+When it comes to major events, such as the votes of the Hunter's Council, we will record which PCs were involved, for posterity. 
 # Contributions
 
 This vault was built by:
@@ -54,7 +64,9 @@ We ask that any editors of this knowledge base do not upload any AI generated im
 
 AI is bad for the environment, trained on stolen data and IP content. It puts actual creatives out of work in the name of corporate greed, and reenforces all the discriminatory biases of the people that designed it and the source data that fed its algorithm. It will attempt to make a dark-skinned person appear with a lighter skin tone, and will identify queer people as inherently deviant, if it acknowledges that we exist at all. 
 
-AI generated images and videos can also cause distress to some viewers.  
+AI generated images and videos can also cause significant distress to some viewers.  
+
+**Disclaimer:** Not all AI tools are bad. Used in the proper fashion by trained professionals, AI tools can be used for wonderful things, particularly within scientific and medical research. 
 # Formatting
 
 Everything below is a guide on how to format a file in Obsidian to make it easy to navigate. It's just for the reference of editors, but feel free to read if you're interested in how Obsidian files work. 

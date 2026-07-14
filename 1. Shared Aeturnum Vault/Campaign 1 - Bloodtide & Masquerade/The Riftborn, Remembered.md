@@ -1,14 +1,99 @@
----
-Tags:
-  - Other
----
-Below is a list of The Riftborn - the player characters from [[03. Elements from Aeturnum 1 NS|Aeturnum 1]] - recorded here for posterity. I have the details of the 86 Riftborn I met, played, or heard of. If you have more information you would like to add, please DM it to me on Discord and I'll add it. 
+Below is a list of The Riftborn - the player characters from Campaign 1 - recorded here for posterity. 
 
-Please do NOT edit this doc (or any doc within the 'Aeturnum (Nathan)' section) yourself. See [[00. READ ME FIRST NS|Read Me]] for more details.
+Nathan has uploaded an initial list of all the PCs that they recorded during their time playing, with a partial description based on their experience. But we would love to add more details and characters, till this page is an exhaustive list. If you would like to contribute details about your character, or other characters you can remember vividly, please send us a message and we'll add your details. If you would like your character removed entirely, please let us know and we'll remove it. 
 
-My characters were Amelia Maizing, Colt Paleson, and Clapham, which is why their sections are more detailed, but I'd absolutely love to see/add similar summaries for other characters! Where I don't know the details of characters I've avoided making any assumptions, but I have declared to the best of my knowledge whether they lived or died. 
+While we aren't putting any restrictions on how much information to include, we recommend aiming for about 250 words. Check out [[#Amelia Maizing]] for an example.
 
-Where information is missing, they will be characters I met during my early days, before I worked out how to take proper notes, or else a character that I've learned about second hand.
+For the sake of privacy, we will not include the names or details of any player.
+
+**Contents**
+- [[#Aeronwen]]
+- [[#Ageratos]]
+- [[#Alanna]]
+- [[#Alexandrite]]
+- [[#Alphonsus]]
+- [[#Amelia Maizing]]
+- [[#Antoni]]
+- [[#Art]]
+- [[#Bagheera]]
+- [[#Badhbh]]
+- [[#Bernard]]
+- [[#Bison]]
+- [[#Blitz]]
+- [[#Cassidy]]
+- [[#Captain F]]
+- [[#Colt Paleson]]
+- [[#Clank]]
+- [[#Clapham & Twinkletoes]]
+- [[#Cylus]]
+- [[#Cypher]]
+- [[#Cyrine]]
+- [[#Delphine]]
+- [[#Effy]]
+- [[#Eurydice]]
+- [[#Fayne]]
+- [[#Gizmo]]
+- [[#Gromli Brightstone]]
+- [[#Gwen]]
+- [[#Gzheoeoffph, Lord of Bones]]
+- [[#Haliax]]
+- [[#Hyolstor Heorot]]
+- [[#Igor]]
+- [[#Indra]]
+- [[#Inquisitor Phyrrus]]
+- [[#Itch]]
+- [[#Kekeldra]]
+- [[#Kelaric]]
+- [[#Kida]]
+- [[#Kira LaDrin]]
+- [[#Klump the Flumpf]]
+- [[#Lad]]
+- [[#Lilah]]
+- [[#Lillory]]
+- [[#Lusix]]
+- [[#Maeren]]
+- [[#Marroshok]]
+- [[#Marry]]
+- [[#Miss Swinburn]]
+- [[#Molly]]
+- [[#Naia]]
+- [[#Novus]]
+- [[#Nut]]
+- [[#Nyssa]]
+- [[#Nyriel]]
+- [[#Orlaith]]
+- [[#Pallor]]
+- [[#Piper Buckley]]
+- [[#Prima]]
+- [[#Professor Polaris]]
+- [[#Quincy (Bard)]]
+- [[#Quincy (Warlock)]]
+- [[#Rain Fallwind-Veilthorn]]
+- [[#Romanov (and Maeve)]]
+- [[#Rosie]]
+- [[#Sav]]
+- [[#Scrud]]
+- [[#Seraphima]]
+- [[#Sir Reginald]]
+- [[#Skins]]
+- [[#Snowberry]]
+- [[#Speria]]
+- [[#Splat]]
+- [[#Stig]]
+- [[#Tenacity]]
+- [[#Thorny Bustcastle]]
+- [[#Thrum]]
+- [[#Thursday]]
+- [[#Thyra]]
+- [[#Torrin]]
+- [[#Trip Skipper]]
+- [[#Unknown Ranger]]
+- [[#Wander]]
+- [[#Waylon]]
+- [[#Widget]]
+- [[#Zerxus Fallwind-Veilthorn]]
+- [[#Zona]]
+- [[#Zurella]]
 # Aeronwen
 
 Dwarf Ranger
@@ -46,7 +131,7 @@ Human Battle Master Fighter
 
 An elderly, ghostly white woman that was once the Queen of Blue Moon, a warrior nation where it was believed that the only good death was a death in battle. Amelia died in bed, from cancer, and was brought to the Astral Corridor due to her fury that no warrior ever bested her. 
 
-With no memory, Amelia didn't know why she had such talent for warfare, but realised that her old, frail body was not suited to the work ahead of her. Amelia sought out extensive cybernetic implants, to the point where her body was more machine than organic, and joined the ranks of Eidolon. Though she couldn't remember her life, she knew she had children from the stretch marks that covered her body, and she feared that her talent for combat was incompatible with being a good mother. Through Elaric Valent, who she came to love like a grandson, she came to discover that this was not true. 
+With no memory, Amelia didn't know why she had such talent for warfare, but realised that her old, frail body was not suited to the work ahead of her. Amelia sought out extensive cybernetic implants, to the point where her body was more machine than organic, and joined the ranks of Eidolon. Though she couldn't remember her life, she knew she had children from the stretch marks that covered her body, and she feared that her talent for combat was incompatible with being a good mother. Through Elaric Valent, who she came to love like a grandson, she discovered that this was not true. 
 
 Amelia survived the events of Aeturnum 1, and was returned to her own world, accepting that there were other noble ways to die.
 # Antoni
@@ -108,9 +193,9 @@ Cause of Death: Bravery/Stupidity
 
 Colt Paleson was a farm boy turned soldier, whose enthusiasm for a good, fair fight meant he could proudly serve his kingdom of Blue Moon. He was cut down in battle, and was brought to the Astral Corridor to seek out further fights to win.
 
-Unfamiliar with the concept of magic, especially healing magic, Colt slowly came to the conclusion that he must be immortal, because he didn't understand that every time he suffered a wound that should have been fatal, one of his allies was healing him again. He slowly rapidly became more unravelled, doing increasingly riskier things under the notion that he simply could not die, even if he did fail. 
+Unfamiliar with the concept of magic, especially healing magic, Colt slowly came to the conclusion that he must be immortal, because he didn't understand that every time he suffered a wound that should have been fatal, one of his allies was healing him again. He rapidly became more unravelled, doing increasingly riskier things under the notion that he simply could not die, even if he did fail. 
 
-This came to an end during the events of Lonely Hearts, when Colt made the decision to engage a dangerous enemy called a Dreamer in 1 v 1 combat, locking himself in the room with it so that the rest of his team could finish the mission they were on. Though he lasted several rounds, and his team were successful, they could not get to him in time to heal the fatal wounds of the Dreamer, who was later killed by Rain Fallwind-Veilthorn. When he met The Witness and realised that he was not immortal, Colt's sense of self dissolved, and he chose to accept the final death.
+This came to an end during the events of Lonely Hearts, when Colt made the decision to engage a dangerous enemy called a Dreamer in 1 v 1 combat, locking himself in the room with it so that the rest of his team could finish the mission they were on. Though he lasted several rounds, and his team were successful, they could not get to him in time to heal the fatal wounds of the Dreamer, who was later killed by Rain Fallwind-Veilthorn. When he met The Witness and realised that he was not immortal, Colt's sense of self dissolved, and faded into the final death.
 # Clank
 
 Dragonborn Fighter
@@ -120,7 +205,7 @@ Clank followed orders and got the job done, to the best of his ability. He was a
 
 Elf Beast Master Ranger
 
-"Here you go, you daft tart." - Clapham, to mafia boss [[Speakers NS|Lady Zarissa]], while offering her a rollie that had healing properties. 
+"Here you go, you daft tart." - Clapham, to mafia boss Lady Zarissa, while offering her a rollie
 
 Time of Death: The Promise
 Cause of Death: Arrogance and a grenade in the mouth
