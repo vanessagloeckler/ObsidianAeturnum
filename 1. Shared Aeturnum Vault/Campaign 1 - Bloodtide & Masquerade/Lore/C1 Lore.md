@@ -53,7 +53,7 @@ An alternate plane of reality that contains great power, sought by both [[C1 Ant
 
 Powerful and (usually) heroic entities that had been torn from their worlds at the point of their deaths, and brought through the Astral Corridor to Adrestia by The Witness/Jacquetta Iverson. All Aeturnum 1 PCs were Riftborn. With the end of Aeturnum 1, all Riftborn vanished from the world, returned to their own realities. 
 
-**META NOTE:** It is currently unclear whether the existence of the Riftborn is remembered by anyone other than [[Elaric Valent NS]]. 
+**META NOTE:** It is currently unclear whether the existence of the Riftborn is remembered by anyone other than [[Wayfarer NPCs#Elaric Valent|Elaric Valent]]. 
 # The Witness
 
 A God-like entity with dominion over death, responsible for bringing the Riftborn to this world. It was created by a fragment of Jacquetta Iverson's power, which [[C1 Antagonists#Elias Jassen|Elias Jassen]] manipulated for his own benefit. It had some connection to the Astral corridor, and to the vampires of Lumeria. 

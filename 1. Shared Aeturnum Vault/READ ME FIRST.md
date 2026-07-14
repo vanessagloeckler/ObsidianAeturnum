@@ -1,9 +1,10 @@
 Welcome to the Aeturnum Shared Knowledge Base! This is a collection of notes from a bunch of Aeturnum players designed to fuel discussions about the story, the lore, and the world of Aeturnum. Please make sure to read this entire page before going any further, just to make sure that you don't accidentally see any spoilers that you might be seeking to avoid.
 
-**PLEASE BE AWARE:** This is a completely unofficial project developed by the fans, and has absolutely zero input from the Aeturnum GMs or any member of the Arcanist's Tavern staff. Anything you find here may be assumptions, only a partial truth, or completely incorrect. The GM's word is always the gospel truth, and if Luna declares that every single word of this knowledge base wrong, then every single word of this knowledge base is wrong. 
+**PLEASE BE AWARE:** This is a completely unofficial project developed by the fans, and has absolutely zero input from the Aeturnum GMs or any member of the Arcanist's Tavern staff. Anything you find here may be assumptions, only a partial truth, or completely incorrect. The GM's word is always the gospel truth, and if Luna declares that every single word of this knowledge base is wrong, then every single word of this knowledge base is wrong. 
 
 **Page Contents**
 - [[#Guide to the Folders]]
+- [[#Spoilers and the Graph View]]
 - [[#Recording Player Characters]]
 - [[#Contributions]]
 - [[#A Note on AI]]
@@ -13,7 +14,7 @@ Welcome to the Aeturnum Shared Knowledge Base! This is a collection of notes fro
 The Obsidian is divided into two segments, the Shared Aeturnum Vault and the Personal Aeturnum Folders.
 ## Shared Aeturnum Vault
 
-This is where you will want to spend most of your time. It is the pooled knowledge of all contributors, with a focus on things that we know to be more or less true (e.g., "Scarlet is a red haired human"), while avoiding anything subjective (e.g., "Scarlet is a bit of a bit-ka") or speculative ("Scarlet is actually the Hierophant"). If something is unconfirmed or speculative, but a common thought amongst players, we will do our best to indicate it as such.
+This is where you will want to spend most of your time. It is the pooled knowledge of all contributors, with a focus on things that we know to be more or less true (e.g., "Scarlet is a red haired human"), while avoiding anything subjective (e.g., "Scarlet is a bit of a bit-ka") or speculative (e.g., "Scarlet is actually the Hierophant"). If something is unconfirmed or speculative, but a common thought amongst players, we will do our best to indicate it as such.
 
 To avoid quest board spoilers, we will not upload any information to do with quest boards till after the final event date for the month's circulation has passed. 
 
@@ -35,6 +36,11 @@ The owners of the currently attached folders are:
 Every file in our personal folders will have our initials in the title, to make sure that they're clearly separate (e.g., Nathan's file on Adrestia is called 'Adrestia NS', Vanessa's file is called 'Adrestia VEE', and the shared file is just called 'Adrestia'). Please keep an eye out on the file titles to make sure that you haven't strayed into the wrong area. The links should keep you within one area, but accidents can happen. 
 
 **A note for editors:** If you have editing access, please only edit your own personal files and files in the Shared Aeturnum Vault, unless you have permission from that folder's owner. Everything is backed up and can be reverted to a prior save, but better safe than sorry!
+# Spoilers and the Graph View
+
+As mentioned above, we will try to avoid spoilers within the Shared Aeturnum Vault, but there may be unmarked spoilers with the Personal Aeturnum Folders.
+
+Obsidian has a function called 'Graph View', which allows you to see the entire vault in one screen. Each node is a different file, and the lines between them show which is linked to which. If you go onto this screen, you will see everything, including the content in the Personal Aeturnum Folders. For this reason, please navigate that screen with care. 
 # Recording Player Characters
 
 We would like to create a record of all the player characters (PC) that have graced Aeturnum. We are collecting your stories and compiling them into two files; [[The Riftborn, Remembered]] for Campaign 1, and [[Wayfarers Worldwide]] for Campaign 2. Here you can find details on every PC that we've recorded so far. If you would like to contribute details about your character, or other characters you can remember vividly, please send us a message and we'll add your details. 
@@ -84,19 +90,19 @@ For the most complete information, be sure to check [Obsidian's own resources](h
 
 For basic formatting, use the following;
 - Bullet points - Start the paragraph with a - symbol
-- *Italics* - surround the text you want to bold with one asterisk on each side
-- **BOLD** - surround the text you want to bold with two asterisks on each side
+- *Italics* - surround the text you want to bold with *one* asterisk on each side
+- **BOLD** - surround the text you want to bold with **two** asterisks on each side
 - <u>Underline</u> - Place the text you want underlined between \<u> and \</u>
 - ~~Strikethrough~~ - Surround the text you want struck through with two ~ on either side
 - ==Highlight== - Surround the text you want highlighted with two = on either side
 ## Headers
 
-To create headers, you input a hash for the level of header you want. E.g., one # is Header 1, ## is Header 2, and so on. 
+To create headers, you input a hash for the level of header you want. E.g., one # is Header 1, ## is Header 2, and so on. This only works if it is the first character on a line.
 ## Internal Links
 
 ### Basic Links
 
-To create a link from one page to another, put the name of the file within two square brackets, \[[ ]]. For example;
+To create a link from one page to another, put the name of the file within two square brackets, \[\[ ]]. For example;
 
 \[\[Wayfarer NPCs]]
 
@@ -104,7 +110,7 @@ Becomes:
 
 [[Wayfarer NPCs]]
 
-If you hold your mouse over a link and press the CTRL key, you'll get a pop up preview of the contents of that file without having to load it. 
+If you hold your mouse over a link and press the CTRL key, you'll get a pop up preview of the contents of that file without having to click into it. 
 
 **IMPORTANT NOTE:** When linking files, make sure you are linking to the correct file. For example, if you're creating a link to Adrestia, make sure you are linking to the 'Adrestia' file that exists within the Shared Aeturnum Vault, not the 'Adrestia NS' file that exists within Nathan's personal folder.
 ### Nicknaming Links
@@ -120,9 +126,9 @@ Becomes:
 If you click the link, it will still take you to the Wayfarer NPCs file.
 ## Combining Headers and Links
 
-By using links in combination with headers, you can create a link that goes to a specific location within another file. To do this, you can use a # within a link. 
+By using links in combination with headers, you can create a link that goes to a specific header within another file. To do this, you can use a hash within a link. 
 
-To link to a specific location within a file, open the double brackets, type the name of the file, then add a hash. After the hash, type the name of the heading that you want to link to. For example;
+To link to a specific header within a file, open the double brackets, type the name of the file, then add a hash. After the hash, type the name of the heading that you want to link to. For example;
 
 \[\[Wayfarer NPCs#Scarlet]]
 
@@ -138,11 +144,11 @@ Becomes:
 
 [[Wayfarer NPCs#Scarlet|Scarlet]]
 
-This link will take you straight to Scarlet's section of 'Wayfarer NPCs' page. It will also highlight all relevant text - click once to dismiss the highlight. If you mouse over a link and click the CTRL key, it will give you a pop up of that specific section of the page. 
+This link will take you straight to Scarlet's section of the 'Wayfarer NPCs' page. It will also highlight all relevant text - click once to dismiss the highlight. If you mouse over a link and click the CTRL key, it will give you a pop up of that specific section of the page. 
 
 ## Creating a Table of Contents
 
-To create a table of contents, or other link that will go to something within the same file, start with double square brackets and add a hash, then write the name of the header you want the link to go to. For example;
+To create a table of contents, or other link that will go to a header within the same file, start with double square brackets and add a hash, then write the name of the header you want the link to go to. For example;
 
 \[\[#Guide to the Folders]]
 
