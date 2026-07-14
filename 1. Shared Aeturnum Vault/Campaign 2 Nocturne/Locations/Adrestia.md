@@ -93,7 +93,7 @@ During the events of Aeturnum 1, this title was held by [[Wayfarer NPCs#Elaric V
 
 Other title holders:
 - Cassandra - Guildmaster of the Justicars during campaign 1 (assumedly succeeded Elaric)
-- [[Other NPCs#Eris Pentaghast|Eris Pentaghast]] (succeeded Cassandra)
+- [[1. Shared Aeturnum Vault/Campaign 2 Nocturne/NPCs/Other NPCs#Eris Pentaghast|Eris Pentaghast]] (succeeded Cassandra)
 ### First Shield
 
 During the events of Aeturnum 1, this title was held by a man named Galadrin.
