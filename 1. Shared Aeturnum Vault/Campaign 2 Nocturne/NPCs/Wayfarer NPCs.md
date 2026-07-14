@@ -11,6 +11,12 @@ tags:
 	- [[#Silas Reiner]]
 - [[#Minor NPCs]]
 
+Template:
+**Species:**
+**Pronouns:**
+**Status:**
+**Location:**
+**Role:**
 # Major NPCs
 
 ## Astra

@@ -18,7 +18,7 @@ This page tracks all the major pieces of technology we have encountered.
 Ships that are capable of flight. They featured heavily in the Aeturnum 1 campaign. So far, the only airship to appear in campaign 2 was the Phospherian Five, flagship of the Adrestian military, which took the heroes of Adrestia to Tisis before being destroyed by Haera during [[00. Prelude, Prologue, Primer#Genesis|Genesis]]. It held the [[#Diluxium Sphere]].
 # Dark Serum
 
-An unknown substance administered to the Wayfarers in order to delay the effects of the [[Lore#Curseblood Plague|Curseblood Plague]]. 
+An unknown substance administered to the Wayfarers in order to delay the effects of the [[C2 Lore#Curseblood Plague|Curseblood Plague]]. 
 # The Diluxium Sphere
 
 An artificial sun, that generates natural sunlight in a range of ten miles, capable of repelling vampires. It was developed by [[The Speakers of Adrestia#Vivian Anelin|Vivian Anelin]] at Typhon Foundry, and was used in the battle against Haera during [[00. Prelude, Prologue, Primer#Genesis|Genesis]]. After being hit by the energy of the sphere, Haera was seemingly disintegrated , but quickly reformed and destroyed the sphere.
@@ -30,7 +30,7 @@ A magical substance that provides the fuel for the Hunter's Tools. They are forg
 Mechanically: on a mission, you have a number of Etheric Cells equal to your proficiency modifier with which to activate whatever you have equipped to your Hunter's Bracer.
 ## Lyria
 
-A powerful and highly volatile magical material that can be used as fuel to power machinery such as airships, and fuel magics. It is being corrupted/depowered by the [[Lore#Worldwound|Worldwound]]. 
+A powerful and highly volatile magical material that can be used as fuel to power machinery such as airships, and fuel magics. It is being corrupted/depowered by the [[C2 Lore#Worldwound|Worldwound]]. 
 # Hunter's Bracer and Hunter's Tools
 
 Hunter's Bracers serve as both an identifying mark for Wayfarer's and as an important tool. The bracer is made from felscorite steel - a lightweight but durable material - with a lattice of protective runes, and marked with the Wayfarer's seal. 
