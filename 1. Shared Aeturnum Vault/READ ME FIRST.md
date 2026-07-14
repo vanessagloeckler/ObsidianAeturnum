@@ -5,6 +5,7 @@ Welcome to the Aeturnum Shared Knowledge Base! This is a collection of notes fro
 **Page Contents**
 - [[#Guide to the Folders]]
 - [[#Contributions]]
+- [[#A Note on AI]]
 - [[#Formatting]]
 # Guide to the Folders
 
@@ -47,6 +48,13 @@ With contributions from:
 - **Gaia** - Clank in campaign 1, Cora in campaign 2
 - **Nathan** - Nut in campaign 1, Aphaéa in campaign 2
 - **Sky** - Vardy the Pirate in campaign 1, Scapula in campaign 2
+# A Note on AI
+
+We ask that any editors of this knowledge base do not upload any AI generated images or other content. If you are sending information to an editor to have uploaded, please respect this request there as well.
+
+AI is bad for the environment, trained on stolen data and IP content. It puts actual creatives out of work in the name of corporate greed, and reenforces all the discriminatory biases of the people that designed it and the source data that fed its algorithm. It will attempt to make a dark-skinned person appear with a lighter skin tone, and will identify queer people as inherently deviant, if it acknowledges that we exist at all. 
+
+AI generated images and videos can also cause distress to some viewers.  
 # Formatting
 
 Everything below is a guide on how to format a file in Obsidian to make it easy to navigate. It's just for the reference of editors, but feel free to read if you're interested in how Obsidian files work. 

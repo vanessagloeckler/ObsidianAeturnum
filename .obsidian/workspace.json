@@ -13,75 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Shared Aeturnum Vault/Campaign 1 - Bloodtide & Masquerade/NPCs/Adrestia NPCs.md",
+                "file": "1. Shared Aeturnum Vault/READ ME FIRST.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adrestia NPCs"
-            }
-          },
-          {
-            "id": "bf166cccb3293eb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Shared Aeturnum Vault/Campaign 2 Nocturne/NPCs/Wayfarer NPCs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wayfarer NPCs"
-            }
-          },
-          {
-            "id": "76edf7386df74b96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Shared Aeturnum Vault/Campaign 1 - Bloodtide & Masquerade/NPCs/C1 Antagonists.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1 Antagonists"
-            }
-          },
-          {
-            "id": "a63dc5bb03c50e7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Shared Aeturnum Vault/Campaign 1 - Bloodtide & Masquerade/NPCs/EIDOLON Agents.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EIDOLON Agents"
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "d309fcc531bf27a8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "13eacc49c2406606",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Personal Aeturnum Folders/Aeturnum (Nathan)/08. Other/03. Elements from Aeturnum 1 NS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03. Elements from Aeturnum 1 NS"
+              "title": "READ ME FIRST"
             }
           }
         ]
@@ -247,13 +184,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a63dc5bb03c50e7a",
+  "active": "956cbab775d2b26e",
   "lastOpenFiles": [
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/08. Other/03. Elements from Aeturnum 1 NS.md",
-    "1. Shared Aeturnum Vault/Campaign 1 - Bloodtide & Masquerade/NPCs/EIDOLON Agents.md",
-    "1. Shared Aeturnum Vault/Campaign 2 Nocturne/NPCs/Wayfarer NPCs.md",
     "1. Shared Aeturnum Vault/Campaign 1 - Bloodtide & Masquerade/NPCs/Adrestia NPCs.md",
+    "1. Shared Aeturnum Vault/Campaign 2 Nocturne/NPCs/Wayfarer NPCs.md",
     "1. Shared Aeturnum Vault/Campaign 1 - Bloodtide & Masquerade/NPCs/C1 Antagonists.md",
+    "1. Shared Aeturnum Vault/Campaign 1 - Bloodtide & Masquerade/NPCs/EIDOLON Agents.md",
+    "1. Shared Aeturnum Vault/Campaign 2 Nocturne/Locations/Adrestia.md",
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/03. NPCs/Neutral or Unknown/Other NPCs NS.md",
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/08. Other/03. Elements from Aeturnum 1 NS.md",
     "1. Shared Aeturnum Vault/Campaign 1 - Bloodtide & Masquerade/Lore/C1 Lore.md",
     "1. Shared Aeturnum Vault/Campaign 2 Nocturne/Lore/C2 Lore.md",
     "1. Shared Aeturnum Vault/Campaign 1 - Bloodtide & Masquerade/Quest Boards and Narratives",
@@ -265,7 +204,6 @@
     "1. Shared Aeturnum Vault/Campaign 2 Nocturne/Locations/Tisis.md",
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/05. Locations/Tisis/Tisis NS.md",
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/05. Locations/Esos/Esos NS.md",
-    "1. Shared Aeturnum Vault/Campaign 2 Nocturne/Locations/Adrestia.md",
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/05. Locations/Esos/Adrestia NS.md",
     "1. Shared Aeturnum Vault/Campaign 2 Nocturne/Lore/Technology.md",
     "1. Shared Aeturnum Vault/Campaign 2 Nocturne/NPCs/Other NPCs.md",
@@ -278,7 +216,6 @@
     "1. Shared Aeturnum Vault/Campaign 2 Nocturne/Lore/Worldwound.md",
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/04. Lore/Curseblood Plague NS.md",
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/03. NPCs/Neutral or Unknown/Victims of the Genesis Expedition NS.md",
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/03. NPCs/Neutral or Unknown/Other NPCs NS.md",
     "1. Shared Aeturnum Vault/Campaign 2 Nocturne/Lore",
     "1. Shared Aeturnum Vault/Campaign 2 Nocturne/Locations",
     "1. Shared Aeturnum Vault/Campaign 2 Nocturne/Gameplay Mechanics",
