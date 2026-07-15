@@ -7,7 +7,7 @@ Tags: #PCs
 **Level:** 3
 
 **Sessions:**
-- [[0.2 Requiem NS]]
+- [[0.2 Requiem NS|Requiem]]
 
 **Physical description:** Tall, long braided hair, wears furs, vine tattoos over body, wears deer's antlers
 

@@ -7,7 +7,7 @@ Tags: #PCs
 **Level:** 3
 
 **Sessions:**
-- [[0.2 Requiem NS]]
+- [[0.2 Requiem NS|Requiem]]
 
 **Physical description:** Soldiers uniform, tall, muscular
 

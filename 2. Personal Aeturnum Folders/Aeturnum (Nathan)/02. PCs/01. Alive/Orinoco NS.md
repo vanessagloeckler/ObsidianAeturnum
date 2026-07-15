@@ -46,9 +46,9 @@ Wildshape:
 # Events of Nocturne
 
 Session Notes - Orinoco's Journal
-- [[0.2 Requiem NS]] - [[The Tree Remembers NS]]
-- [[0.3 Initiation NS]] - [[Mock a Crocodile NS]]
-- [[1.4 Anathema NS]] - [[The River and the Sea are One NS]] (One Star Sign unidentified)
+- [[0.2 Requiem NS|Requiem]] - [[The Tree Remembers NS|The Tree Remembers]]
+- [[0.3 Initiation NS|Initiation]] - [[Mock a Crocodile NS|Mock a Crocodile]]
+- [[1.4 Anathema NS|Anathema]] - [[The River and the Sea are One NS|The River and the Sea are One]] (One Star Sign unidentified)
 
 # Views on NPCs
 
@@ -60,7 +60,6 @@ Session Notes - Orinoco's Journal
 **Scarlet** - Waning desire due to Scarlet's cavalier attitude towards the memory loss we're experiencing. Orinoco believes Scarlet to be responsible for the memory loss, given that Scarlet was her commanding officer during the mission that it happened on.
 **Theolyn Esmond** - Grief for a friend she can't remember.
 **Silas Reiner** - Desire.
-
 # Orinoco's Star Map
 
 | D100 | Constellation  | Appearance                                                              | Meaning                                                 | Source                                                                          | Total | Sm  | Md  | Lg  |
@@ -73,7 +72,7 @@ Session Notes - Orinoco's Journal
 |  6   | Stagnant Pool  | Long straight line with small lines pulled down                         | **Stagnation:** Those who remain stationary are lost.   | Celestial Revalation                                                            | 21    | 21  | 0   | 0   |
 |  7   | Angelus        | Angel-like humanoid                                                     | **Loss:** Forget not those who fell before the end.     | [[Theolyn Esmond NS]]                                                           | 12    | 7   | 2   | 3   |
 |  8   | Harlequin Mask | A spiked crown with two large stars for eyes                            | **Mischief:** To cause havoc with no greater purpose.   | [[Haera's Forces NS#Malice (The Harlequin)\|The Harlequin]]                     | 19    | 12  | 5   | 2   |
-|  9   | Lily           |                                                                         | **Innocence**: No one else will have to feel this pain. | [[Adrestia NPCs NS#Luke and his nameless sister\|Luke and his Nameless Sister]] |       |     |     |     |
+|  9   | Lily           | Two rings around two large stars                                        | **Innocence**: No one else will have to feel this pain. | [[Adrestia NPCs NS#Luke and his nameless sister\|Luke and his Nameless Sister]] | 14    | 6   | 6   | 2   |
 # Playlist
 
 Last song added: 500 Miles - Peter, Paul, and Mary
@@ -120,11 +119,11 @@ Last song added: 500 Miles - Peter, Paul, and Mary
 - 500 Miles - Peter, Paul, and Mary
 - If This Tour Doesn't Kill You, I Will - Pup
 ### Relationships/Narrative
-- Who Is She? - I Monster - [[Cora NS]]
+- Who Is She? - I Monster - [[Cora NS|Cora]]
 - Passing Afternoon - Iron & Wine - Orinoco's Mother
 - Trauma Olympics - James the 7th
 - My Type - Saint Motel (Lovers)
-- Black Hole Sun - Soundgarden ([[Haera Agelamorn NS]]/[[Worldwound NS]])
+- Black Hole Sun - Soundgarden ([[Haera Agelamorn NS|Haera]]/[[Worldwound NS|Worldwound]])
 ## Other Vibes
 ### General Nature-y Vibes
 - The Moss - Cosmo Sheldrake

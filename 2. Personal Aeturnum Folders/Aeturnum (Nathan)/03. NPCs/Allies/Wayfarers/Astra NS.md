@@ -6,6 +6,7 @@ Tags: #NPCs
 **Location:** The Wayfarer's Convoy, Armoury Wagon
 # Basics
 # Appearances
+- [[0.3 Initiation NS|Initiation]]
 # Physical Appearance
 
 They are an androgynous humanoid of undetermined species and unplaceable accent. Their skin has a strange blue glow to it. 

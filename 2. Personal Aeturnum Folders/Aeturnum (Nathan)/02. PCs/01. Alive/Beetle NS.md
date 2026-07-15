@@ -7,8 +7,8 @@ Tags: #PCs
 **Level:** 3
 
 **Sessions:**
-- [[0.2 Requiem NS]]
-- [[0.3 Initiation NS]]
+- [[0.2 Requiem NS|Requiem]]
+- [[0.3 Initiation NS|Initiation]]
 
 **Physical description:** 2ft. tall, grizzled, about 60 years old, masculine, bald on top with long white hair around the sides
 

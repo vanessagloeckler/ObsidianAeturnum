@@ -7,7 +7,7 @@ Tags: #PCs
 **Level:** 3
 
 **Sessions:**
-- [[0.2 Requiem NS]]
+- [[0.2 Requiem NS|Requiem]]
 
 **Physical description:** Red and white stripes, very tall and lanky, wears 20cm heels
 

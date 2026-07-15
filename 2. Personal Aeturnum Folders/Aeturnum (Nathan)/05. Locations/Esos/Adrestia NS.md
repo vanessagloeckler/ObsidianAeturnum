@@ -26,13 +26,13 @@ Tags:
 	- [[#First Blade & First Shield]]
 # Basics
 
-Setting of the original Aeturnum campaign, and origin of the [[Wayfarer’s Guild NS]].
+Setting of the original Aeturnum campaign, and origin of the [[Wayfarer’s Guild NS|Wayfarer's Guild]].
 
 As per the map in the Riftborn Journal, the symbol of Adrestia is two old fashioned keys, crossed together. 
 # Districts
 ## Brigmore Commons
 
-A working class district in the west of Adrestia, filled with workshops and workhouses, supply stores for tradespeople, and taverns. The Occultist's Guild public-facing base of operations is located here. As of the time of Aeturnum 2, it has become plagued with an unusually high number of people suffering from the [[Petrification Curse NS]]. 
+A working class district in the west of Adrestia, filled with workshops and workhouses, supply stores for tradespeople, and taverns. The Occultist's Guild public-facing base of operations is located here. As of the time of Aeturnum 2, it has become plagued with an unusually high number of people suffering from the [[Petrification Curse NS|Petrification Curse]]. 
 
 Locations within Brigmore Commons (A2 Only):
 - The Occultist Guild's headquarters
@@ -96,7 +96,7 @@ Items developed:
 - VR system seen in Aeturnum 1's 'Playtest' Questboard
 ## The Wayfarer's Guild
 
-See [[Wayfarer’s Guild NS]].
+See [[Wayfarer’s Guild NS|Wayfarer's Guild]].
 # Culture
 ## First Blade & First Shield
 
@@ -105,11 +105,11 @@ Ceremonial titles, identifying major commanding officers of the forces of Adrest
 Whether these titles still exist, and who holds them, is presently unknown. 
 ### First Blade
 
-During the events of Aeturnum 1, this title was held by [[Elaric Valent NS]].
+During the events of Aeturnum 1, this title was held by [[Elaric Valent NS|Elaric]].
 
 Other title holders:
 - [[Other NPCs NS#Cassandra|Cassandra]] (assumedly succeeded Elaric)
-- [[Eris Pentaghast NS]] (succeeded Cassandra)
+- [[Eris Pentaghast NS|Eris Pentaghast]] (succeeded Cassandra)
 ### First Shield
 
 During the events of Aeturnum 1, this title was held by Galadrin. Galadrin was an NPC [[03. Elements from Aeturnum 1 NS#Riftborn|Riftborn]] and was assumedly returned to his home reality. 

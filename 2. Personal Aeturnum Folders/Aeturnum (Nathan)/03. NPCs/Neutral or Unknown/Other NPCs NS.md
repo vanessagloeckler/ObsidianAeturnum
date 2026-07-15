@@ -10,7 +10,7 @@ Species: Unknown
 
 An ally of the Riftborn and the [[Adrestia NS#Major Guilds The Justicars|Justicar's Guild]] leader during the events of Aeturnum 1.
 
-At some point after Aeturnum 1, she became the [[Adrestia NS#First Blade|First Blade]], assumedly succeeding Elaric. However, she vacated this position prior to the events of [[0.1. Genesis (Prelude) NS|Genesis]], and was succeeded by [[Eris Pentaghast NS]].
+At some point after Aeturnum 1, she became the [[Adrestia NS#First Blade|First Blade]], assumedly succeeding Elaric. However, she vacated this position prior to the events of [[0.1. Genesis (Prelude) NS|Genesis]], and was succeeded by [[Eris Pentaghast NS|Eris Pentaghast]].
 # Ves Talshen
 
 Current Status: Unknown, last seen in [[0.1. Genesis (Prelude) NS|Genesis]]

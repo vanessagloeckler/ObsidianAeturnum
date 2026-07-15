@@ -5,8 +5,8 @@ Tags: #NPCs
 **Status:** Alive
 **Location:** The Wayfarer's Convoy
 # Appearances
-- [[0.2 Requiem NS]]
-- [[0.3 Initiation NS]]
+- [[0.2 Requiem NS|Requiem]]
+- [[0.3 Initiation NS|Initiation]]
 # Physical Appearance
 
 Artificial red hair, cut short and jagged, as though cut with a knife. Typically wears leather armour.
@@ -15,14 +15,14 @@ Artificial red hair, cut short and jagged, as though cut with a knife. Typically
 Scarlet seems abrasive and projects an aura of disregard for her allies, but her actions suggest a deeper concern. During the events of Requiem, she and Henrietta placed themselves in front of a horde of bloodkin in order to give her squad more time to escape.
 # Connection to the Wayfarers
 
-She is a commander of the [[Wayfarer’s Guild NS]].
+She is a commander of the [[Wayfarer’s Guild NS|Wayfarer's Guild]].
 
-[[Abyssian NS]] used detect thoughts on Scarlet and discovered some deeper nature to her relationship with Elaric.
+[[Abyssian NS|Abyssian]] used detect thoughts on Scarlet and discovered some deeper nature to her relationship with Elaric.
 # Connection to other NPCs
 
-[[Astra NS]] - It seems that Scarlet doesn't like going near Astra, and Astra believes that Scarlet has been stealing lyria to sell.
-[[Elaric Valent NS]] - As Guild Master, Elaric is her commanding officer. On the surface, she seems to dislike him, but there seems to be some deeper connection. 
-[[Henrietta NS]] - Seems to have a close bond, fights together
+[[Astra NS|Astra]] - It seems that Scarlet doesn't like going near Astra, and Astra believes that Scarlet has been stealing lyria to sell.
+[[Elaric Valent NS|Elaric]] - As Guild Master, Elaric is her commanding officer. On the surface, she seems to dislike him, but there seems to be some deeper connection. 
+[[Henrietta NS|Henrietta]] - Seems to have a close bond, fights together
 # Other Notes
 
 Smoker. 

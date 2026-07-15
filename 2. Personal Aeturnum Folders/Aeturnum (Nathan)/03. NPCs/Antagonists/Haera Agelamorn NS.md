@@ -14,17 +14,17 @@ aliases:
 - [[#Abilities]]
 # Basics
 
-The leader of the vampires and ruler of [[Tisis NS]]. She is responsible for opening the [[Worldwound NS]], and seems to be connected to it, though whether she has control over it is presently unknown. She was attempting to do something - perform some powerful magic - when she caused it to open. 
+The leader of the vampires and ruler of [[Tisis NS|Tisis]]. She is responsible for opening the [[Worldwound NS|Worldwound]], and seems to be connected to it, though whether she has control over it is presently unknown. She was attempting to do something - perform some powerful magic - when she caused it to open. 
 # Appearances
 - [[03. Elements from Aeturnum 1 NS#Severance|Severance]]
-- [[0.1. Genesis (Prelude) NS]]
-- [[0.2 Requiem NS]]
+- [[0.1. Genesis (Prelude) NS|Genesis]]
+- [[0.2 Requiem NS|Requiem]]
 # Physical Appearance
 
 Deeply unnatural. Tall, blonde/silver hair, pale to the point of being almost white, impossibly curvy with 'them big unnatural' breasts. Wears slender, silky clothes.
 # Connection to the Wayfarers
 
-The events of [[0.2 Requiem NS|Requiem]] have resulted in Haera becoming linked to all PC Wayfarers (and possibly NPC Wayfarers) via the [[Curseblood Plague NS]]. She is capable of psychically communicating with us, seemingly without restraint or limit, and has some amount of knowledge about where we are and what we're doing. She's also capable of inflicting physical/mental pain on us from an unknown distance. 
+The events of [[0.2 Requiem NS|Requiem]] have resulted in Haera becoming linked to all PC Wayfarers (and possibly NPC Wayfarers) via the [[Curseblood Plague NS|Curseblood Plague]]. She is capable of psychically communicating with us, seemingly without restraint or limit, and has some amount of knowledge about where we are and what we're doing. She's also capable of inflicting physical/mental pain on us from an unknown distance. 
 # Abilities
 
 Abilities in combat:
@@ -37,7 +37,7 @@ Abilities in combat:
 
 Other Abilities:
 - Is psychically linked to anyone suffering from the Curseblood Plague. The limits and range of this are unknown. 
-- Can trigger regeneration in others, including the living - While torturing [[Eris Pentaghast NS]], she force-fed Eris her own flesh, then made it regenerate
+- Can trigger regeneration in others, including the living - While torturing [[Eris Pentaghast NS|Eris Pentaghast]], she force-fed Eris her own flesh, then made it regenerate
 - Alteration of reality (may be exclusive to Rory) - Haera offered deals to players, allowing them to reroll/auto-succeed on failed efforts in exchange for taking a tarot card. The card would later be cashed in to negate abilities the player sought to use. 
 
 Possible weaknesses;

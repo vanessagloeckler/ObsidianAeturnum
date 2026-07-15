@@ -1,6 +1,6 @@
 Tags: #NPCs 
 
-During the events of [[0.1. Genesis (Prelude) NS|Genesis]], [[Haera Agelamorn NS]] slaughtered the entire [[Victims of the Genesis Expedition NS|expedition]], enthralling them all and adding them to her undead army. From these ranks, she selected five lieutenants to return to [[Adrestia NS]] and destroy it.
+During the events of [[0.1. Genesis (Prelude) NS|Genesis]], [[Haera Agelamorn NS|Haera Agelamorn]] slaughtered the entire [[Victims of the Genesis Expedition NS|expedition]], enthralling them all and adding them to her undead army. From these ranks, she selected five lieutenants to return to [[Adrestia NS|Adrestia]] and destroy it.
 
 The Lieutenants:
 - [[#Elowen Argall]]

@@ -18,7 +18,7 @@ Unique NPCs
 
 Described as grotesque monsters with too many teeth. They are created when a humanoid is placed into a [[Technology NS#Coffin-like Tanks|coffin-like tank]] and pumped full of vampiric blood.
 
-Creatures called Bloodkin also featured heavily in [[03. Elements from Aeturnum 1 NS#Bloodtide|Bloodtide]]. Similarities currently unknown, but they are both directly linked to [[The Outer God of Blood NS]].
+Creatures called Bloodkin also featured heavily in [[03. Elements from Aeturnum 1 NS#Bloodtide|Bloodtide]]. Similarities currently unknown, but they are both directly linked to [[The Outer God of Blood NS|The Outer God of Blood]].
 
 **AC:** 13
 **HP:** Less than 18
@@ -58,7 +58,7 @@ Abilities:
 # Unique NPCs
 ## The Five Lieutenants
 
-Five victims of the [[0.1. Genesis (Prelude) NS|Genesis Expedition]] that were converted into undead creatures and appointed as leaders of Haera's forces. See [[Five Lieutenants NS]].
+Five victims of the [[0.1. Genesis (Prelude) NS|Genesis Expedition]] that were converted into undead creatures and appointed as leaders of Haera's forces. See [[Five Lieutenants NS|Five Lieutenants]].
 ## Malice (The Harlequin)
 
 A unique and powerful enemy with multiple abilities. They were first encountered during [[0.3 Initiation NS|Initiation training]], where they were in the process of killing multiple wayfarers, including Elaria. Malice appears sentient and capable of independent action. They are dressed in black studded leather armour, with tattered blood-red rags and a harlequin's mask.
@@ -75,7 +75,7 @@ Abilities include;
 Confirmed Kills:
 - [[Minor Wayfarer NPCs NS#Elaria|Elaria]]
 - Three unknown Wayfarers during [[0.3 Initiation NS|Initiation]]
-- [[Beetle NS]] (first death)
+- [[Beetle NS|Beetle]] (first death)
 ## Warden & Witch
 
 Encountered during the initial raid on [[Tisis NS#Aernoc Palace|Aernoc Palace]] during the events of [[0.1. Genesis (Prelude) NS|Genesis]]. An ogre-like armoured creature (Warden), who held a shrieking undead corpse (Witch) chained to a poll. They moved as one and acted as one, but had two separate ACs and hit points.

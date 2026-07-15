@@ -9,7 +9,7 @@ tags:
 **Level:** 3
 
 **Sessions:**
-- [[1.4 Anathema NS]]
+- [[1.4 Anathema NS|Anathema]]
 
 **Physical description:**
 

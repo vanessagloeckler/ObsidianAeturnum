@@ -20,18 +20,18 @@ aliases:
 **Location:** The Wayfarer's Convoy
 # Appearances
 - Elaric featured heavily in the events of Aeturnum 1's second narrative arc, [[03. Elements from Aeturnum 1 NS#Masquerade|Masquerade]].
-- [[0.2 Requiem NS]]
+- [[0.2 Requiem NS|Requiem]]
 # Physical Appearance
 
 Tall, slender figure, long silver/blonde hair.
 # Connection to the Wayfarers
 
-Guild Master of the [[Wayfarer’s Guild NS]].
+Guild Master of the [[Wayfarer’s Guild NS|Wayfarer's Guild]].
 # Connection to other NPCs
 
 Commanding officer of:
-- [[Scarlet NS]]
-- [[Silas Reiner NS]]
+- [[Scarlet NS|Scarlet]]
+- [[Silas Reiner NS|Silas Reiner]]
 # Aeturnum 1 Backstory
 
 Elaric Valent was the [[Adrestia NS#First Blade|First Blade]] of Adrestia during the events of Aeturnum 1, and a major player in the Masquerade narrative arc. 
