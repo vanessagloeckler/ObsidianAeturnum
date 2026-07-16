@@ -11,10 +11,14 @@
             "id": "55550c11ca0a1f59",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Campaign 1 - Bloodtide & Masquerade/Lore/C1 Lore.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "C1 Lore"
             }
           }
         ]

@@ -146,6 +146,8 @@ Becomes:
 
 This link will take you straight to Scarlet's section of the 'Wayfarer NPCs' page. It will also highlight all relevant text - click once to dismiss the highlight. If you mouse over a link and click the CTRL key, it will give you a pop up of that specific section of the page. 
 
+**NOTE:** You only need to use a single hash for this, regardless of the level of Header you're linking to. 
+
 ## Creating a Table of Contents
 
 To create a table of contents, or other link that will go to a header within the same file, start with double square brackets and add a hash, then write the name of the header you want the link to go to. For example;
