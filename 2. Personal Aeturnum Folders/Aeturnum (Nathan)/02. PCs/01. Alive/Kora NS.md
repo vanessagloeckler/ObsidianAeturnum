@@ -1,6 +1,6 @@
 Tags: #PCs 
 
-**Character Name:** Cora
+**Character Name:** Kora
 **Character Pronouns:** She/Her(?)
 **Class:** Grave Domain Cleric
 **Species:** Chthonic Tiefling

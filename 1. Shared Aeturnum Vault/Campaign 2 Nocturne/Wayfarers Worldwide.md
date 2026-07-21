@@ -81,7 +81,7 @@ Drow Diviner Wizard
 ## Cassian
 
 Human Archfey Patron Warlock
-## Cora
+## Kora
 
 Chthonic Tiefling Grave Domain Cleric
 ## Crag

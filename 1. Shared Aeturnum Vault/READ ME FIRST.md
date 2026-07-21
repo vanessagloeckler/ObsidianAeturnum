@@ -61,7 +61,7 @@ With contributions from:
 - **Arnand** - Klump the Flumpf in campaign 1, Brick in campaign 2
 - **Charles** - Scrud in campaign 1, Cogwin in campaign 2
 - **Luke** - Gizmo/Igor in campaign 1, Beetle in campaign 2
-- **Gaia** - Clank in campaign 1, Cora in campaign 2
+- **Gaia** - Clank in campaign 1, Kora in campaign 2
 - **Nathan** - Nut in campaign 1, Aphaéa in campaign 2
 - **Sky** - Vardy the Pirate in campaign 1, Scapula in campaign 2
 # A Note on AI

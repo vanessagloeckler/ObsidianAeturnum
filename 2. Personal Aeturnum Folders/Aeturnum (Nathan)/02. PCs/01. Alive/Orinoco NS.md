@@ -119,7 +119,7 @@ Last song added: 500 Miles - Peter, Paul, and Mary
 - 500 Miles - Peter, Paul, and Mary
 - If This Tour Doesn't Kill You, I Will - Pup
 ### Relationships/Narrative
-- Who Is She? - I Monster - [[Cora NS|Cora]]
+- Who Is She? - I Monster - [[Kora NS|Kora]]
 - Passing Afternoon - Iron & Wine - Orinoco's Mother
 - Trauma Olympics - James the 7th
 - My Type - Saint Motel (Lovers)
