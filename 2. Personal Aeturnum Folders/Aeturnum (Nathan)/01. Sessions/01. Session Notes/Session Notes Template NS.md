@@ -13,6 +13,8 @@ tags:
 **GM:**
 ## PCs
 
+Name (pronouns) - Subclass Class - Species
+
 ## NPCs
 
 Allies;
@@ -21,9 +23,9 @@ Enemies;
 
 # Stars Drawn
 
-Card 1:
-Card 2:
-Card 3:
+**Star 1:**
+**Star 2:**
+**Star 3:**
 
-Interpretation:
+**Interpretation:**
 # Summary

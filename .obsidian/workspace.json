@@ -27,16 +27,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Shared Aeturnum Vault/Campaign 2 Nocturne/Wayfarers Worldwide.md",
+                "file": "2. Personal Aeturnum Folders/Aeturnum (Nathan)/01. Sessions/02. Orinoco's Journals/The River and the Sea are One NS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wayfarers Worldwide"
+              "title": "The River and the Sea are One NS"
+            }
+          },
+          {
+            "id": "5539037d36c1c3d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Personal Aeturnum Folders/Aeturnum (Nathan)/01. Sessions/01. Session Notes/1.2 Hearts of Stone.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.2 Hearts of Stone"
+            }
+          },
+          {
+            "id": "58bf5e43314b9b56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Personal Aeturnum Folders/Aeturnum (Nathan)/01. Sessions/02. Orinoco's Journals/Carving my Own Path NS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Carving my Own Path NS"
+            }
+          },
+          {
+            "id": "03c9ee4000a60b73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Personal Aeturnum Folders/Aeturnum (Nathan)/02. PCs/01. Alive/Orinoco NS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Orinoco NS"
+            }
+          },
+          {
+            "id": "46c32b5739d04c14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Personal Aeturnum Folders/Aeturnum (Nathan)/01. Sessions/02. Orinoco's Journals/The Tree Remembers NS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Tree Remembers NS"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -68,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Cora",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +145,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,13 +255,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "858b4e004fa34e7b",
+  "active": "03c9ee4000a60b73",
   "lastOpenFiles": [
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/01. Sessions/02. Orinoco's Journals/Carving my Own Path NS.md",
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/01. Sessions/02. Orinoco's Journals/Mock a Crocodile NS.md",
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/01. Sessions/02. Orinoco's Journals/00. Journal Template NS.md",
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/01. Sessions/02. Orinoco's Journals/The Tree Remembers NS.md",
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/01. Sessions/01. Session Notes/Session Notes Template NS.md",
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/01. Sessions/01. Session Notes/1.2 Hearts of Stone.md",
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/01. Sessions/01. Session Notes/1.4 Anathema NS.md",
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/01. Sessions/01. Session Notes/1.2 Hearts of Stone NS.md",
+    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/01. Sessions/02. Orinoco's Journals/The River and the Sea are One NS.md",
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/02. PCs/01. Alive/Orinoco NS.md",
+    "1. Shared Aeturnum Vault/Campaign 2 Nocturne/Wayfarers Worldwide.md",
     "1. Shared Aeturnum Vault/READ ME FIRST.md",
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/01. Sessions/01. Session Notes/0.3 Initiation NS.md",
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/02. PCs/01. Alive/Kora NS.md",
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/01. Sessions/02. Orinoco's Journals/Mock a Crocodile NS.md",
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/08. Other/99. The Riftborn NS.md",
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/08. Other/07. Differences Between Tables NS.md",
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/08. Other/06. Timeline NS.md",
@@ -219,15 +283,6 @@
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/06. Organisations/The Nine NS.md",
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/06. Organisations/Speakers NS.md",
     "2. Personal Aeturnum Folders/Aeturnum (Nathan)/05. Locations/Tisis NS.md",
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/05. Locations/Esos/Adrestia NS.md",
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/04. Lore/Worldwound NS.md",
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/04. Lore/Vampirism NS.md",
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/04. Lore/The Outer God of Blood NS.md",
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/04. Lore/Technology NS.md",
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/04. Lore/Petrification Curse NS.md",
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/04. Lore/Memory Loss NS.md",
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/04. Lore/Curseblood Plague NS.md",
-    "2. Personal Aeturnum Folders/Aeturnum (Nathan)/03. NPCs/Neutral or Unknown/Victims of the Genesis Expedition NS.md",
     "Untitled.canvas",
     "1. Shared Aeturnum Vault/Campaign 1 - Bloodtide & Masquerade/Quest Boards and Narratives",
     "1. Shared Aeturnum Vault/Campaign 1 - Bloodtide & Masquerade/NPCs",
